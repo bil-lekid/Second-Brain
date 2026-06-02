@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fd0a3121356659a4",
+        "id": "d7c993394d713f6b",
         "type": "tabs",
         "children": [
           {
-            "id": "0dc9eeafb01dba74",
+            "id": "452d7d5a6cd4354f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "bases",
               "state": {
-                "aFile": "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
-                "bFile": "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
-                "aRef": ""
+                "file": "2. Areas/Business/Standard Operating Document/Standard Operating Document Base.base",
+                "viewName": "Table"
               },
-              "icon": "diff",
-              "title": "Diff: _Index  (Working Tree)"
+              "icon": "lucide-table",
+              "title": "Standard Operating Document Base"
             }
           }
         ]
@@ -115,8 +114,8 @@
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              "icon": "lucide-ghost",
+              "title": "outgoing-link"
             }
           },
           {
@@ -130,8 +129,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "icon": "lucide-ghost",
+              "title": "tag"
             }
           },
           {
@@ -154,16 +153,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2. Areas/Business/Standard Operating Document/Standard Operating Document Base.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Standard Operating Document Base"
             }
           },
           {
-            "id": "70ebff308c666007",
+            "id": "74b397f815671e56",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -182,6 +182,12 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
+      "publish:Publish changes...": false,
+      "templater-obsidian:Templater": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -191,8 +197,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "0dc9eeafb01dba74",
+  "active": "452d7d5a6cd4354f",
   "lastOpenFiles": [
+    "Base.base",
+    "0. Fleeting/Pr - Buat Webform Supplier isi data Supplier.md",
+    "0. Fleeting/The Easy Way to Stop Smoking.md",
     "MOCs/Tags/Tag - Books.md",
     "MOCs/Tags/Tag - Administration.md",
     "MOCs/Tags/Tag - Writing.md",
@@ -228,9 +237,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/V.2. Proses Rekrutmen.md",
     "2. Areas/Business/Standard Operating Document/SOPs/IV.3. Menanyakan-mencari harga ke supplier baru..md",
     "2. Areas/Business/Standard Operating Document/SOPs/III.9 Membuat Sales Order ERPNEXT.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/IV.2. Pengambilan dan Penerimaan Barang supplier..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/IV.1. Pengantaran Barang ke pelanggan..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.8. Pencatatan Penjualan..md",
     "2. Areas/Business/Standard Operating Document/SOPs"
   ]
 }
