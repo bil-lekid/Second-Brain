@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a8ce9e1c9faf67fc",
+        "id": "ce5c4f07bfec77b4",
         "type": "tabs",
         "children": [
           {
-            "id": "8b4bf649d33e13b0",
+            "id": "49a6eeb60324e842",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": "readme.md",
+                "bFile": "readme.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "Diff: readme  (Working Tree)"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b274ef5931c18c1",
@@ -205,9 +206,10 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "8b4bf649d33e13b0",
+  "active": "74b397f815671e56",
   "lastOpenFiles": [
     "readme.md",
+    "START HERE.md",
     "index.md",
     "Base.base",
     "conflict-files-obsidian-git.md",
@@ -249,7 +251,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/III.5. Membuat Tanda Terima.md",
     "2. Areas/Business/Standard Operating Document/SOPs/IV.1. Pengantaran Barang ke pelanggan..md",
     "2. Areas/Business/Standard Operating Document/Standard Operating Document.md",
-    "2. Areas/Business/Standard Operating Document/Prinsip Kerja - General Operating Principles.md",
     "site-lib/media/favicon.png",
     "site-lib/media/6155340132a851f6089e.svg",
     "site-lib/media/2308ab1944a6bfa5c5b8.svg"
