@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d7c993394d713f6b",
+        "id": "a8ce9e1c9faf67fc",
         "type": "tabs",
         "children": [
           {
-            "id": "452d7d5a6cd4354f",
+            "id": "8b4bf649d33e13b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "2. Areas/Business/Standard Operating Document/SOPs/III.2. Prosedur Arsip Nota dan DO Pembelian..md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "III.2. Prosedur Arsip Nota dan DO Pembelian."
-            }
-          },
-          {
-            "id": "41bfc1bb4d18a41e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Areas/Business/Standard Operating Document/SOPs/I.3. Menerima nota, tagihan, dan Surat Jalan..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "I.3. Menerima nota, tagihan, dan Surat Jalan."
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -92,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200
   },
   "right": {
     "id": "3b274ef5931c18c1",
@@ -193,8 +179,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           }
         ],
@@ -209,10 +195,6 @@
       "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
-      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -223,8 +205,14 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "74b397f815671e56",
+  "active": "8b4bf649d33e13b0",
   "lastOpenFiles": [
+    "readme.md",
+    "index.md",
+    "Base.base",
+    "conflict-files-obsidian-git.md",
+    "0. Fleeting/ How to Sync Obsidian Notes for FREE on iPhone, iPad, and Android .md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.2. Prosedur Arsip Nota dan DO Pembelian..md",
     "2. Areas/Business/Standard Operating Document/SOPs/III.1. Membuat Penawaran Harga (PH)..md",
     "2. Areas/Business/Standard Operating Document/SOPs/II.5. Penjualan pada toko.md",
     "2. Areas/Business/Standard Operating Document/SOPs/II.4. Customer Relation Manager (CRM).md",
@@ -237,7 +225,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/I.3. Menerima nota, tagihan, dan Surat Jalan..md",
     "2. Areas/Business/Standard Operating Document/SOPs/I.2. Delivery Order (DO) - Pesan Barang.md",
     "2. Areas/Business/Standard Operating Document/SOPs/I.1. Menerima Purchase Order (PO) dan Organisasi PO.md",
-    "index.md",
     "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
     "2. Areas/Business/Standard Operating Document/SOPs/_ERPNext SOP Review.md",
     "_daily notes/2026/06/2026-06-02.md",
@@ -251,7 +238,6 @@
     "Git Page/site-lib/scripts/graph-wasm.wasm",
     "Git Page/site-lib/fonts/c504db5c06caaf7cdfba.woff2",
     "Git Page/site-lib/scripts/graph-wasm.js",
-    "Git Page/site-lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "Git Page/site-lib/media/favicon.png",
     "Git Page/site-lib/media/6155340132a851f6089e.svg",
     "Git Page/site-lib/media/2308ab1944a6bfa5c5b8.svg",
@@ -264,10 +250,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/IV.1. Pengantaran Barang ke pelanggan..md",
     "2. Areas/Business/Standard Operating Document/Standard Operating Document.md",
     "2. Areas/Business/Standard Operating Document/Prinsip Kerja - General Operating Principles.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.9 Membuat Sales Order ERPNEXT.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.2. Prosedur Arsip Nota dan DO Pembelian..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/V.3. Sistem masukan-opini (feedback).md",
-    "2. Areas/Business/Standard Operating Document/SOPs/V.2. Proses Rekrutmen.md",
     "site-lib/media/favicon.png",
     "site-lib/media/6155340132a851f6089e.svg",
     "site-lib/media/2308ab1944a6bfa5c5b8.svg"
