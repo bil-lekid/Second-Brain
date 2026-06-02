@@ -1,3 +1,4 @@
+
 6/2/2026 third try ini kok jadi aneh banget ya
 6/2/2026 second try with git but in Ipad
 6/2/2026 first try with git
