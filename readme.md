@@ -1,3 +1,4 @@
+6/2/2026 second try with git but in Ipad
 6/2/2026 first try with git
 
 this is one of the many notes created in this vault. The process will be:

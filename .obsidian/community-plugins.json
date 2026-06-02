@@ -1,12 +1,10 @@
 [
-  "obsidian-global-hotkeys",
   "quickadd",
   "templater-obsidian",
   "waypoint",
   "dataview",
   "smart-connections",
   "smart-chatgpt",
-  "remotely-save",
   "obsidian-git",
   "webpage-html-export"
 ]
