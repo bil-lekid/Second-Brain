@@ -6,7 +6,6 @@ tags:
   - DraftSOP
   - Admin
 ---
-
 # III.2. Prosedur Arsip Nota dan DO Pembelian.
 
 Source (Notion): https://www.notion.so/29d796f898d780aeb8e3cbd06008ed88
@@ -20,13 +19,12 @@ SOP ini mengatur pencatatan pembelian dari purchasing ke ERPNext, mulai dari buk
 
 ## Prinsip
 
-- Nomor Sales Order (SO) adalah reference utama untuk pembelian.
-- Pembelian dicatat per SO/customer.
+- Nomor Purchase Order Customer (SO) adalah reference utama untuk pembelian.
+- Pembelian dicatat per nomor Purchase Order Customer.
 - Purchase Invoice dibuat Draft saat barang datang, walaupun nota asli supplier belum lengkap.
-- Purchase Receipt tidak wajib dibuat untuk workflow ini.
 - Purchase Invoice Draft tidak perlu dicetak.
 - Nomor Purchase Invoice Draft ditulis di bukti pembelian fisik.
-- Nota pembelian diarsip urut per SO dan disimpan manager/owner.
+- Nota pembelian diarsip berdasarkan nomor Purchase Order Customer dan di klip bersama dengan Purchase Order Customer Fisik.
 
 ## Alur Admin Input Purchase Invoice Draft
 

@@ -8,14 +8,9 @@ tags:
 
 # I.3. Menerima nota, tagihan, dan Surat Jalan.
 
-Source (Notion): https://www.notion.so/29b796f898d78048967be4a5d9530e48
 Department: Purchasing  
 Status: Draft  
 Last Updated: 2025-11-28
-
-Catatan: SOP ini mengandung gambar dari Notion dengan link sementara (bisa expired).
-
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/8a2f686d-7ba1-479d-99d4-1e09c099920e/d756f1c9-3d63-4cf7-b403-917456844fcb/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZGO67DJ%2F20260505%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260505T042256Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCTYNipr0VJ3THkA42grYM3KFTAoxRCkcrDNFrw61NKEgIgbDkr8xdVgnN2rW18YbUQET44tgp%2FV6UcFuZbo%2BfR%2Bk0q%2FwMIfRAAGgw2Mzc0MjMxODM4MDUiDHVrbxuL70LHpoGtIyrcA6ybUBxH19gMDn8uWX%2FPNZWbomkG5boSsWJx%2BJeCrQ6%2Bl9l1Ee2EMB7E2H7sl4MY%2Fft42c3rs8z22HdsFjODyg1iNje6UWN5DbRkDgn62GVEnvueflDjKRkfrvYBjEvoG1XgYqxuHGHToJ%2BpoltlxFfv4GO1SkDh8EJZEmSxtBJ%2FtbodsVP9e5LfARphZ5ptnI9yWPKeWQ6KhJJVHmESd%2FXdpOjVITNdW7Gl86f5DxdhWsxpXlOX%2Fi0UnxVPTOfiMMiEFWxANUAjH57mScRevEMSHuH2riZ1bbsQ%2FNWz57YXzR9rB0yztNz29FC17gol7MkRpRLz5bVVQRDyjHhF9QOWssBTWqKvhF3DhZtdaDu7XnaSmrgn%2Bywsshs%2F8EI0mc1LzPaWd4%2BraRVcif%2BucgfG8iYFEApYGOvxfpeEL%2BiYvIMc3tv31sVJVyI2C38zUfxciqyITXuuiDMZt%2BiSur3fS2vZYzBoW%2BF%2FcY5smo4OSAMMMbDkAM29iqUzduaju6OEnw7BBhTEYmdO7gtj4A83gYiwaXNqYaYOD5PiS5jst8ogv3kI3Y5QrONGKnvxzmuKJtzex%2Fu0hSA0RrLj44iAHpyd1JR0bxRBzopq4VLgsgiO9hOdOICh4YBCMKXX5c8GOqUBXhNat0fDis8OYG5N0iI6KTTwlvbz7KgjRTegLin9yIQvcncPFjd7QCtvq6BNbWiTwlaHM1goyxb5e2i3fW3pnJvcOiQDH%2FrBLJ8XtJ2nEtPWpi7F0dkNG4hJ4dbsVa%2FoIFaNGGw2B%2FMQGNr0lV6pL2iuzeEAAgDYXIlOoBWeQq%2FXaORdmOwXvv6Ms0R8Kd09FXTtFV%2BCOHmftQwpu72fAFKDEZ4u&X-Amz-Signature=c3c3ac5318d5513ffa4cc98554b8c15f2b941a974d1fdf2e7a721ac49d3425fb&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 Untuk nota pembelian ada 3 macam arsip yang digunakan admin, masing-masing berfungsi beda:
 <table>

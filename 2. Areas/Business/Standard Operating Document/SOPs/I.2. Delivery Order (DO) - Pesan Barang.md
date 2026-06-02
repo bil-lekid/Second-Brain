@@ -39,7 +39,7 @@ Last Updated: 2026-05-08
 	4. Jumlah barang.
 	5. Harga beli jika sudah diketahui.
 	6. Keterangan PPN jika harga termasuk PPN.
-5. Apabila barang sudah datang, purchasing cek barang terhadap PO customer dan bukti pembelian.
+5. Apabila barang sudah datang, purchasing cek barang terhadap PO customer dan cek bukti pembelian [[I.3. Menerima nota, tagihan, dan Surat Jalan.]]
 6. Purchasing kasih bukti pembelian ke admin untuk dibuat Purchase Invoice Draft.
 7. Admin tulis nomor Purchase Invoice Draft di bukti pembelian fisik.
 8. Kalau barang untuk satu PO customer sudah lengkap, purchasing kasih PO customer ke admin/manager.
@@ -59,16 +59,6 @@ Last Updated: 2026-05-08
 9. Tulis harga beli; kalau harga termasuk PPN, tulis "inc PPN".
 10. Total jumlah pembelian di bagian bawah.
 11. Cap dan tanda tangan jika diperlukan.
-
-## Setelah Barang Datang
-
-1. Purchasing kasih bukti pembelian ke admin.
-2. Kalau sudah ada nota/struk dengan nama barang, jumlah, dan harga, DO tulis tangan tidak wajib diserahkan.
-3. Kalau belum ada nota/struk lengkap, PO/DO tulis tangan wajib diserahkan ke admin sebagai bukti sementara.
-4. Admin input Purchase Invoice di ERPNext dengan status Draft.
-5. Admin tulis nomor Purchase Invoice Draft di bukti pembelian fisik.
-6. Kalau nota asli belum ada, status/catatan Purchase Invoice adalah "Pending Nota".
-7. Saat nota asli datang, admin cocokkan dengan Purchase Invoice Draft.
 
 Note:
 1. Jangan tulis di satu kertas DO barang untuk dua SO berbeda.

@@ -7,8 +7,6 @@ tags:
 
 # Standard Operating Procedures (SOPs)
 
-Source (Notion database): https://www.notion.so/296796f898d7805ab080c3b3ab2ef090
-
 ## MOC (Standard Operating Document)
 - [[Standard Operating Document]]
 - [[Tujuan Strategis - Strategic Objective]]
