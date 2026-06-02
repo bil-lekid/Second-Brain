@@ -1,0 +1,26 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "2. Areas/Business/Standard Operating Document/SOPs"
+    groupBy:
+      property: file.tags
+      direction: ASC
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.inFolder("2. Areas/Business/Standard Operating Document")
+    groupBy:
+      property: file.tags
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: ASC

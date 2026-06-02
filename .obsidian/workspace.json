@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "41f824dd2cdb2514",
+        "id": "7246dbe35a028e24",
         "type": "tabs",
         "children": [
           {
-            "id": "2ef3deff5baf8921",
+            "id": "7329615526283731",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "readme.md",
-                "bFile": "readme.md",
+                "aFile": ".smart-env/multi/2__Areas_House_House_md.ajson",
+                "bFile": ".smart-env/multi/2__Areas_House_House_md.ajson",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: readme  (Working Tree)"
+              "title": "Diff: 2__Areas_House_House_md.ajson  (Working Tree)"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3b274ef5931c18c1",
@@ -192,8 +191,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "2ef3deff5baf8921",
+  "active": "7329615526283731",
   "lastOpenFiles": [
-    "readme.md"
+    "readme.md",
+    "5. Attachments/Pasted image 20260416134844.png",
+    "5. Attachments/Pasted image 20260416094430.png",
+    "5. Attachments/Pasted image 20260415145703.png",
+    "5. Attachments",
+    "4. Archive/Deprecated Projects/Pr - Buat Webform Supplier isi data Supplier.md",
+    "4. Archive/Deprecated Projects/The Easy Way to Stop Smoking.md",
+    "4. Archive/Pr - Explore claude buat masukin PO ke sales invoice, automation buat bikin SJ, Invoice dll.md",
+    "4. Archive/Deprecated Projects",
+    "4. Archive/Archive Index.md",
+    "4. Archive",
+    "3. Resources/Personal Knowledge Management/SOPs/SOP - Fleeting to PARA (Distill, Express, Publish).md",
+    "3. Resources/Personal Knowledge Management/SOPs",
+    "3. Resources/Obsidian/Stop Overthinking Obsidian A Beginner’s Guide That Actually Works.md",
+    "3. Resources/Obsidian/Basic formatting syntax Obsidian Markdown.md",
+    "3. Resources/Career/Initiative at Work.md",
+    "3. Resources/Personal Knowledge Management",
+    "3. Resources/Obsidian",
+    "3. Resources/Career",
+    "3. Resources",
+    "2. Areas/Relationship/date spots.md",
+    "2. Areas/Relationship",
+    "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/_ERPNext SOP Review.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/VI.1. Coretax Pajak Keluaran (Impor XML).md",
+    "2. Areas/Business/Standard Operating Document/SOPs/V.3. Sistem masukan-opini (feedback).md",
+    "2. Areas/Business/Standard Operating Document/SOPs/V.1. Pembelian Barang Kantor.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/V.2. Proses Rekrutmen.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/IV.3. Menanyakan-mencari harga ke supplier baru..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.9 Membuat Sales Order ERPNEXT.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/IV.2. Pengambilan dan Penerimaan Barang supplier..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/IV.1. Pengantaran Barang ke pelanggan..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.8. Pencatatan Penjualan..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.7. Pencatatan Tagihan..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.6. Pencatatan Penjualan..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.5. Membuat Tanda Terima.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.4. Membuat Invoice..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.3. Membuat Surat Jalan..md",
+    "2. Areas/Business/Standard Operating Document/SOPs"
   ]
 }

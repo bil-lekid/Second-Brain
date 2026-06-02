@@ -1,0 +1,6 @@
+---
+tags:
+  - Books
+  - SelfImprovement
+  - Fleeting
+---
