@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7246dbe35a028e24",
+        "id": "fd0a3121356659a4",
         "type": "tabs",
         "children": [
           {
-            "id": "7329615526283731",
+            "id": "0dc9eeafb01dba74",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".smart-env/multi/2__Areas_House_House_md.ajson",
-                "bFile": ".smart-env/multi/2__Areas_House_House_md.ajson",
+                "aFile": "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
+                "bFile": "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 2__Areas_House_House_md.ajson  (Working Tree)"
+              "title": "Diff: _Index  (Working Tree)"
             }
           }
         ]
@@ -191,8 +191,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "7329615526283731",
+  "active": "0dc9eeafb01dba74",
   "lastOpenFiles": [
+    "MOCs/Tags/Tag - Books.md",
+    "MOCs/Tags/Tag - Administration.md",
+    "MOCs/Tags/Tag - Writing.md",
+    "MOCs/Tags/Tag - Travel.md",
+    "MOCs/Tags/Tag - Blog.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
     "readme.md",
     "5. Attachments/Pasted image 20260416134844.png",
     "5. Attachments/Pasted image 20260416094430.png",
@@ -215,7 +221,6 @@
     "3. Resources",
     "2. Areas/Relationship/date spots.md",
     "2. Areas/Relationship",
-    "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
     "2. Areas/Business/Standard Operating Document/SOPs/_ERPNext SOP Review.md",
     "2. Areas/Business/Standard Operating Document/SOPs/VI.1. Coretax Pajak Keluaran (Impor XML).md",
     "2. Areas/Business/Standard Operating Document/SOPs/V.3. Sistem masukan-opini (feedback).md",
@@ -226,11 +231,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/IV.2. Pengambilan dan Penerimaan Barang supplier..md",
     "2. Areas/Business/Standard Operating Document/SOPs/IV.1. Pengantaran Barang ke pelanggan..md",
     "2. Areas/Business/Standard Operating Document/SOPs/III.8. Pencatatan Penjualan..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.7. Pencatatan Tagihan..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.6. Pencatatan Penjualan..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.5. Membuat Tanda Terima.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.4. Membuat Invoice..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.3. Membuat Surat Jalan..md",
     "2. Areas/Business/Standard Operating Document/SOPs"
   ]
 }
