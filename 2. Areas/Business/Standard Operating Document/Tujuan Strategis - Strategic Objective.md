@@ -11,7 +11,7 @@ Source (Notion): https://www.notion.so/296796f898d781d9ae89f6ffd6d8e8e1
 
 Tujuan Strategis Prima Putra Perkasa adalah dasar semua keputusan di perusahaan, baik secara tim maupun individu.
 
-Kita tidak memakai misi hiperbola seperti â€œingin jadi yang terbaikâ€ karena tidak memberi arah jelas. Rencana besar bertahun-tahun juga tidak cukup untuk menghadapi perubahan cepat di dunia supplier.
+Kita tidak memakai misi hiperbola seperti "ingin jadi yang terbaik" karena tidak memberi arah jelas. Rencana besar bertahun-tahun juga tidak cukup untuk menghadapi perubahan cepat di dunia supplier.
 
 Karena itu, Tujuan Strategis dibuat untuk memberi panduan arah dan cara kerja kita. Dengan mengikuti ini, pertumbuhan dan keberhasilan akan tercapai. Dokumen ini dijaga tetap sederhana, hanya satu halaman, dan meski selalu diperbarui, intinya tidak berubah.
 

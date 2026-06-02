@@ -11,16 +11,32 @@
             "id": "452d7d5a6cd4354f",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "2. Areas/Business/Standard Operating Document/Standard Operating Document Base.base",
-                "viewName": "Table"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Standard Operating Document Base"
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "b8ef31cb77826d1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Areas/Business/Standard Operating Document/Tujuan Strategis - Strategic Objective.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tujuan Strategis - Strategic Objective"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200.5
   },
   "right": {
     "id": "3b274ef5931c18c1",
@@ -153,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/Business/Standard Operating Document/Standard Operating Document Base.base",
+                "file": "2. Areas/Business/Standard Operating Document/Tujuan Strategis - Strategic Objective.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Standard Operating Document Base"
+              "title": "Outline of Tujuan Strategis - Strategic Objective"
             }
           },
           {
@@ -194,49 +210,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "452d7d5a6cd4354f",
+  "active": "b8ef31cb77826d1d",
   "lastOpenFiles": [
-    "Base.base",
-    "0. Fleeting/Pr - Buat Webform Supplier isi data Supplier.md",
-    "0. Fleeting/The Easy Way to Stop Smoking.md",
-    "MOCs/Tags/Tag - Books.md",
-    "MOCs/Tags/Tag - Administration.md",
-    "MOCs/Tags/Tag - Writing.md",
-    "MOCs/Tags/Tag - Travel.md",
-    "MOCs/Tags/Tag - Blog.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
-    "readme.md",
-    "5. Attachments/Pasted image 20260416134844.png",
-    "5. Attachments/Pasted image 20260416094430.png",
-    "5. Attachments/Pasted image 20260415145703.png",
-    "5. Attachments",
-    "4. Archive/Deprecated Projects/Pr - Buat Webform Supplier isi data Supplier.md",
-    "4. Archive/Deprecated Projects/The Easy Way to Stop Smoking.md",
-    "4. Archive/Pr - Explore claude buat masukin PO ke sales invoice, automation buat bikin SJ, Invoice dll.md",
-    "4. Archive/Deprecated Projects",
-    "4. Archive/Archive Index.md",
-    "4. Archive",
-    "3. Resources/Personal Knowledge Management/SOPs/SOP - Fleeting to PARA (Distill, Express, Publish).md",
-    "3. Resources/Personal Knowledge Management/SOPs",
-    "3. Resources/Obsidian/Stop Overthinking Obsidian A Beginner’s Guide That Actually Works.md",
-    "3. Resources/Obsidian/Basic formatting syntax Obsidian Markdown.md",
-    "3. Resources/Career/Initiative at Work.md",
-    "3. Resources/Personal Knowledge Management",
-    "3. Resources/Obsidian",
-    "3. Resources/Career",
-    "3. Resources",
-    "2. Areas/Relationship/date spots.md",
-    "2. Areas/Relationship",
-    "2. Areas/Business/Standard Operating Document/SOPs/_ERPNext SOP Review.md",
+    "Git Page/site-lib/styles/theme.css",
+    "Git Page/site-lib/styles/main-styles.css",
+    "Git Page/site-lib/styles/obsidian.css",
+    "Git Page/site-lib/styles/global-variable-styles.css",
+    "Git Page/site-lib/scripts/webpage.js",
+    "Git Page/site-lib/scripts/graph-wasm.wasm",
+    "Git Page/site-lib/fonts/c504db5c06caaf7cdfba.woff2",
+    "Git Page/site-lib/scripts/graph-wasm.js",
+    "Git Page/site-lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "Git Page/site-lib/scripts/graph-render-worker.js",
+    "Git Page/site-lib/fonts/70cc7ff27245e82ad414.ttf",
+    "Git Page/site-lib/media/favicon.png",
+    "Git Page/site-lib/media/6155340132a851f6089e.svg",
+    "Git Page/site-lib/media/2308ab1944a6bfa5c5b8.svg",
     "2. Areas/Business/Standard Operating Document/SOPs/VI.1. Coretax Pajak Keluaran (Impor XML).md",
-    "2. Areas/Business/Standard Operating Document/SOPs/V.3. Sistem masukan-opini (feedback).md",
-    "2. Areas/Business/Standard Operating Document/SOPs/V.1. Pembelian Barang Kantor.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/V.2. Proses Rekrutmen.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/IV.3. Menanyakan-mencari harga ke supplier baru..md",
+    "Git Page/5.-attachments/pasted-image-20260602132048.png",
+    "Git Page/5.-attachments/pasted-image-20260416134844.png",
+    "Git Page/5.-attachments/pasted-image-20260416094430.png",
+    "Git Page/5.-attachments/pasted-image-20260415145703.png",
+    "2. Areas/Business/Standard Operating Document/SOPs/I.3. Menerima nota, tagihan, dan Surat Jalan..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/II.3. Cold Call-outreach, Telepon calon pelanggan baru..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.5. Membuat Tanda Terima.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/IV.1. Pengantaran Barang ke pelanggan..md",
+    "2. Areas/Business/Standard Operating Document/Standard Operating Document.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/_ERPNext SOP Review.md",
+    "2. Areas/Business/Standard Operating Document/Prinsip Kerja - General Operating Principles.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/I.1. Menerima Purchase Order (PO) dan Organisasi PO.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/I.2. Delivery Order (DO) - Pesan Barang.md",
     "2. Areas/Business/Standard Operating Document/SOPs/III.9 Membuat Sales Order ERPNEXT.md",
-    "2. Areas/Business/Standard Operating Document/SOPs"
+    "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.2. Prosedur Arsip Nota dan DO Pembelian..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/V.3. Sistem masukan-opini (feedback).md",
+    "2. Areas/Business/Standard Operating Document/SOPs/V.2. Proses Rekrutmen.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/V.1. Pembelian Barang Kantor.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/IV.3. Menanyakan-mencari harga ke supplier baru..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/IV.2. Pengambilan dan Penerimaan Barang supplier..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.8. Pencatatan Penjualan..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.7. Pencatatan Tagihan..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.6. Pencatatan Penjualan..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.4. Membuat Invoice..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.3. Membuat Surat Jalan..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.1. Membuat Penawaran Harga (PH)..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/II.5. Penjualan pada toko.md",
+    "site-lib/media/favicon.png",
+    "site-lib/media/6155340132a851f6089e.svg",
+    "site-lib/media/2308ab1944a6bfa5c5b8.svg"
   ]
 }
