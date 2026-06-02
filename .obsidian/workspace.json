@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "42444f177a8fcf92",
+        "id": "a8ce9e1c9faf67fc",
         "type": "tabs",
         "children": [
           {
-            "id": "f8e15e795df56213",
+            "id": "8b4bf649d33e13b0",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/plugins/remotely-save/.gitignore",
-                "bFile": ".obsidian/plugins/remotely-save/.gitignore",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: .gitignore  (Index)"
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -79,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3b274ef5931c18c1",
@@ -207,8 +205,11 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "f8e15e795df56213",
+  "active": "8b4bf649d33e13b0",
   "lastOpenFiles": [
+    "readme.md",
+    "index.md",
+    "Base.base",
     "conflict-files-obsidian-git.md",
     "0. Fleeting/ How to Sync Obsidian Notes for FREE on iPhone, iPad, and Android .md",
     "2. Areas/Business/Standard Operating Document/SOPs/III.2. Prosedur Arsip Nota dan DO Pembelian..md",
@@ -224,7 +225,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/I.3. Menerima nota, tagihan, dan Surat Jalan..md",
     "2. Areas/Business/Standard Operating Document/SOPs/I.2. Delivery Order (DO) - Pesan Barang.md",
     "2. Areas/Business/Standard Operating Document/SOPs/I.1. Menerima Purchase Order (PO) dan Organisasi PO.md",
-    "index.md",
     "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
     "2. Areas/Business/Standard Operating Document/SOPs/_ERPNext SOP Review.md",
     "_daily notes/2026/06/2026-06-02.md",
@@ -238,7 +238,6 @@
     "Git Page/site-lib/scripts/graph-wasm.wasm",
     "Git Page/site-lib/fonts/c504db5c06caaf7cdfba.woff2",
     "Git Page/site-lib/scripts/graph-wasm.js",
-    "Git Page/site-lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "Git Page/site-lib/media/favicon.png",
     "Git Page/site-lib/media/6155340132a851f6089e.svg",
     "Git Page/site-lib/media/2308ab1944a6bfa5c5b8.svg",
@@ -251,7 +250,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/IV.1. Pengantaran Barang ke pelanggan..md",
     "2. Areas/Business/Standard Operating Document/Standard Operating Document.md",
     "2. Areas/Business/Standard Operating Document/Prinsip Kerja - General Operating Principles.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.9 Membuat Sales Order ERPNEXT.md",
     "site-lib/media/favicon.png",
     "site-lib/media/6155340132a851f6089e.svg",
     "site-lib/media/2308ab1944a6bfa5c5b8.svg"
