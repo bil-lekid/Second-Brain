@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d3f9e2b5aaeb95f1",
+        "id": "f52a10c6185b63ca",
         "type": "tabs",
         "children": [
           {
-            "id": "ac612470137dace9",
+            "id": "51b9d19e7aef4882",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": ""
+                "file": "2. Areas/Relationship/date spots.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: workspace-mobile.json"
+              "icon": "lucide-file",
+              "title": "date spots"
             }
           }
         ]
@@ -97,6 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2. Areas/Relationship/date spots.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,6 +116,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "2. Areas/Relationship/date spots.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -155,7 +157,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac612470137dace9",
+  "active": "51b9d19e7aef4882",
   "lastOpenFiles": [
     "readme.md",
     "/readme.md"
