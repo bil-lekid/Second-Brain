@@ -14,7 +14,8 @@
     "filesToExport": [
       "0. Fleeting/ How to Sync Obsidian Notes for FREE on iPhone, iPad, and Android .md",
       "2. Areas/Business/Standard Operating Document",
-      "5. Attachments"
+      "5. Attachments",
+      "index.md"
     ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
