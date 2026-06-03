@@ -3,6 +3,5 @@
   "templater-obsidian",
   "waypoint",
   "dataview",
-  "obsidian-git",
-  "webpage-html-export"
+  "obsidian-git"
 ]
