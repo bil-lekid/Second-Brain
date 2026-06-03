@@ -2,60 +2,53 @@
 tags:
   - Journal
   - DailyEntry
-date: 2026-05-22
-mood: 😊
-energy: 7/10
+created:
+  "{ date }":
 ---
-
-# May 22, 2026
-
-## 🌅 Morning Intention
-*What do I want to focus on today?*
-
-
-## 📝 Reflection
-*What happened today? How did I feel?*
-
-
-## 🎯 Wins & Gratitude
-*What went well? What am I grateful for?*
-
-- 
-- 
-- 
-
-
-## 💭 Challenges & Learning
-*What was difficult? What did I learn?*
-
-**Challenge:**
-
-
-**Lesson:**
-
-
-## 🌙 Evening Reflection
-*How am I feeling now? Any final thoughts?*
-
-
-## 📊 Day Summary
-- **Mood**: 😊
-- **Energy**: 7/10
-- **Productivity**: Medium
-- **Social**: Low
-- **Overall vibe**: Calm, reflective
+## 🌅 Morning
 
 ---
 
-## 🔗 Connected Notes
-*Link any projects, areas, or resources this day relates to*
+### ✍️ Daily Affirmation
 
-- [[]]
+> Tulis affirmation kamu hari ini
 
-## 💬 Notes to Self
-*Anything you want to remember?*
-
+**Affirmation:**
 
 ---
 
-**Template by [[_daily_journal|Daily Journal System]]**
+### 💭 Morning Reflection
+
+> Jawab prompt hari ini
+
+**Prompt:**
+
+**Jawaban:**
+
+---
+
+### 🎯 Goals & Intentions Hari Ini
+
+> Apa yang HARUS selesai hari ini? Max 3.
+
+- [ ] 
+- [ ] 
+- [ ] 
+
+**Satu hal terpenting hari ini:**
+
+---
+
+## 🌙 Evening
+
+---
+
+### 🏆 Highlights & Wins
+
+> Apa yang berjalan baik hari ini? Sekecil apa pun.
+
+---
+
+### 📖 Lessons Learned
+
+> Apa yang kamu pelajari hari ini — tentang diri sendiri, orang lain, atau dunia?

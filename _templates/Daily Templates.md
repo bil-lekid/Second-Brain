@@ -1,53 +1,8 @@
 ---
 tags:
   - DailyNote
+created:
+  "{ date }":
 ---
-## 🌅 Morning
-
----
-
-### ✍️ Daily Affirmation
-
-> Tulis affirmation kamu hari ini
-
-**Affirmation:**
-
----
-
-### 💭 Morning Reflection
-
-> Jawab prompt hari ini
-
-**Prompt:**
-
-**Jawaban:**
-
----
-
-### 🎯 Goals & Intentions Hari Ini
-
-> Apa yang HARUS selesai hari ini? Max 3.
-
-- [ ] 
-- [ ] 
-- [ ] 
-
-**Satu hal terpenting hari ini:**
-
----
-
-## 🌙 Evening
-
----
-
-### 🏆 Highlights & Wins
-
-> Apa yang berjalan baik hari ini? Sekecil apa pun.
-
----
-
-### 📖 Lessons Learned
-
-> Apa yang kamu pelajari hari ini — tentang diri sendiri, orang lain, atau dunia?
 
 ## Capture

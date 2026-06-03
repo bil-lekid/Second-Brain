@@ -76,6 +76,34 @@
       "templater": {
         "afterCapture": "none"
       }
+    },
+    {
+      "id": "aa2be01f-106a-4c6d-8ecb-3eda9ab1b20f",
+      "name": "Daily Journal",
+      "type": "Template",
+      "command": true,
+      "templatePath": "",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "inputPrompt": "single-line",
