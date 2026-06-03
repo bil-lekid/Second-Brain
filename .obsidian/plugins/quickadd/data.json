@@ -82,6 +82,36 @@
       "name": "Daily Journal",
       "type": "Template",
       "command": true,
+      "templatePath": "_templates/Daily Journal Entry.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "_daily_journal/{{DATE:YYYY}}/{{DATE:MM}}/{{DATE:}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [
+          "_daily_journal"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "79eb8ffd-98ea-4f33-901f-5061e1a83351",
+      "name": "Daily Notes",
+      "type": "Template",
+      "command": true,
       "templatePath": "",
       "fileNameFormat": {
         "enabled": false,
