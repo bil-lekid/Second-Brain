@@ -104,8 +104,8 @@
         "mode": "default",
         "focus": true
       },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true
     },
     {
       "id": "79eb8ffd-98ea-4f33-901f-5061e1a83351",
@@ -132,8 +132,8 @@
         "mode": "default",
         "focus": true
       },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true
     }
   ],
   "inputPrompt": "single-line",
