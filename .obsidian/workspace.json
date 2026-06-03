@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b77517d7fc591b51",
+        "id": "4b5bad408e6dd6ec",
         "type": "tabs",
         "children": [
           {
-            "id": "bdaf34fa05c90b4d",
+            "id": "ec1121c3aba2f09f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "_daily notes/2026/06/2026-06-03.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "2026-06-03"
             }
           }
         ]
@@ -205,8 +205,9 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "09d1371d6aca4517",
+  "active": "ec1121c3aba2f09f",
   "lastOpenFiles": [
+    "_daily notes/2026/06/2026-06-03.md",
     "docs/2.-areas/business/standard-operating-document/sops/vi.1.-coretax-pajak-keluaran-(impor-xml).html",
     "docs/2.-areas/business/standard-operating-document/sops/_index.html",
     "docs/2.-areas/business/standard-operating-document/sops/v.3.-sistem-masukan-opini-(feedback).html",
@@ -217,7 +218,6 @@
     "docs/2.-areas/business/standard-operating-document/sops/iv.1.-pengantaran-barang-ke-pelanggan..html",
     "docs/2.-areas/business/standard-operating-document/sops/iii.9-membuat-sales-order-erpnext.html",
     "docs/2.-areas/business/standard-operating-document/sops/iii.8.-pencatatan-penjualan..html",
-    "docs/2.-areas/business/standard-operating-document/sops/iii.7.-pencatatan-tagihan..html",
     "docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
