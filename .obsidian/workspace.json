@@ -6,6 +6,7 @@
       {
         "id": "4b5bad408e6dd6ec",
         "type": "tabs",
+        "dimension": 68.3768656716418,
         "children": [
           {
             "id": "ec1121c3aba2f09f",
@@ -14,6 +15,42 @@
               "type": "markdown",
               "state": {
                 "file": "_daily_journal/2026/06/2026-06-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-03"
+            }
+          },
+          {
+            "id": "65d0439067973484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/Daily Templates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily Templates"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "408b4ff5c482ad6c",
+        "type": "tabs",
+        "dimension": 31.62313432835821,
+        "children": [
+          {
+            "id": "bde29caf968889ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_daily_notes/2026/06/2026-06-03.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b274ef5931c18c1",
@@ -188,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 220.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,10 +243,14 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "ec1121c3aba2f09f",
+  "active": "65d0439067973484",
   "lastOpenFiles": [
-    "_templates/Daily Journal Entry.md",
     "_daily_journal/2026/06/2026-06-03.md",
+    "_daily_notes/2026/06/2026-06-03.md",
+    "_daily_notes/2026/06",
+    "_daily_notes/2026",
+    "_daily_notes",
+    "_templates/Daily Journal Entry.md",
     "_daily_journal/2026/06",
     "_templates/_templates.md",
     "_templates/Daily Templates.md",
@@ -223,9 +265,6 @@
     "docs/2.-areas/business/standard-operating-document/sops/v.2.-proses-rekrutmen.html",
     "docs/2.-areas/business/standard-operating-document/sops/v.1.-pembelian-barang-kantor.html",
     "docs/2.-areas/business/standard-operating-document/sops/iv.3.-menanyakan-mencari-harga-ke-supplier-baru..html",
-    "docs/2.-areas/business/standard-operating-document/sops/iv.2.-pengambilan-dan-penerimaan-barang-supplier..html",
-    "docs/2.-areas/business/standard-operating-document/sops/iv.1.-pengantaran-barang-ke-pelanggan..html",
-    "docs/2.-areas/business/standard-operating-document/sops/iii.9-membuat-sales-order-erpnext.html",
     "docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
@@ -251,7 +290,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/II.4. Customer Relation Manager (CRM).md",
     "2. Areas/Business/Standard Operating Document/SOPs/III.2. Prosedur Arsip Nota dan DO Pembelian..md",
     "2. Areas/Business/Standard Operating Document/SOPs/III.1. Membuat Penawaran Harga (PH)..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.4. Membuat Invoice..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.3. Membuat Surat Jalan..md"
+    "2. Areas/Business/Standard Operating Document/SOPs/III.4. Membuat Invoice..md"
   ]
 }

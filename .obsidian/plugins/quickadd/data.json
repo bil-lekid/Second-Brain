@@ -112,10 +112,10 @@
       "name": "Daily Notes",
       "type": "Template",
       "command": true,
-      "templatePath": "",
+      "templatePath": "_templates/Daily Templates.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "_daily_notes/{{DATE:YYYY}}/{{DATE:MM}}/{{DATE:}}"
       },
       "folder": {
         "enabled": false,
@@ -125,9 +125,9 @@
         "chooseFromSubfolders": false
       },
       "appendLink": false,
-      "openFile": false,
+      "openFile": true,
       "fileOpening": {
-        "location": "tab",
+        "location": "split",
         "direction": "vertical",
         "mode": "default",
         "focus": true
