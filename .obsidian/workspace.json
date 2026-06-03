@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily notes/2026/06/2026-06-03.md",
+                "file": "_templates/Daily Templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-03"
+              "title": "Daily Templates"
             }
           }
         ]
@@ -207,6 +207,9 @@
   },
   "active": "ec1121c3aba2f09f",
   "lastOpenFiles": [
+    "_templates/Daily Journal Entry.md",
+    "_templates/Daily Templates.md",
+    "5. Attachments/Pasted image 20260603101804.png",
     "_daily notes/2026/06/2026-06-03.md",
     "docs/2.-areas/business/standard-operating-document/sops/vi.1.-coretax-pajak-keluaran-(impor-xml).html",
     "docs/2.-areas/business/standard-operating-document/sops/_index.html",
@@ -228,7 +231,6 @@
     "conflict-files-obsidian-git.md",
     "Git Page/site-lib/media/favicon.png",
     "Git Page/site-lib/media/6155340132a851f6089e.svg",
-    "Git Page/site-lib/media/2308ab1944a6bfa5c5b8.svg",
     "2. Areas/Business/Standard Operating Document/Draft SOP - cek kondisi mobil.md",
     "2. Areas/Business/Standard Operating Document/Prinsip Kerja - General Operating Principles.md",
     "2. Areas/Business/Standard Operating Document/SOPs/I.2. Delivery Order (DO) - Pesan Barang.md",
@@ -250,8 +252,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/III.5. Membuat Tanda Terima.md",
     "2. Areas/Business/Standard Operating Document/SOPs/III.8. Pencatatan Penjualan..md",
     "2. Areas/Business/Standard Operating Document/SOPs/III.7. Pencatatan Tagihan..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/IV.1. Pengantaran Barang ke pelanggan..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.9 Membuat Sales Order ERPNEXT.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/IV.3. Menanyakan-mencari harga ke supplier baru..md"
+    "2. Areas/Business/Standard Operating Document/SOPs/IV.1. Pengantaran Barang ke pelanggan..md"
   ]
 }
