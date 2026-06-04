@@ -3,7 +3,11 @@
   "templater-obsidian",
   "waypoint",
   "dataview",
+<<<<<<< HEAD
   "obsidian-git",
   "webpage-html-export",
   "obsidian-global-hotkeys"
+=======
+  "obsidian-git"
+>>>>>>> origin/Readme.md.md
 ]
