@@ -4,5 +4,5 @@ tags:
 created:
   "{ date }":
 ---
-{{date}}
+
 ## Capture
