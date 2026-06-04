@@ -36,7 +36,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "/_daily notes/{{DATE:YYYY/MM/YYYY-MM-DD}}",
+      "captureTo": "/_daily_notes/{{DATE:YYYY/MM/YYYY-MM-DD}}",
       "captureToActiveFile": false,
       "captureToCanvasNodeId": "",
       "activeFileWritePosition": "cursor",
