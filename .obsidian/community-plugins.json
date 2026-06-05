@@ -1,17 +1,5 @@
 [
-  "quickadd",
-  "templater-obsidian",
-  "waypoint",
-  "dataview",
-<<<<<<< HEAD
-<<<<<<< HEAD
   "obsidian-git",
-  "webpage-html-export",
+  "dataview",
   "obsidian-global-hotkeys"
-=======
-  "obsidian-git"
->>>>>>> origin/Readme.md.md
-=======
-  "obsidian-git"
->>>>>>> origin/Readme.md.md
 ]
