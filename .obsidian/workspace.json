@@ -178,6 +178,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e6fa92a5ff68b881",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_daily_notes/2026/06/2026-06-05.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-06-05"
+            }
           }
         ],
         "currentTab": 4
@@ -201,8 +216,9 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "69b76497066189ab",
+  "active": "664c6a4e94ad37e5",
   "lastOpenFiles": [
+    "Base.base",
     "2. Areas/Business/Standard Operating Document/Standard Operating Document Base.base",
     "_daily_journal/2026/06/2026-06-05.md",
     "Untitled.base",
@@ -240,7 +256,6 @@
     "_daily_notes",
     "_daily_journal/2026/06",
     "5. Attachments/Pasted image 20260603101804.png",
-    "docs/2.-areas/business/standard-operating-document/sops/vi.1.-coretax-pajak-keluaran-(impor-xml).html",
     "docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
