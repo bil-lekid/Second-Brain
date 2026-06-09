@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b274ef5931c18c1",
@@ -198,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,10 +217,11 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "0334d6b7a1093808",
+  "active": "9c4704b781aa107d",
   "lastOpenFiles": [
-    "_daily_notes/2026/06/2026-06-09.md",
+    "5. Attachments/Pasted image 20260609104222.png",
     "_daily_journal/2026/06/2026-06-09.md",
+    "_daily_notes/2026/06/2026-06-09.md",
     "_daily_journal/2026/06/2026-06-06.md",
     "_daily_notes/2026/06/2026-06-06.md",
     "_daily_notes/2026/06/2026-06-05.md",
@@ -248,7 +251,6 @@
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "_daily_notes/2026/06",
