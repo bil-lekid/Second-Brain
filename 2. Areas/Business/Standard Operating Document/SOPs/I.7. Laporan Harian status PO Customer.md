@@ -1,15 +1,14 @@
 ---
 tags:
   - Fleeting
+  - Business
+  - SOP
+  - Purchasing
 status: inbox
 created: 2026-06-09
 ---
-
-## Capture
-
-## Next
 Department: Purchasing  
-Status: Draft  
+Status: Discussion
   
 ## Tujuan  
   
