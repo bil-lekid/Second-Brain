@@ -12,7 +12,7 @@ Status: Discussion
   
 ## Tujuan  
   
-Supaya owner/manager tahu setiap hari PO customer mana saja yang barangnya belum lengkap, tanpa purchasing harus membuat laporan ulang dari nol.  
+Supaya owner/manager tahu setiap hari PO customer mana saja yang barangnya belum lengkap, tanpa purchasing harus membuat lapo![[Pasted image 20260610092313.png]]ran ulang dari nol.  
 
 ## Prinsip  
   

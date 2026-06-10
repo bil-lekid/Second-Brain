@@ -233,10 +233,12 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "df3edd6208567bef",
+  "active": "dff78df8f0400b09",
   "lastOpenFiles": [
-    "_daily_journal/2026/06/2026-06-10.md",
+    "5. Attachments/Pasted image 20260610092315.png",
     "2. Areas/Business/Standard Operating Document/SOPs/I.7. Laporan Harian status PO Customer.md",
+    "5. Attachments/Pasted image 20260610092313.png",
+    "_daily_journal/2026/06/2026-06-10.md",
     "_daily_notes/2026/06/2026-06-10.md",
     "_daily_journal/2026/06/2026-06-09.md",
     "_daily_notes/2026/06/2026-06-09.md",
@@ -267,7 +269,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "_daily_notes/2026/06",
@@ -279,7 +280,6 @@
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
     "docs/5.-attachments/pasted-image-20260602132048.png",
     "docs/5.-attachments/pasted-image-20260416134844.png",
-    "docs/5.-attachments/pasted-image-20260416094430.png",
-    "docs/5.-attachments/pasted-image-20260415145703.png"
+    "docs/5.-attachments/pasted-image-20260416094430.png"
   ]
 }
