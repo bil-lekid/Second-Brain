@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b98446c7ff3210b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily_journal/2026/06/2026-06-10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-10"
-            }
-          },
-          {
             "id": "df3edd6208567bef",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "I.7. Laporan Harian status PO Customer"
+            }
+          },
+          {
+            "id": "9b98446c7ff3210b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_daily_journal/2026/06/2026-06-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-10"
             }
           }
         ],
@@ -233,13 +233,13 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "dff78df8f0400b09",
+  "active": "9b98446c7ff3210b",
   "lastOpenFiles": [
-    "5. Attachments/Pasted image 20260610092315.png",
     "2. Areas/Business/Standard Operating Document/SOPs/I.7. Laporan Harian status PO Customer.md",
-    "5. Attachments/Pasted image 20260610092313.png",
     "_daily_journal/2026/06/2026-06-10.md",
     "_daily_notes/2026/06/2026-06-10.md",
+    "5. Attachments/Pasted image 20260610092315.png",
+    "5. Attachments/Pasted image 20260610092313.png",
     "_daily_journal/2026/06/2026-06-09.md",
     "_daily_notes/2026/06/2026-06-09.md",
     "_daily_notes/2026/06/2026-06-06.md",
@@ -279,7 +279,6 @@
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
     "docs/5.-attachments/pasted-image-20260602132048.png",
-    "docs/5.-attachments/pasted-image-20260416134844.png",
-    "docs/5.-attachments/pasted-image-20260416094430.png"
+    "docs/5.-attachments/pasted-image-20260416134844.png"
   ]
 }
