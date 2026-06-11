@@ -4,56 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "90b6418e432b532b",
+        "id": "eb3c4ffe3c49b1f1",
         "type": "tabs",
         "children": [
           {
-            "id": "df3edd6208567bef",
+            "id": "b8327d8e22a89476",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Areas/Business/Standard Operating Document/SOPs/I.7. Laporan Harian status PO Customer.md",
+                "file": "_daily_journal/2026/06/2026-06-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I.7. Laporan Harian status PO Customer"
-            }
-          },
-          {
-            "id": "9b98446c7ff3210b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily_journal/2026/06/2026-06-10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-10"
+              "title": "2026-06-11"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "65e8d9ee61b957b3",
+        "id": "3b59e85637fc2cf5",
         "type": "tabs",
         "children": [
           {
-            "id": "dff78df8f0400b09",
+            "id": "6b23946799eb3c1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_notes/2026/06/2026-06-10.md",
+                "file": "_daily_notes/2026/06/2026-06-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-10"
+              "title": "2026-06-11"
             }
           }
         ]
@@ -233,14 +218,16 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "9b98446c7ff3210b",
+  "active": "6b23946799eb3c1a",
   "lastOpenFiles": [
+    "_daily_journal/2026/06/2026-06-11.md",
+    "_daily_notes/2026/06/2026-06-11.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/I.7. Laporan Harian status PO Customer.md",
+    "_daily_journal/2026/06/2026-06-10.md",
     "_daily_notes/2026/06/2026-06-10.md",
     "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 2.jpeg",
     "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 1.jpeg",
-    "_daily_journal/2026/06/2026-06-10.md",
     "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM.jpeg",
-    "2. Areas/Business/Standard Operating Document/SOPs/I.7. Laporan Harian status PO Customer.md",
     "5. Attachments/Pasted image 20260610092315.png",
     "5. Attachments/Pasted image 20260610092313.png",
     "_daily_journal/2026/06/2026-06-09.md",
@@ -271,7 +258,6 @@
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "_daily_notes/2026/06",
