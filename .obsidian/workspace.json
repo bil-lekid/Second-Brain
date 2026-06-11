@@ -60,17 +60,14 @@
             "id": "6b23946799eb3c1a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -20.158736798317953,
-                  "y": 791.5744028374761,
-                  "zoom": -0.6666666666666666
-                }
+                "file": "_daily_notes/2026/06/2026-06-11.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2026-06-11"
             }
           }
         ]
@@ -252,8 +249,8 @@
   },
   "active": "6b23946799eb3c1a",
   "lastOpenFiles": [
-    "_daily_notes/2026/06/2026-06-11.md",
     "Untitled.canvas",
+    "_daily_notes/2026/06/2026-06-11.md",
     "2. Areas/Business/Sales/Cold Calling Script.md",
     "0. Fleeting/Data Perusahaan.md",
     "_daily_journal/2026/06/2026-06-11.md",
