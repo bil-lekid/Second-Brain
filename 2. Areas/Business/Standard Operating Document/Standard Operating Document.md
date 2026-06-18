@@ -5,7 +5,7 @@ tags:
   - MOC
 ---
 
-# âš™ï¸ Standard Operating Document
+# Standard Operating Document
 
 Source (Notion): https://www.notion.so/296796f898d7805e9be1d43dd3ef26e6
 Created: 2023-10-25

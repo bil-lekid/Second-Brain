@@ -64,7 +64,7 @@ Terima dokumen dari kurir/penagih.
 2. Manajer meneruskan ke **Akunting**.
 3. Akunting melakukan **transfer pembayaran**.
 4. Manajer mengirimkan **bukti transfer** ke penerima.
-5. Tulis **â€œKAS N.H.â€** dan foto kembali, kirim ke manajer + supplier.
+5. Tulis **"KAS N.H."** dan foto kembali, kirim ke manajer + supplier.
 6. Berikan nota pembelian ke **admin** untuk arsip.
 
 ## 6. Nota Tagihan (Tempo / Hutang)

@@ -21,9 +21,9 @@ Last Updated: 2025-10-31
 6. Ketik nama barang dan jumlah barang.
 7. Save surat jalan pada file baru:
 	1. Tekan alt+ e + m.
-	2. Pada bagian bawah centang â€œ*Create a copyâ€*.
-	3. Pada bagian *to book*, tekan *drop down*.dan tekan â€œ(*new book*)â€.
-	4. *Save workbook* surat jalan baru dengan nama â€œnomor_surat_jalan â€“ nomor_POâ€. Contoh: PP_0725_2004 - 25004421
+	2. Pada bagian bawah centang "*Create a copy"*.
+	3. Pada bagian *to book*, tekan *drop down*.dan tekan "(*new book*)".
+	4. *Save workbook* surat jalan baru dengan nama [nomor_surat_jalan] - [nomor_PO]. Contoh: PP_0725_2004 - 25004421
 8. Print surat jalan menggunakan printer dot matrix.
 9. Stempel surat jalan.
 10. Minta tandatangan manajer dan *purchasing*. Lampirkan surat jalan bersama PO. Apabila ada revisi maka akan di revisi.

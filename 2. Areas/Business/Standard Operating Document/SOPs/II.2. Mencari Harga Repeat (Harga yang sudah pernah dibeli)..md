@@ -19,6 +19,6 @@ Last Updated: 2025-07-21
 4. Dari nomor 1 hingga akhir PH, cari barang satu per satu.
 5. Gunakan screenshot (win + shift + s) untuk memotong gambar.
 6. Di WA, *paste* gambar *screenshot*, dikirim ke *manajer*.
-7. Apabila sudah tidak ada lagi harga repeat (barang sudah dicari semua). Kirim ke *manajer* pesan â€œSudah repeat.â€
+7. Apabila sudah tidak ada lagi harga repeat (barang sudah dicari semua). Kirim ke *manajer* pesan "Sudah repeat."
 
 

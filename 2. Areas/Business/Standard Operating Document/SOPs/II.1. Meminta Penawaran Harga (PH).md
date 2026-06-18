@@ -13,7 +13,7 @@ Department: Sales
 Status: Active  
 Last Updated: 2025-07-21
 
-1. Klien meminta Permintaan Harga (*Quotation*) untuk barang. Balas segera,â€ Baik kami cek sebentar.â€
+1. Klien meminta Permintaan Harga (*Quotation*) untuk barang. Balas segera," Baik kami cek sebentar."
 2. *Forward* permintaan harga ke *purchasing*. Tunggu *purchasing* mencari harga beli.
 3. *Purchasing* memberikan harga ke *manajer*. Khusus Daijo dan Meiloon, cari [harga repeat](/29c796f898d780df8142fc3cdb4b2e01?pvs=25) terlebih dahulu.
 4. Manajer memberikan harga jual ke Admin, tunggu buat dokumen penawaran harga.
