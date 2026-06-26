@@ -1,9 +1,7 @@
 [
   "obsidian-git",
   "dataview",
-  "obsidian-global-hotkeys",
   "quickadd",
   "templater-obsidian",
-  "waypoint",
-  "webpage-html-export"
+  "waypoint"
 ]
