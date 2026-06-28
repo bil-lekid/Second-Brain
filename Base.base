@@ -2,6 +2,11 @@ views:
   - type: table
     name: Table
     order:
-      - file.basename
+      - file.name
       - file.ctime
       - file.backlinks
+    sort:
+      - property: file.fullname
+        direction: DESC
+      - property: file.basename
+        direction: ASC
