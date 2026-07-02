@@ -200,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,7 +216,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20d040c43fb1f30e",
+  "active": "455266bd8763cdbd",
   "lastOpenFiles": [
     "_daily_journal/2026/07/2026-07-02.md",
     "_daily_notes/2026/07/2026-07-02.md",
