@@ -4,41 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "bc52d164b84271dc",
+        "id": "3d7ca2a638b127e6",
         "type": "tabs",
         "children": [
           {
-            "id": "afb0b72123188750",
+            "id": "2c151187f21715d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_journal/2026/07/2026-07-02.md",
+                "file": "_daily_journal/2026/07/2026-07-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-02"
+              "title": "2026-07-03"
             }
           }
         ]
       },
       {
-        "id": "b86bc27a5c6ab63e",
+        "id": "474a585ac16dedc6",
         "type": "tabs",
         "children": [
           {
-            "id": "20d040c43fb1f30e",
+            "id": "fcd8d8ad7013fcdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_notes/2026/07/2026-07-02.md",
+                "file": "_daily_notes/2026/07/2026-07-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-02"
+              "title": "2026-07-03"
             }
           }
         ]
@@ -216,10 +216,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "455266bd8763cdbd",
+  "active": "2c151187f21715d8",
   "lastOpenFiles": [
-    "_daily_journal/2026/07/2026-07-02.md",
+    "_daily_notes/2026/07/2026-07-03.md",
+    "_daily_journal/2026/07/2026-07-03.md",
     "_daily_notes/2026/07/2026-07-02.md",
+    "_daily_journal/2026/07/2026-07-02.md",
     "_daily_notes/2026/07/2026-07-01.md",
     "_daily_journal/2026/07/2026-07-01.md",
     "_daily_journal/2026/07",
@@ -244,8 +246,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/I.5. Menanyakan Harga ke Supplier baru-lama.md",
     "2. Areas/Business/Standard Operating Document/SOPs/I.3. Menerima nota, tagihan, dan Surat Jalan..md",
     "_daily_journal/2026/06/2026-06-18.md",
-    "_daily_journal/2026/06/2026-06-17.md",
-    "_daily_notes/2026/06/2026-06-17.md",
     "Untitled.canvas",
     "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 2.jpeg",
     "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 1.jpeg",
