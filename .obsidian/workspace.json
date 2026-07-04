@@ -11,12 +11,14 @@
             "id": "2c151187f21715d8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第二册-下 2 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf"
+                "file": "_daily_journal/2026/07/2026-07-03.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第二册-下 2 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li"
+              "icon": "lucide-file",
+              "title": "2026-07-03"
             }
           }
         ]
@@ -190,13 +192,16 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "2c151187f21715d8",
   "lastOpenFiles": [
-    "_daily_journal/2026/07/2026-07-03.md",
     "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第二册-下 2 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
+    "_daily_journal/2026/07/2026-07-03.md",
     "3. Resources/Books",
     "3. Resources/New folder",
     "_daily_notes/2026/07/2026-07-03.md",
