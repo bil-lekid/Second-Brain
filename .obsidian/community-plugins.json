@@ -3,5 +3,7 @@
   "dataview",
   "quickadd",
   "templater-obsidian",
-  "waypoint"
+  "waypoint",
+  "obsidian-global-hotkeys",
+  "pdf-plus"
 ]
