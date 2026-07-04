@@ -11,34 +11,12 @@
             "id": "2c151187f21715d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "_daily_journal/2026/07/2026-07-03.md",
-                "mode": "source",
-                "source": false
+                "file": "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第二册-下 2 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2026-07-03"
-            }
-          }
-        ]
-      },
-      {
-        "id": "474a585ac16dedc6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fcd8d8ad7013fcdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily_notes/2026/07/2026-07-03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-03"
+              "icon": "lucide-file-text",
+              "title": "杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第二册-下 2 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li"
             }
           }
         ]
@@ -99,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3b274ef5931c18c1",
@@ -218,8 +195,11 @@
   },
   "active": "2c151187f21715d8",
   "lastOpenFiles": [
-    "_daily_notes/2026/07/2026-07-03.md",
     "_daily_journal/2026/07/2026-07-03.md",
+    "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第二册-下 2 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
+    "3. Resources/Books",
+    "3. Resources/New folder",
+    "_daily_notes/2026/07/2026-07-03.md",
     "_daily_notes/2026/07/2026-07-02.md",
     "_daily_journal/2026/07/2026-07-02.md",
     "_daily_notes/2026/07/2026-07-01.md",
@@ -245,7 +225,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/II.2. Mencari Harga Repeat (Harga yang sudah pernah dibeli)..md",
     "2. Areas/Business/Standard Operating Document/SOPs/I.5. Menanyakan Harga ke Supplier baru-lama.md",
     "2. Areas/Business/Standard Operating Document/SOPs/I.3. Menerima nota, tagihan, dan Surat Jalan..md",
-    "_daily_journal/2026/06/2026-06-18.md",
     "Untitled.canvas",
     "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 2.jpeg",
     "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 1.jpeg",
@@ -259,9 +238,6 @@
     "5. Attachments/WhatsApp Image 2026-06-04 at 11.14.39 AM.jpeg",
     "_daily notes/2026/06",
     "_daily notes/2026",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "_daily_notes/2026/06",
     "5. Attachments/Pasted image 20260603101804.png",
     "docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/site-lib/media/favicon.png"
