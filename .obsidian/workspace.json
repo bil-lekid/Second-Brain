@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3d7ca2a638b127e6",
+        "id": "7b23edf53dc2ed99",
         "type": "tabs",
         "children": [
           {
-            "id": "2c151187f21715d8",
+            "id": "3c830c7e01ff2ebd",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第二册-下 2 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf"
+                "file": "3. Resources/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第二册-下 2 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf"
               },
               "icon": "lucide-file-text",
               "title": "杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第二册-下 2 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li"
@@ -190,16 +190,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2c151187f21715d8",
+  "active": "3c830c7e01ff2ebd",
   "lastOpenFiles": [
-    "_daily_journal/2026/07/2026-07-03.md",
+    "3. Resources/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第二册-下 2 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
     "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第二册-下 2 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
+    "_daily_journal/2026/07/2026-07-03.md",
     "3. Resources/Books",
     "3. Resources/New folder",
     "_daily_notes/2026/07/2026-07-03.md",
