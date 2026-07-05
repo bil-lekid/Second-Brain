@@ -13,7 +13,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "3. Resources/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第二册-下 2 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf"
+                "file": "3. Resources/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第二册-下 2 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
+                "page": 148,
+                "left": -9,
+                "top": 339,
+                "zoom": 1.6049382716049383
               },
               "icon": "lucide-file-text",
               "title": "杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第二册-下 2 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li"
@@ -181,6 +185,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
