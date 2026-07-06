@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b274ef5931c18c1",
@@ -181,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,6 +223,7 @@
     "_daily_journal/2026/06/2026-06-26.md",
     "conflict-files-obsidian-git.md",
     "_daily_notes/2026/06/2026-06-26.md",
+    "_daily_journal/2026/06/2026-06-26.md",
     "_daily_notes/2026/06/2026-06-18.md",
     "2. Areas/Business/Standard Operating Document/Standard Operating Document.md",
     "2. Areas/Business/Standard Operating Document/SOPs/III.1. Membuat Penawaran Harga (PH)..md",
@@ -233,7 +236,19 @@
     "2. Areas/Business/Standard Operating Document/SOPs/II.2. Mencari Harga Repeat (Harga yang sudah pernah dibeli)..md",
     "2. Areas/Business/Standard Operating Document/SOPs/I.5. Menanyakan Harga ke Supplier baru-lama.md",
     "2. Areas/Business/Standard Operating Document/SOPs/I.3. Menerima nota, tagihan, dan Surat Jalan..md",
+    "_daily_journal/2026/06/2026-06-18.md",
+    "_daily_journal/2026/06/2026-06-17.md",
+    "_daily_notes/2026/06/2026-06-17.md",
+    "_daily_notes/2026/06/2026-06-12.md",
+    "_daily_journal/2026/06/2026-06-12.md",
     "Untitled.canvas",
+    "0. Fleeting/Data Perusahaan.md",
+    "_daily_journal/2026/06/2026-06-11.md",
+    "2. Areas/Business/Sales/Cold Calling Script.md",
+    "_daily_notes/2026/06/2026-06-11.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/I.7. Laporan Harian status PO Customer.md",
+    "_daily_journal/2026/06/2026-06-10.md",
+    "_daily_notes/2026/06/2026-06-10.md",
     "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 2.jpeg",
     "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 1.jpeg",
     "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM.jpeg",
@@ -246,6 +261,11 @@
     "5. Attachments/WhatsApp Image 2026-06-04 at 11.14.39 AM.jpeg",
     "_daily notes/2026/06",
     "_daily notes/2026",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "_daily_notes/2026/06",
+    "_daily_notes/2026",
+    "_daily_notes",
     "5. Attachments/Pasted image 20260603101804.png",
     "docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/site-lib/media/favicon.png"
