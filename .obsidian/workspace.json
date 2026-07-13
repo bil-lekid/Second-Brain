@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "60f4d9dc81798253",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e87f3b5d05860bf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily_journal/2026/07/2026-07-09.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-09"
-            }
-          }
-        ]
-      },
-      {
         "id": "21ba14df29cad01e",
         "type": "tabs",
         "children": [
@@ -219,8 +199,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e87f3b5d05860bf2",
+  "active": "1123daeefd094219",
   "lastOpenFiles": [
+    "2. Areas/Relationship/date spots.md",
     "_daily_journal/2026/07/2026-07-09.md",
     "_daily_notes/2026/07/2026-07-09.md",
     "_daily_notes/2026/07/2026-07-06.md",
@@ -254,7 +235,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/II.5. Penjualan pada toko.md",
     "2. Areas/Business/Standard Operating Document/SOPs/II.3. Cold Call-outreach, Telepon calon pelanggan baru..md",
     "2. Areas/Business/Standard Operating Document/Prinsip Kerja - General Operating Principles.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.4. Membuat Invoice..md",
     "Untitled.canvas",
     "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 2.jpeg",
     "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 1.jpeg",

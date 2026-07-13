@@ -18,31 +18,31 @@ Ini bukan list “tempat hits”, tapi list ide yang gampang dieksekusi dan nyam
 
 ## Date ideas (by vibe + budget)
 
-### 1) Chill ngobrol (talk-first) — $ to $$
+### 1) Chill ngobrol (talk-first) — $ to 
 - Cafe yang *quiet* (bukan yang musiknya keras), duduk pojok, 60–90 menit.
 - Coffee + jalan santai habis itu (mall/komplek/area yang aman).
 - Dessert date: es krim / kue, sharing 2 menu.
 - “Phone-down date”: taro HP di tas 45 menit, fokus cerita aja.
 - Board game cafe (pilih game simpel biar tetep ngobrol, bukan kompetitif banget).
 
-### 2) Makan yang bikin nyaman — $$
+### 2) Makan yang bikin nyaman — 
 - AYCE (KBBQ / shabu / sushi) tapi pilih jam yang ga terlalu rame.
 - Dinner tempat yang terang dan nyaman (bukan yang “vibes gelap + musik kenceng”).
 - Food hunting 2–3 spot kecil (porsi sharing) daripada satu tempat lama.
 
-### 3) Active ringan (biar ga bosen tapi tetep connect) — $ to $$
+### 3) Active ringan (biar ga bosen tapi tetep connect) — 
 - Bowling / billiard santai + ngobrol di sela-sela.
 - Arcade / funworld: set budget fix (mis. “max 100k–200k”) biar ga kebablasan.
 - Mini golf / driving range (kalau ada), fokus have fun bukan jago-jagoan.
 - Morning date: jalan pagi + sarapan (enak buat mood dan tidur gua).
 
-### 4) Romantis tapi simple — $$ to $$$
+### 4) Romantis tapi simple — 
 - Sunset drive / car talk + beli minum (playlist tenang).
 - Picnic kecil: bawa snack + minum + tisu basah (ga usah ribet).
 - Movie *after* ngobrol (ngobrol dulu biar quality time dapet, film jadi bonus).
 - “Surprise kecil” yang relevan: cemilan favorit / bunga kecil / catatan 3 kalimat.
 
-### 5) Growth / community (biar lingkungannya makin sehat) — $ to $$
+### 5) Growth / community (biar lingkungannya makin sehat) — 
 - Event komunitas yang “baik” dan aman: workshop ringan, art market, volunteering.
 - Kelas 1x coba: pottery / painting / baking / dance (pilih yang fun, bukan yang ujian).
 - Bookstore date + pilih 1 buku buat dibahas minggu depan.
