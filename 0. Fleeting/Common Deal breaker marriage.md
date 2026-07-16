@@ -307,5 +307,5 @@ After answering, discuss:
 - Issues we still need to discuss are:
 
 ## Next
-- [ ] Pindah ke relationship moc
-- [ ] Coba bahas sama shekina
+- [x] Pindah ke relationship moc 
+- [ ] Coba bahas sama shekina 

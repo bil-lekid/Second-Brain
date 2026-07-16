@@ -1,6 +1,8 @@
 ---
 tags:
   - Fleeting
+  - Obsidian
+  - Productivity
 status: inbox
 created: 2026-06-02
 ---
