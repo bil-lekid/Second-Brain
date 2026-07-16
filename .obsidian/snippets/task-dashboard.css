@@ -1,4 +1,4 @@
-/* Task Dashboard — responsive kanban-style Tasks queries */
+/* Task Dashboard — 3-column time-first board */
 
 .markdown-preview-view.task-dashboard .markdown-preview-sizer,
 .markdown-source-view.task-dashboard.mod-cm6 .cm-sizer {
@@ -6,7 +6,7 @@
   width: min(96%, 1500px);
 }
 
-/* Parent callout becomes the board grid. */
+/* Main board container */
 .task-dashboard .callout[data-callout="kanban"] {
   background: transparent;
   border: 0;
@@ -34,7 +34,7 @@
   display: none;
 }
 
-/* Dashboard columns. */
+/* Individual columns */
 .task-dashboard
   .callout[data-callout="kanban"]
   > .callout-content
@@ -65,18 +65,7 @@
   padding: 0 0.8rem 0.8rem;
 }
 
-/* Priority group labels inside each time column. */
-.task-dashboard .block-language-tasks h4 {
-  margin: 0.9rem 0 0.35rem;
-  padding-bottom: 0.3rem;
-  border-bottom: 1px solid var(--background-modifier-border);
-  font-size: 0.82rem;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  opacity: 0.8;
-}
-
-/* Task cards. */
+/* Task cards */
 .task-dashboard .block-language-tasks {
   margin: 0;
 }
@@ -108,7 +97,7 @@
   font-weight: 500;
 }
 
-/* Make source-note backlinks visible but compact. */
+/* Keep backlinks visible and compact */
 .task-dashboard .tasks-backlink {
   display: inline-flex;
   margin-inline-start: 0.35rem;
@@ -120,7 +109,16 @@
   opacity: 1;
 }
 
-/* Responsive board. */
+/* Completed section */
+.task-dashboard
+  > .markdown-preview-sizer
+  > div
+  > .callout[data-callout="success"] {
+  margin-top: 1rem;
+  border-radius: 14px;
+}
+
+/* Responsive */
 @media (max-width: 1100px) {
   .task-dashboard .callout[data-callout="kanban"] > .callout-content {
     grid-template-columns: repeat(2, minmax(0, 1fr));

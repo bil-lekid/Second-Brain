@@ -12,12 +12,11 @@ cssclasses:
 >> ```tasks
 >> not done
 >> due before today
+>> tags do not include #waiting
 >> path does not include Templates
->> group by priority
 >> sort by priority
 >> sort by due
 >> full mode
->> show backlink
 >> hide task count
 >> hide toolbar
 >> ```
@@ -26,48 +25,27 @@ cssclasses:
 >>
 >> ```tasks
 >> not done
->> happens today
+>> due today
+>> tags do not include #waiting
 >> path does not include Templates
->> group by priority
 >> sort by priority
->> sort by happens
 >> sort by due
 >> full mode
->> show backlink
 >> hide task count
 >> hide toolbar
 >> ```
 >
->> [!warning]+ Next 3 Days
+>> [!info]+ Next 7 Days
 >>
 >> ```tasks
 >> not done
->> happens after today
->> happens before in 4 days
+>> due after today
+>> due before in 8 days
+>> tags do not include #waiting
 >> path does not include Templates
->> group by priority
 >> sort by priority
->> sort by happens
 >> sort by due
 >> full mode
->> show backlink
->> hide task count
->> hide toolbar
->> ```
->
->> [!info]+ This Week
->>
->> ```tasks
->> not done
->> happens on or after in 4 days
->> happens before in 8 days
->> path does not include Templates
->> group by priority
->> sort by priority
->> sort by happens
->> sort by due
->> full mode
->> show backlink
 >> hide task count
 >> hide toolbar
 >> ```
@@ -76,14 +54,12 @@ cssclasses:
 >>
 >> ```tasks
 >> not done
->> happens on or after in 8 days
+>> due on or after in 8 days
+>> tags do not include #waiting
 >> path does not include Templates
->> group by priority
 >> sort by priority
->> sort by happens
 >> sort by due
 >> full mode
->> show backlink
 >> hide task count
 >> hide toolbar
 >> ```
@@ -92,13 +68,37 @@ cssclasses:
 >>
 >> ```tasks
 >> not done
->> no happens date
+>> no due date
+>> tags do not include #waiting
 >> path does not include Templates
->> group by priority
 >> sort by priority
 >> sort by path
 >> full mode
->> show backlink
 >> hide task count
 >> hide toolbar
 >> ```
+>
+>> [!warning]+ Waiting
+>>
+>> ```tasks
+>> not done
+>> tags include #waiting
+>> path does not include Templates
+>> sort by priority
+>> sort by due
+>> full mode
+>> hide task count
+>> hide toolbar
+>> ```
+
+> [!success]- Completed This Week
+>
+> ```tasks
+> done
+> done this week
+> path does not include Templates
+> sort by done reverse
+> full mode
+> hide task count
+> hide toolbar
+> ```
