@@ -34,12 +34,3 @@ WHERE file.name != "0. Fleeting" AND file.name != "Fleeting Inbox"
 AND !contains(file.path, "0. Fleeting/")
 SORT file.mtime desc
 ```
-
-## Sensitive Candidates (Filename)
-
-```dataview
-LIST FROM "0. Fleeting"
-WHERE file.name != "0. Fleeting" AND file.name != "Fleeting Inbox"
-AND (contains(lower(file.name), "password") OR contains(lower(file.name), "token") OR contains(lower(file.name), "secret") OR contains(lower(file.name), "key") OR contains(lower(file.name), "credential"))
-SORT file.mtime desc
-```

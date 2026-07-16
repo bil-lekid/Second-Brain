@@ -268,7 +268,7 @@ To create a task list, start each list item with a hyphen and space followed by�
 ```
 
 - [x] This is a completed task.
-- [ ] This is an incomplete task.
+- [x] This is an incomplete task. ✅ 2026-07-16
 
 You can toggle a task in Reading view by selecting the checkbox.
 
@@ -301,10 +301,10 @@ Similarly, you can create a nested task list by indenting one or more list items
 	- [ ] Subtask 1
 ```
 
-- [ ] Task item 1
-    - [ ] Subtask 1
-- [ ] Task item 2
-    - [ ] Subtask 1
+- [x] Task item 1 ✅ 2026-07-16
+    - [x] Subtask 1 ✅ 2026-07-16
+- [x] Task item 2 ✅ 2026-07-16
+    - [x] Subtask 1 ✅ 2026-07-16
 
 Use `Tab` or `Shift+Tab` to indent or unindent selected list items to easily organize them.
 

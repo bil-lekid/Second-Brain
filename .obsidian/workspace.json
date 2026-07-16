@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc94a4574b9970bb",
+            "id": "417e1ea2bb362726",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Fleeting/Fleeting Inbox.md",
+                "file": "Tasks dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fleeting Inbox"
+              "title": "Tasks dashboard"
             }
           },
           {
-            "id": "c6035b71290dde47",
+            "id": "1683dd0e433403ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Fleeting/Buat sistem penagihan.md",
+                "file": "2. Areas/Business/Standard Operating Document/SOPs/I.7. Laporan Harian status PO Customer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buat sistem penagihan"
+              "title": "I.7. Laporan Harian status PO Customer"
             }
           }
         ]
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b274ef5931c18c1",
@@ -192,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,14 +214,22 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "bc94a4574b9970bb",
+  "active": "417e1ea2bb362726",
   "lastOpenFiles": [
-    "0. Fleeting/Common Deal breaker marriage.md",
-    "202607161517.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/I.7. Laporan Harian status PO Customer.md",
+    "Tasks dashboard.md",
+    "Tasks.md",
     "0. Fleeting/Fleeting Inbox.md",
-    "3. Resources/Obsidian/ How to Sync Obsidian Notes for FREE on iPhone, iPad, and Android .md",
-    "0. Fleeting/Data Perusahaan.md",
+    "3. Resources/Obsidian/Basic formatting syntax Obsidian Markdown.md",
+    "_daily_journal/2026/06/2026-06-03.md",
+    "Base.base",
+    "index.md",
+    "0. Fleeting/Common Deal breaker marriage.md",
     "0. Fleeting/Buat sistem penagihan.md",
+    "5. Attachments/Pasted image 20260610092313.png",
+    "3. Resources/Obsidian/ How to Sync Obsidian Notes for FREE on iPhone, iPad, and Android .md",
+    "202607161517.md",
+    "0. Fleeting/Data Perusahaan.md",
     "_daily_notes/2026/07/2026-07-16.md",
     "_daily_notes/2026/07/2026-07-09.md",
     "2. Areas/Relationship/date spots.md",
@@ -231,7 +241,6 @@
     "4. Archive/PARA Starter Kit/Personal Knowledge Management/PARA Notes.md",
     "4. Archive/PARA Starter Kit/Personal Knowledge Management",
     "4. Archive/PARA Starter Kit",
-    "3. Resources.md",
     "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第二册-下 2 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
     "_daily_journal/2026/07/2026-07-03.md",
     "3. Resources/Books",
@@ -243,19 +252,12 @@
     "_daily_journal/2026/07/2026-07-01.md",
     "_daily_journal/2026/07",
     "_daily_notes/2026/07",
-    "_daily_journal/2026/06/2026-06-30.md",
-    "_daily_notes/2026/06/2026-06-30.md",
-    "_daily_notes/2026/06/2026-06-29.md",
-    "_daily_journal/2026/06/2026-06-29.md",
-    "_daily_journal/2026/06/2026-06-26.md",
     "Untitled.canvas",
     "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 2.jpeg",
     "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 1.jpeg",
     "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM.jpeg",
     "5. Attachments/Pasted image 20260610092315.png",
-    "5. Attachments/Pasted image 20260610092313.png",
     "5. Attachments/Pasted image 20260609104222.png",
-    "Base.base",
     "2. Areas/Business/Standard Operating Document/Standard Operating Document Base.base",
     "5. Attachments/WhatsApp Image 2026-06-04 at 11.14.39 AM.jpeg",
     "5. Attachments/Pasted image 20260603101804.png",

@@ -25,7 +25,7 @@ Welcome to my second brain — organized with the **PARA system** for actionable
 👉 [[2. Areas|Life Areas]] — Business, Relationships, Health, etc.
 
 ### What do I NEED to know?
-👉 [[3. Resources|Reference Library]] — Learning, skills, and knowledge base
+👉 [[Tasks|Reference Library]] — Learning, skills, and knowledge base
 
 ---
 
@@ -58,7 +58,7 @@ _templates        → Ready-to-use templates
 ### Process Phase (Weekly)
 - Review Fleeting inbox
 - Extract actionable items → [[1. Projects|Projects]] or [[2. Areas|Areas]]
-- Extract knowledge → [[3. Resources|Resources]]
+- Extract knowledge → [[Tasks|Resources]]
 - Discard or archive
 
 ### Reflect Phase (Daily)
@@ -75,7 +75,7 @@ _templates        → Ready-to-use templates
 | [[0. Fleeting\|Fleeting]] | Active | Today |
 | [[1. Projects\|Projects]] | In Progress | Recent |
 | [[2. Areas\|Areas]] | Maintained | Recent |
-| [[3. Resources\|Resources]] | Growing | Recent |
+| [[Tasks\|Resources]] | Growing | Recent |
 | [[4. Archive\|Archive]] | Organized | Today |
 | [[_daily_journal\|Journal]] | Active | Today |
 
@@ -108,7 +108,7 @@ _templates        → Ready-to-use templates
 - [[_daily_journal|Daily Journal]] — Start here if reflecting
 - [[1. Projects|Projects]] — Start here if working
 - [[2. Areas|Areas]] — Start here if reviewing life
-- [[3. Resources|Resources]] — Start here if learning
+- [[Tasks|Resources]] — Start here if learning
 - [[4. Archive|Archive]] — Completed work
 
 ---

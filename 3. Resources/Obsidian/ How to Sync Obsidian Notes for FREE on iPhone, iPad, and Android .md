@@ -1,9 +1,8 @@
 ---
 tags:
-  - Fleeting
   - Obsidian
   - Productivity
-status: inbox
+status: completed
 created: 2026-06-02
 ---
 https://www.youtube.com/watch?v=JcaEeE51F-0

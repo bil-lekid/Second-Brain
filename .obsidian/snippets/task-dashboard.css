@@ -1,0 +1,123 @@
+/* Task Dashboard: responsive kanban-style Tasks queries */
+
+/* Use more horizontal space for this note only. */
+.markdown-preview-view.task-dashboard .markdown-preview-sizer,
+.markdown-source-view.task-dashboard.mod-cm6 .cm-sizer {
+  max-width: 1500px;
+  width: min(96%, 1500px);
+}
+
+/* Transparent parent callout used as the grid container. */
+.task-dashboard .callout[data-callout="kanban"] {
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  margin: 0;
+  padding: 0;
+}
+
+.task-dashboard .callout[data-callout="kanban"] > .callout-title {
+  display: none;
+}
+
+.task-dashboard .callout[data-callout="kanban"] > .callout-content {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: start;
+  gap: 1rem;
+  padding: 0;
+}
+
+/* Hide empty separator paragraphs created between nested callouts. */
+.task-dashboard
+  .callout[data-callout="kanban"]
+  > .callout-content
+  > p {
+  display: none;
+}
+
+/* Individual dashboard columns. */
+.task-dashboard
+  .callout[data-callout="kanban"]
+  > .callout-content
+  > .callout {
+  min-width: 0;
+  margin: 0;
+  border: 1px solid rgba(var(--callout-color), 0.35);
+  border-top: 3px solid rgb(var(--callout-color));
+  border-radius: 14px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+}
+
+.task-dashboard
+  .callout[data-callout="kanban"]
+  > .callout-content
+  > .callout
+  > .callout-title {
+  padding: 0.85rem 1rem 0.65rem;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.task-dashboard
+  .callout[data-callout="kanban"]
+  > .callout-content
+  > .callout
+  > .callout-content {
+  padding: 0 0.8rem 0.8rem;
+}
+
+/* Cleaner task cards inside every column. */
+.task-dashboard .block-language-tasks {
+  margin: 0;
+}
+
+.task-dashboard ul.plugin-tasks-query-result {
+  padding-inline-start: 0;
+  margin: 0;
+}
+
+.task-dashboard ul.plugin-tasks-query-result > li.task-list-item {
+  margin: 0.5rem 0;
+  padding: 0.65rem 0.7rem;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 10px;
+  background: var(--background-primary);
+  transition:
+    border-color 120ms ease,
+    transform 120ms ease,
+    box-shadow 120ms ease;
+}
+
+.task-dashboard ul.plugin-tasks-query-result > li.task-list-item:hover {
+  border-color: var(--interactive-accent);
+  transform: translateY(-1px);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+}
+
+/* Keep metadata compact. */
+.task-dashboard .task-description {
+  font-weight: 500;
+}
+
+.task-dashboard .task-due,
+.task-dashboard .task-scheduled,
+.task-dashboard .task-start,
+.task-dashboard .task-done {
+  font-size: 0.85em;
+  opacity: 0.8;
+}
+
+/* Two columns on medium screens. */
+@media (max-width: 1100px) {
+  .task-dashboard .callout[data-callout="kanban"] > .callout-content {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* One column on phones and narrow panes. */
+@media (max-width: 700px) {
+  .task-dashboard .callout[data-callout="kanban"] > .callout-content {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

@@ -1,10 +1,9 @@
 ---
 tags:
-  - Fleeting
   - Business
   - SOP
   - Purchasing
-status: inbox
+status:
 created: 2026-06-09
 ---
 Department: Purchasing  
@@ -12,7 +11,7 @@ Status: Discussion
   
 ## Tujuan  
   
-Supaya owner/manager tahu setiap hari PO customer mana saja yang barangnya belum lengkap, tanpa purchasing harus membuat lapo![[Pasted image 20260610092313.png]]ran ulang dari nol.  
+Supaya owner/manager tahu setiap hari PO customer mana saja yang barangnya belum lengkap, tanpa purchasing harus membuat laporan ulang dari nol.
 
 ## Prinsip  
   

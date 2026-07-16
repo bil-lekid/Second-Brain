@@ -107,7 +107,7 @@ June (June 2026)
 Every Sunday evening (or your preferred day):
 
 1. **Read through the week's entries** (5 min)
-2. **Extract 1-2 key lessons** → save to [[3. Resources]] if applicable
+2. **Extract 1-2 key lessons** → save to [[Tasks]] if applicable
 3. **Identify patterns** → Mood trends? Energy patterns?
 4. **Update monthly summary** with highlights
 
@@ -123,7 +123,7 @@ At the end of each month:
    - Challenges?
    - Lessons?
    - Next month's focus?
-3. **Extract wisdom** → [[3. Resources]] for permanent storage
+3. **Extract wisdom** → [[Tasks]] for permanent storage
 4. **Plan next month** based on learnings
 
 ---
@@ -140,7 +140,7 @@ At the end of each month:
 - Example: `This connects to [[Project X]] because...`
 
 ### Extracting Wisdom
-If you learn something valuable during reflection → save it to [[3. Resources]]:
+If you learn something valuable during reflection → save it to [[Tasks]]:
 ```markdown
 ## From Daily Journal
 - [[May 22, 2026]]: Learned that X improves productivity...

@@ -38,15 +38,15 @@ For each question, both partners answer:
 
 ---
 
-## 2. Values and Beliefs
+## ~~2. Values and Beliefs~~
 
-1. What personal values are most important to us?
+1. ~~What personal values are most important to us?~~
     
-2. How important are religion and spiritual practices?
+2. ~~How important are religion and spiritual practices?~~
     
-3. Are there beliefs or values we cannot compromise on?
+3. ~~Are there beliefs or values we cannot compromise on?~~
     
-4. How should we handle major disagreements about morals, politics, or religion?
+4. ~~How should we handle major disagreements about morals, politics, or religion?~~
     
 5. What behaviours would make us lose respect for a partner?
     
@@ -142,19 +142,19 @@ For each question, both partners answer:
 
 ## 8. Money and Career
 
-1. How do we currently manage money?
+1. ~~How do we currently manage money?~~
     
-2. Are we comfortable discussing income, savings, debt, and spending?
+2. ~~Are we comfortable discussing income, savings, debt, and spending?~~
     
-3. Should finances eventually be separate, combined, or a mixture?
+3. ~~Should finances eventually be separate, combined, or a mixture?~~
     
 4. What spending decisions should require discussion?
     
 5. How important are career ambition and financial stability?
     
-6. How should expenses be divided if our incomes are different?
-    
-7. What financial behaviours would be deal breakers?
+6. ~~How should expenses be divided if our incomes are different?~~
+
+7. ~~What financial behaviours would be deal breakers?~~
     
 8. Would either of us relocate or change careers for the relationship?
     
@@ -307,5 +307,5 @@ After answering, discuss:
 - Issues we still need to discuss are:
 
 ## Next
-- [x] Pindah ke relationship moc 
-- [ ] Coba bahas sama shekina 
+- [ ] Pindahin ke relationship folder and tambah tags
+- [ ] coba bahas sama Shekina lagi, gua udah tandain yang udah🔼 
