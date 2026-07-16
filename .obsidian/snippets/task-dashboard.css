@@ -1,13 +1,12 @@
-/* Task Dashboard: responsive kanban-style Tasks queries */
+/* Task Dashboard — responsive kanban-style Tasks queries */
 
-/* Use more horizontal space for this note only. */
 .markdown-preview-view.task-dashboard .markdown-preview-sizer,
 .markdown-source-view.task-dashboard.mod-cm6 .cm-sizer {
   max-width: 1500px;
   width: min(96%, 1500px);
 }
 
-/* Transparent parent callout used as the grid container. */
+/* Parent callout becomes the board grid. */
 .task-dashboard .callout[data-callout="kanban"] {
   background: transparent;
   border: 0;
@@ -28,7 +27,6 @@
   padding: 0;
 }
 
-/* Hide empty separator paragraphs created between nested callouts. */
 .task-dashboard
   .callout[data-callout="kanban"]
   > .callout-content
@@ -36,7 +34,7 @@
   display: none;
 }
 
-/* Individual dashboard columns. */
+/* Dashboard columns. */
 .task-dashboard
   .callout[data-callout="kanban"]
   > .callout-content
@@ -67,7 +65,18 @@
   padding: 0 0.8rem 0.8rem;
 }
 
-/* Cleaner task cards inside every column. */
+/* Priority group labels inside each time column. */
+.task-dashboard .block-language-tasks h4 {
+  margin: 0.9rem 0 0.35rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--background-modifier-border);
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  opacity: 0.8;
+}
+
+/* Task cards. */
 .task-dashboard .block-language-tasks {
   margin: 0;
 }
@@ -95,27 +104,29 @@
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
 }
 
-/* Keep metadata compact. */
 .task-dashboard .task-description {
   font-weight: 500;
 }
 
-.task-dashboard .task-due,
-.task-dashboard .task-scheduled,
-.task-dashboard .task-start,
-.task-dashboard .task-done {
-  font-size: 0.85em;
-  opacity: 0.8;
+/* Make source-note backlinks visible but compact. */
+.task-dashboard .tasks-backlink {
+  display: inline-flex;
+  margin-inline-start: 0.35rem;
+  font-size: 0.82em;
+  opacity: 0.75;
 }
 
-/* Two columns on medium screens. */
+.task-dashboard .tasks-backlink:hover {
+  opacity: 1;
+}
+
+/* Responsive board. */
 @media (max-width: 1100px) {
   .task-dashboard .callout[data-callout="kanban"] > .callout-content {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
-/* One column on phones and narrow panes. */
 @media (max-width: 700px) {
   .task-dashboard .callout[data-callout="kanban"] > .callout-content {
     grid-template-columns: minmax(0, 1fr);

@@ -13,10 +13,11 @@ cssclasses:
 >> not done
 >> due before today
 >> path does not include Templates
+>> group by priority
 >> sort by priority
 >> sort by due
->> short mode
->> hide backlink
+>> full mode
+>> show backlink
 >> hide task count
 >> hide toolbar
 >> ```
@@ -25,26 +26,48 @@ cssclasses:
 >>
 >> ```tasks
 >> not done
->> due today
+>> happens today
 >> path does not include Templates
+>> group by priority
 >> sort by priority
->> short mode
->> hide backlink
+>> sort by happens
+>> sort by due
+>> full mode
+>> show backlink
 >> hide task count
 >> hide toolbar
 >> ```
 >
->> [!info]+ Next 7 Days
+>> [!warning]+ Next 3 Days
 >>
 >> ```tasks
 >> not done
->> due after today
->> due before in 8 days
+>> happens after today
+>> happens before in 4 days
 >> path does not include Templates
->> sort by due
+>> group by priority
 >> sort by priority
->> short mode
->> hide backlink
+>> sort by happens
+>> sort by due
+>> full mode
+>> show backlink
+>> hide task count
+>> hide toolbar
+>> ```
+>
+>> [!info]+ This Week
+>>
+>> ```tasks
+>> not done
+>> happens on or after in 4 days
+>> happens before in 8 days
+>> path does not include Templates
+>> group by priority
+>> sort by priority
+>> sort by happens
+>> sort by due
+>> full mode
+>> show backlink
 >> hide task count
 >> hide toolbar
 >> ```
@@ -53,12 +76,14 @@ cssclasses:
 >>
 >> ```tasks
 >> not done
->> due on or after in 8 days
+>> happens on or after in 8 days
 >> path does not include Templates
->> sort by due
+>> group by priority
 >> sort by priority
->> short mode
->> hide backlink
+>> sort by happens
+>> sort by due
+>> full mode
+>> show backlink
 >> hide task count
 >> hide toolbar
 >> ```
@@ -67,24 +92,13 @@ cssclasses:
 >>
 >> ```tasks
 >> not done
->> no due date
+>> no happens date
 >> path does not include Templates
+>> group by priority
 >> sort by priority
->> short mode
->> hide backlink
->> hide task count
->> hide toolbar
->> ```
->
->> [!success]+ Completed This Week
->>
->> ```tasks
->> done
->> done this week
->> path does not include Templates
->> sort by done reverse
->> short mode
->> hide backlink
+>> sort by path
+>> full mode
+>> show backlink
 >> hide task count
 >> hide toolbar
 >> ```
