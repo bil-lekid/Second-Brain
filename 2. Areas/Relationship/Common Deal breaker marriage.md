@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fleeting
-status: inbox
+  - Relationship
+  - Mindset
+status: completed
 created: 2026-07-13
 ---
 
@@ -307,5 +308,5 @@ After answering, discuss:
 - Issues we still need to discuss are:
 
 ## Next
-- [ ] Pindahin ke relationship folder and tambah tags
+- [x] Pindahin ke relationship folder and tambah tags ✅ 2026-07-16
 - [ ] coba bahas sama Shekina lagi, gua udah tandain yang udah🔼 

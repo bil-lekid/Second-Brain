@@ -1,5 +1,8 @@
 {
   "theme": "obsidian",
   "cssTheme": "Minimal",
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "task-dashboard"
+  ]
 }
