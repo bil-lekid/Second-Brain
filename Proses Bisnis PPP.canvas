@@ -1,12 +1,16 @@
 {
 	"nodes":[
-		{"id":"4ae8ee512c9cd2d3","x":-319,"y":527,"width":400,"height":400,"type":"file","file":"2. Areas/Business/Standard Operating Document/SOPs/III.1. Membuat Penawaran Harga (PH)..md"},
-		{"id":"4105823aa6bb6051","x":-245,"y":360,"width":250,"height":60,"type":"text","text":"Purchasing memberikan harga?"},
-		{"id":"d7dfb9b18d2ecca7","x":-245,"y":-140,"width":400,"height":400,"type":"file","file":"2. Areas/Business/Standard Operating Document/SOPs/II.1. Meminta Penawaran Harga (PH).md"}
+		{"id":"d7dfb9b18d2ecca7","type":"file","file":"2. Areas/Business/Standard Operating Document/SOPs/II.1. Meminta Penawaran Harga (PH).md","x":-245,"y":-140,"width":400,"height":400},
+		{"id":"4105823aa6bb6051","type":"text","text":"Purchasing memberikan harga?","x":-171,"y":350,"width":250,"height":60},
+		{"id":"ca1bf5a0a7ec5718","type":"text","text":"Sales Kirim penawaran ke Customer","x":-170,"y":1160,"width":250,"height":60},
+		{"id":"9443bac0f7514846","x":-171,"y":500,"width":250,"height":80,"type":"text","text":"Sales hitung harga jual, syarat pembayaran, data diserahkan ke admin"},
+		{"id":"4ae8ee512c9cd2d3","type":"file","file":"2. Areas/Business/Standard Operating Document/SOPs/III.1. Membuat Penawaran Harga (PH)..md","x":-246,"y":670,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"166384bf9a12d0bf","fromNode":"d7dfb9b18d2ecca7","fromSide":"bottom","toNode":"4105823aa6bb6051","toSide":"top"},
-		{"id":"4e282a957e958c3b","fromNode":"4105823aa6bb6051","fromSide":"left","toNode":"d7dfb9b18d2ecca7","toSide":"left","label":"Belum = Follow up"},
-		{"id":"c9908cfc48ac6c7a","fromNode":"4105823aa6bb6051","fromSide":"bottom","toNode":"4ae8ee512c9cd2d3","toSide":"top"}
+		{"id":"4e282a957e958c3b","fromNode":"4105823aa6bb6051","fromSide":"left","toNode":"d7dfb9b18d2ecca7","toSide":"left","label":"Belum\n= \nFollow up"},
+		{"id":"021b343939091f14","fromNode":"4ae8ee512c9cd2d3","fromSide":"bottom","toNode":"ca1bf5a0a7ec5718","toSide":"top"},
+		{"id":"4764f43c76101268","fromNode":"4105823aa6bb6051","fromSide":"bottom","toNode":"9443bac0f7514846","toSide":"top","label":"Sudah"},
+		{"id":"5be5de7e4ffb9a7f","fromNode":"9443bac0f7514846","fromSide":"bottom","toNode":"4ae8ee512c9cd2d3","toSide":"top"}
 	]
 }
