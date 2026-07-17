@@ -1,11 +1,16 @@
 views:
-  - type: table
+  - type: list
     name: Table
+    filters:
+      and:
+        - file.inFolder("2. Areas/Business/Standard Operating Document/SOPs")
     order:
       - file.name
       - file.ctime
       - file.backlinks
     sort:
+      - property: file.name
+        direction: DESC
       - property: file.fullname
         direction: DESC
       - property: file.basename

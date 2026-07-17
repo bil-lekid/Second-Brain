@@ -30,7 +30,7 @@
                 "file": "Index.base",
                 "viewName": "Table"
               },
-              "icon": "lucide-table",
+              "icon": "lucide-list",
               "title": "Index"
             }
           },
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b274ef5931c18c1",
@@ -206,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,8 +227,11 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "d6a7638ae943c980",
+  "active": "acf641eaa8701edf",
   "lastOpenFiles": [
+    "2. Areas/Business/Sales/The Perfect Outbound Sequence Template.pdf",
+    "Index.base",
+    "2. Areas/Relationship/Common Deal breaker marriage.md",
     "docs/5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 2.jpeg",
     "docs/5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 1.jpeg",
     "docs/5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM.jpeg",
@@ -239,7 +242,6 @@
     "docs/5. Attachments/Pasted image 20260602132048.png",
     "docs/5. Attachments/Pasted image 20260416134844.png",
     "docs/5. Attachments/Pasted image 20260416094430.png",
-    "docs/5. Attachments/Pasted image 20260415145703.png",
     "docs/5. Attachments/Pasted image 20260415145703.html",
     "docs/5. Attachments/Pasted image 20260416094430.html",
     "docs/5. Attachments/Pasted image 20260416134844.html",
@@ -253,7 +255,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/VI.1. Coretax Pajak Keluaran (Impor XML).md",
     "docs/2. Areas/Business/Standard Operating Document/SOPs/VI.1. Coretax Pajak Keluaran (Impor XML).html",
     "2. Areas/Business/Standard Operating Document/SOPs/V.2. Proses Rekrutmen.md",
-    "docs/2. Areas/Business/Standard Operating Document/SOPs/V.2. Proses Rekrutmen.html",
     "2. Areas/Business/Standard Operating Document/SOPs/V.3. Sistem masukan-opini (feedback).md",
     "2. Areas/Business/Standard Operating Document/SOPs/V.1. Pembelian Barang Kantor.md",
     "2. Areas/Business/Standard Operating Document/SOPs/IV.2. Pengambilan dan Penerimaan Barang supplier..md",
@@ -274,7 +275,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/I.3. Menerima nota, tagihan, dan Surat Jalan..md",
     "2. Areas/Business/Standard Operating Document/SOPs/I.5. Menanyakan Harga ke Supplier baru-lama.md",
     "2. Areas/Business/Standard Operating Document/SOPs/II.2. Mencari Harga Repeat (Harga yang sudah pernah dibeli)..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/II.1. Meminta Penawaran Harga (PH).md",
     "Untitled.canvas"
   ]
 }
