@@ -16,6 +16,7 @@ Divisi: VI. Finance
 	- cash before delivery
 	- cash on delivery
 	- DP %, net brp %
+- per customer ada term of payment defaultnya
 - buat view tagihan yang belum dibayar yang bisa group by customer, group by bulan bayarnya, bisa kasih filter filter juga berdasarkan itu
 - kasih filter contoh sudah lewat lebih dari 3 hari, atau lebih dari seminggu, itu jadi warning levelnya.
 
