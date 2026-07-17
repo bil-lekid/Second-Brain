@@ -4,7 +4,7 @@ tags:
   - StandardOperatingDocument
   - SOP
   - Purchasing
-numbers: "101"
+Divisi: I. Purchasing
 ---
 
 # I.1. Menerima Purchase Order (PO) dan Organisasi PO

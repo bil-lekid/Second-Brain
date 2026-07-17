@@ -4,6 +4,7 @@ tags:
   - StandardOperatingDocument
   - SOP
   - Purchasing
+Divisi: I. Purchasing
 ---
 
 # I.4. Laporan Uang Kas

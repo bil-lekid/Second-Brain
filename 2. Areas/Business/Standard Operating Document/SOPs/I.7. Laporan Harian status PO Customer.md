@@ -5,6 +5,7 @@ tags:
   - Purchasing
 status:
 created: 2026-06-09
+Divisi: I. Purchasing
 ---
 Department: Purchasing  
 Status: Discussion

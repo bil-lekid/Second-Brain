@@ -4,6 +4,7 @@ tags:
   - StandardOperatingDocument
   - SOP
   - Sales
+Divisi: II. Sales
 ---
 
 # II.3. Cold Call/outreach, Telepon calon pelanggan baru.

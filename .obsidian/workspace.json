@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "2. Areas/Business/Standard Operating Document/SOPs/III.3. Membuat Surat Jalan..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "III.3. Membuat Surat Jalan."
+            }
+          },
+          {
+            "id": "fd0c515c51967580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Fleeting/VI. Reminder pembayaran rutin ke Sales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VI. Reminder pembayaran rutin ke Sales"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "I.1. Menerima Purchase Order (PO) dan Organisasi PO"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3b274ef5931c18c1",
@@ -193,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,17 +225,39 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "webpage-html-export:Export as HTML": false
+      "webpage-html-export:Export as HTML": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "eaf0afb1ba57dc7c",
+  "active": "fd0c515c51967580",
   "lastOpenFiles": [
-    "2. Areas/Business/Standard Operating Document/SOPs/I.1. Menerima Purchase Order (PO) dan Organisasi PO.md",
-    "index.md",
-    "base.base",
-    "Tasks.md",
-    "2. Areas/Relationship/Common Deal breaker marriage.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.3. Membuat Surat Jalan..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
+    "_ERPNext SOP Review.md",
+    "Index.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.7. Pencatatan Tagihan..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/VI.1. Coretax Pajak Keluaran (Impor XML).md",
+    "2. Areas/Business/Standard Operating Document/SOPs/V.3. Sistem masukan-opini (feedback).md",
+    "2. Areas/Business/Standard Operating Document/SOPs/V.2. Proses Rekrutmen.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/V.1. Pembelian Barang Kantor.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/IV.3. Menanyakan-mencari harga ke supplier baru..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/IV.2. Pengambilan dan Penerimaan Barang supplier..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/IV.1. Pengantaran Barang ke pelanggan..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.9 Membuat Sales Order ERPNEXT.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.8. Pencatatan Penjualan..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.6. Pencatatan Penjualan..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.5. Membuat Tanda Terima.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.4. Membuat Invoice..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.2. Prosedur Arsip Nota dan DO Pembelian..md",
     "2. Areas/Business/Standard Operating Document/SOPs/III.1. Membuat Penawaran Harga (PH)..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/II.5. Penjualan pada toko.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/II.4. Customer Relation Manager (CRM).md",
+    "2. Areas/Business/Standard Operating Document/SOPs/II.3. Cold Call-outreach, Telepon calon pelanggan baru..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/II.2. Mencari Harga Repeat (Harga yang sudah pernah dibeli)..md",
+    "2. Areas/Business/Standard Operating Document/SOPs/II.1. Meminta Penawaran Harga (PH).md",
+    "2. Areas/Business/Standard Operating Document/SOPs/I.7. Laporan Harian status PO Customer.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/I.6. Log in ke akun gmail purchasing.md",
+    "base.base",
     "2. Areas/Business/Sales/The Perfect Outbound Sequence Template.pdf",
     "docs/5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 2.jpeg",
     "docs/5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 1.jpeg",
@@ -236,31 +273,10 @@
     "docs/5. Attachments/Pasted image 20260416094430.html",
     "docs/5. Attachments/Pasted image 20260416134844.html",
     "docs/5. Attachments/Pasted image 20260602132048.html",
-    "2. Areas/Business/Standard Operating Document/Tujuan Strategis - Strategic Objective.md",
     "docs/2. Areas/Business/Standard Operating Document/Tujuan Strategis - Strategic Objective.html",
     "2. Areas/Business/Standard Operating Document/Standard Operating Document Base.base",
     "docs/2. Areas/Business/Standard Operating Document/Standard Operating Document Base.html",
-    "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
     "docs/2. Areas/Business/Standard Operating Document/SOPs/_Index.html",
-    "2. Areas/Business/Standard Operating Document/SOPs/VI.1. Coretax Pajak Keluaran (Impor XML).md",
-    "2. Areas/Business/Standard Operating Document/SOPs/V.2. Proses Rekrutmen.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/V.3. Sistem masukan-opini (feedback).md",
-    "2. Areas/Business/Standard Operating Document/SOPs/V.1. Pembelian Barang Kantor.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/IV.2. Pengambilan dan Penerimaan Barang supplier..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/IV.3. Menanyakan-mencari harga ke supplier baru..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.9 Membuat Sales Order ERPNEXT.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/IV.1. Pengantaran Barang ke pelanggan..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.7. Pencatatan Tagihan..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.8. Pencatatan Penjualan..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.5. Membuat Tanda Terima.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.6. Pencatatan Penjualan..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.2. Prosedur Arsip Nota dan DO Pembelian..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/II.4. Customer Relation Manager (CRM).md",
-    "2. Areas/Business/Standard Operating Document/SOPs/I.6. Log in ke akun gmail purchasing.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/I.4. Laporan Uang Kas.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/I.2. Delivery Order (DO) - Pesan Barang.md",
-    "2. Areas/Business/Standard Operating Document/Draft SOP - cek kondisi mobil.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/I.3. Menerima nota, tagihan, dan Surat Jalan..md",
     "Untitled.canvas"
   ]
 }

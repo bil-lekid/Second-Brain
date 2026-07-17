@@ -4,6 +4,7 @@ tags:
   - StandardOperatingDocument
   - SOP
   - Operations
+Divisi: IV. Operation
 ---
 
 # IV.3. Menanyakan/mencari harga ke supplier baru.

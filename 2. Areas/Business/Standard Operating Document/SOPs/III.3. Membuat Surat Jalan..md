@@ -4,14 +4,10 @@ tags:
   - StandardOperatingDocument
   - SOP
   - Admin
+Divisi: III. Admin
 ---
 
 # III.3. Membuat Surat Jalan.
-
-Source (Notion): https://www.notion.so/29d796f898d780518bbefc828cbecf6b
-Department: Admin  
-Status: Draft  
-Last Updated: 2025-10-31
 
 1. PO diberikan ke admin oleh *purchasing* sesuai instruksi dari manajer. Buat surat jalan untuk masing-masing PO.
 2. Buka file excel INVOICE DAN SURAT JALAN 2024.xlsx: https://panlandwoo-my.sharepoint.com/:x:/p/server/EWXAa_-dfNFPgzfRPjWfJH0Bd4N_3f8xV8Tktwt3_SVXaQ

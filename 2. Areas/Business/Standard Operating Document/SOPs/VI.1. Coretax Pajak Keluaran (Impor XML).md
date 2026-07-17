@@ -3,6 +3,8 @@ tags:
   - SOP
   - Tax
   - Coretax
+  - Finance
+Divisi: VI. Finance
 ---
 
 # Coretax – Pajak Keluaran (Impor XML)

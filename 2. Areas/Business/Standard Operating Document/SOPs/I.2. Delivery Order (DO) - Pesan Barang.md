@@ -4,6 +4,7 @@ tags:
   - StandardOperatingDocument
   - SOP
   - Purchasing
+Divisi: I. Purchasing
 ---
 
 # I.2. Delivery Order (DO) / Pesan Barang

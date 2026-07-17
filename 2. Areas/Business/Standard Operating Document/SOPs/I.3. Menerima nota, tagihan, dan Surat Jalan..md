@@ -4,6 +4,7 @@ tags:
   - StandardOperatingDocument
   - SOP
   - Purchasing
+Divisi: I. Purchasing
 ---
 
 # I.3. Menerima nota, tagihan, dan Surat Jalan.

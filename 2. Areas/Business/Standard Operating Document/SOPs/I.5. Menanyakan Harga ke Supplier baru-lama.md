@@ -4,6 +4,7 @@ tags:
   - StandardOperatingDocument
   - SOP
   - Purchasing
+Divisi: I. Purchasing
 ---
 
 # I.5. Menanyakan Harga ke Supplier baru/lama

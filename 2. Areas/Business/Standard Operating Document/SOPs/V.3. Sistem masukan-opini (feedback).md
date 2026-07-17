@@ -4,6 +4,7 @@ tags:
   - StandardOperatingDocument
   - SOP
   - HR
+Divisi: V. Human Resource
 ---
 
 # V.3. Sistem masukan/opini (feedback)

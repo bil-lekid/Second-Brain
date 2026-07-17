@@ -4,6 +4,7 @@ tags:
   - StandardOperatingDocument
   - SOP
   - Operations
+Divisi: IV. Operation
 ---
 
 # IV.2. Pengambilan dan Penerimaan Barang supplier.

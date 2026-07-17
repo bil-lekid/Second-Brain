@@ -4,6 +4,7 @@ tags:
   - StandardOperatingDocument
   - SOP
   - Purchasing
+Divisi: I. Purchasing
 ---
 
 # I.6. Log in ke akun gmail purchasing

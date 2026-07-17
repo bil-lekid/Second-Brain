@@ -4,6 +4,7 @@ tags:
   - StandardOperatingDocument
   - SOP
   - Sales
+Divisi: II. Sales
 ---
 
 # II.5. Penjualan pada toko
