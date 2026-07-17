@@ -6,14 +6,6 @@ tags:
   - Admin
 Divisi: III. Admin
 ---
-
-# III.1. Membuat Penawaran Harga (PH).
-
-Source (Notion): https://www.notion.so/29d796f898d7805fb86ae9085fcbe931
-Department: Admin  
-Status: Active  
-Last Updated: 2025-07-22
-
 1. Manajer memberikan data penawaran harga *customer* ke admin, data berbentuk tabel nama barang, jumlah barang, harga jual, harga beli, dan apakah harga beli termasuk ppn (ditulis ppn).
 2. Buka aplikasi PPP v0.2.xlsm: https://panlandwoo-my.sharepoint.com/:x:/p/server/Eex3hvR82sFIiO0MOwZPwzQBJPJ_9gaoCiABEo98C8C7HA (lokasi folder di Notion: `D:\\OneDrive - PT Panlandwoo Aksesoris Indonesia\\PPP\\Sales\\Quotation`)
 3. Buka xlsx: https://panlandwoo-my.sharepoint.com/:x:/p/server/EU5IfKOuiJRMjhObNqHHRu8BrE7azrQNqnk8XA6N44votA (lokasi folder di Notion: `D:\\OneDrive - PT Panlandwoo Aksesoris Indonesia\\PPP\\Sales\\Quotation`)

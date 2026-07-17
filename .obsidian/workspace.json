@@ -39,14 +39,17 @@
             "id": "421778e5514febbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2. Areas/Business/Standard Operating Document/SOPs/I.1. Menerima Purchase Order (PO) dan Organisasi PO.md",
-                "mode": "source",
-                "source": false
+                "file": "Proses Bisnis PPP.canvas",
+                "viewState": {
+                  "x": -81.09898451212354,
+                  "y": 809.330901444322,
+                  "zoom": -0.9301313098267794
+                }
               },
-              "icon": "lucide-file",
-              "title": "I.1. Menerima Purchase Order (PO) dan Organisasi PO"
+              "icon": "lucide-layout-dashboard",
+              "title": "Proses Bisnis PPP"
             }
           }
         ],
@@ -233,6 +236,8 @@
   },
   "active": "421778e5514febbb",
   "lastOpenFiles": [
+    "2. Areas/Business/Standard Operating Document/SOPs/I.1. Menerima Purchase Order (PO) dan Organisasi PO.md",
+    "Proses Bisnis PPP.canvas",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "2. Areas/Business/Standard Operating Document/Tujuan Strategis - Strategic Objective.md",
@@ -240,7 +245,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
     "2. Areas/Business/Standard Operating Document/Prinsip Kerja - General Operating Principles.md",
     "2. Areas/Business/Standard Operating Document/Standard Operating Document.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/I.1. Menerima Purchase Order (PO) dan Organisasi PO.md",
     "2. Areas/Business/Standard Operating Document/SOPs/I.2. Delivery Order (DO) - Pesan Barang.md",
     "2. Areas/Business/Standard Operating Document/SOPs/I.3. Menerima nota, tagihan, dan Surat Jalan..md",
     "2. Areas/Business/Standard Operating Document/SOPs/I.4. Laporan Uang Kas.md",
@@ -268,7 +272,6 @@
     "docs/site-lib/styles/main-styles.css",
     "docs/site-lib/styles/global-variable-styles.css",
     "docs/site-lib/scripts/webpage.js",
-    "docs/site-lib/scripts/graph-wasm.wasm",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
     "docs/site-lib/media/6155340132a851f6089e.svg",
@@ -278,7 +281,6 @@
     "docs/5.-attachments/pasted-image-20260602132048.png",
     "docs/5.-attachments/pasted-image-20260603101804.png",
     "docs/5.-attachments/whatsapp-image-2026-06-04-at-11.14.39-am.jpeg",
-    "docs/5.-attachments/pasted-image-20260610092315.png",
-    "Untitled.canvas"
+    "docs/5.-attachments/pasted-image-20260610092315.png"
   ]
 }
