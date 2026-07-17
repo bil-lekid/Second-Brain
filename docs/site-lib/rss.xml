@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Second-Brain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Second-Brain</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 17 Jul 2026 06:26:02 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 17 Jul 2026 06:25:41 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[I.7. Laporan Harian status PO Customer]]></title><description><![CDATA[Department: Purchasing
+Status: DiscussionSupaya owner/manager tahu setiap hari PO customer mana saja yang barangnya belum lengkap, tanpa purchasing harus membuat laporan ulang dari nol.
+PO customer print tetap menjadi pegangan utama purchasing. Purchasing menandai barang yang sudah datang dan belum datang langsung di PO customer print. Purchasing tidak perlu menulis ulang semua barang ke laporan. Yang wajib dilaporkan hanya PO customer yang belum lengkap atau datang sebagian. Jika barang sudah lengkap, PO customer diberikan ke admin/manager sesuai SOP pembelian. Barang yang sudah dipesan diberi tanda centang, barang yang sudah datang diberi tanda highlight. Barang yang belum datang dibiarkan kosong atau diberi tanda khusus. Jika barang datang sebagian, tulis quantity yang sudah datang di sebelah item. Jika ada kendala, tulis singkat di PO customer, contoh: barang kosong supplier belum balas menunggu kiriman kurang qty Purchasing mengirim laporan setiap hari kerja sebelum pulang, purchasing juga mengirim laporan setiap kali purchase order customer barangnya sudah datang lengkap.LAPORAN PO CUSTOMER Tanggal: [tanggal] 1. Customer: [nama customer] PO Customer: [nomor PO customer] Status: Lengkap / Belum lengkap
+Foto PO customer terlampir ]]></description><link>2.-areas/business/standard-operating-document/sops/i.7.-laporan-harian-status-po-customer.html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/I.7. Laporan Harian status PO Customer.md</guid><pubDate>Fri, 17 Jul 2026 06:23:19 GMT</pubDate></item><item><title><![CDATA[VI. Reminder pembayaran rutin ke Sales]]></title><description><![CDATA[
+Masing-masing invoice dibuat ada term of payment, net 30 berarti hutang 30 hari/1 bulan
+net 60 untuk 60 hari cash before delivery
+cash on delivery
+DP %, net brp % buat view tagihan yang belum dibayar yang bisa group by customer, group by bulan bayarnya, bisa kasih filter filter juga berdasarkan itu
+kasih filter contoh sudah lewat lebih dari 3 hari, atau lebih dari seminggu, itu jadi warning levelnya. Buat sistem term of payment dan auto reminder high ⏫
+tulis SOP finance reminder penagihan ke Sales
+]]></description><link>2.-areas/business/standard-operating-document/sops/vi.-reminder-pembayaran-rutin-ke-sales.html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/VI. Reminder pembayaran rutin ke Sales.md</guid><pubDate>Fri, 17 Jul 2026 06:19:51 GMT</pubDate></item><item><title><![CDATA[III.3. Membuat Surat Jalan.]]></title><description><![CDATA[
+PO diberikan ke admin oleh purchasing sesuai instruksi dari manajer. Buat surat jalan untuk masing-masing PO.
+Buka file excel INVOICE DAN SURAT JALAN 2024.xlsx: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://panlandwoo-my.sharepoint.com/:x:/p/server/EWXAa_-dfNFPgzfRPjWfJH0Bd4N_3f8xV8Tktwt3_SVXaQ" target="_self">https://panlandwoo-my.sharepoint.com/:x:/p/server/EWXAa_-dfNFPgzfRPjWfJH0Bd4N_3f8xV8Tktwt3_SVXaQ</a>
+Lihat PO, dari pelanggan mana, buka sheet surat jalan yang sesuai dengan pelanggan pada PO.
+Ganti tanggal pengiriman.
+Buat nomor surat jalan baru.
+Ketik nama barang dan jumlah barang.
+Save surat jalan pada file baru: Tekan alt+ e + m.
+Pada bagian bawah centang "Create a copy".
+Pada bagian to book, tekan drop down.dan tekan "(new book)".
+Save workbook surat jalan baru dengan nama [nomor_surat_jalan] - [nomor_PO]. Contoh: PP_0725_2004 - 25004421 Print surat jalan menggunakan printer dot matrix.
+Stempel surat jalan.
+Minta tandatangan manajer dan purchasing. Lampirkan surat jalan bersama PO. Apabila ada revisi maka akan di revisi.
+Apabila sudah ditandatangan, untuk setiap surat jalan: Tulis nama pengirim sesuai dengan instruksi manajer.
+Surat jalan/invoice copy merah diarsip bersama PO halaman pertama.
+Apabila barang pada PO belum lengkap maka PO dikembalikan ke purchasing. Simpan surat jalan dalam satu map surat jalan, serahkan ke bagian operasional pengirim.
+Catat nomor invoice dan nomor PO pada buku.
+Foto Surat Jalan dan share di grup admin.
+]]></description><link>2.-areas/business/standard-operating-document/sops/iii.3.-membuat-surat-jalan..html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/III.3. Membuat Surat Jalan..md</guid><pubDate>Fri, 17 Jul 2026 05:32:10 GMT</pubDate></item><item><title><![CDATA[VI.1. Coretax Pajak Keluaran (Impor XML)]]></title><description><![CDATA[Referensi DJP (template + converter): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.pajak.go.id/id/reformdjp/coretax/template-xml-dan-converter-excel-ke-xml" target="_self">https://www.pajak.go.id/id/reformdjp/coretax/template-xml-dan-converter-excel-ke-xml</a>Isi Excel → convert jadi XML → import ke Coretax → cek draft → kirim &amp; tanda tangan elektronik.
+Jenis Faktur: selalu Normal.
+Baris: urut mulai 1 (satu faktur = satu baris di sheet Faktur).
+Kalau Kode Transaksi = 07 atau 08: Keterangan Tambahan wajib
+Cap Fasilitas wajib Referensi: pakai nomor invoice internal (rule internal).
+ID TKU Penjual: wajib 22 digit (NITKU) NPWP + 000000.
+Pembeli TIN: NPWP/NIK Pembeli: di sample terisi 16 digit
+ID TKU Pembeli = NPWP/NIK Pembeli + 000000 (jadi 22 digit)
+Nomor Dokumen Pembeli: isi - Kalau Jenis ID Pembeli bukan TIN: NPWP/NIK Pembeli = 0000000000000000
+ID TKU Pembeli = 000000 Sheet DetailFaktur: Baris harus match Faktur.Baris
+Angka (harga/qty/dpp/dll) max 2 desimal
+Total Diskon: kalau tidak ada isi 0
+Tarif PPnBM &amp; PPnBM: kalau tidak ada isi 0 Isi minimal: Baris, Tanggal Faktur, Jenis Faktur, Kode Transaksi, Referensi, ID TKU Penjual, data pembeli (NPWP/NIK, Jenis ID, Negara, Nama, Alamat, ID TKU Pembeli).Untuk tiap item, isi: Baris, Barang/Jasa (A=Barang, B=Jasa), Nama Barang/Jasa, Nama Satuan Ukur, Harga Satuan, Jumlah, Diskon.
+Biarkan formula hitung DPP/PPN jalan (jangan copas sebagai value kalau bisa).
+Jalankan converter DJP → pilih jenis XML: Faktur Pajak Keluaran → simpan XML.
+Coretax: e-Faktur → Pajak Keluaran → Impor Data → pilih XML.
+Cek draft → Kirim → tanda tangan elektronik.
+]]></description><link>2.-areas/business/standard-operating-document/sops/vi.1.-coretax-pajak-keluaran-(impor-xml).html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/VI.1. Coretax Pajak Keluaran (Impor XML).md</guid><pubDate>Fri, 17 Jul 2026 05:24:37 GMT</pubDate></item><item><title><![CDATA[V.3. Sistem masukan-opini (feedback)]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29d796f898d78029a653df1f140faa3a" target="_self">https://www.notion.so/29d796f898d78029a653df1f140faa3a</a>
+Department: HR
+Status: Draft
+Last Updated: 2025-07-30
+Panggil untuk sesi review 1 on 1.
+Setiap hari Rabu, Kamis, Jumat.
+Format lisan:
+Apa yang sudah kamu capai minggu ini?
+Apa kendala atau hambatan yang muncul?
+Apa yang bisa dibantu / dipercepat?
+Ada saran atau kritik buat sistem atau rekan kerja?
+Target apa minggu depan?
+]]></description><link>2.-areas/business/standard-operating-document/sops/v.3.-sistem-masukan-opini-(feedback).html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/V.3. Sistem masukan-opini (feedback).md</guid><pubDate>Fri, 17 Jul 2026 05:24:21 GMT</pubDate></item><item><title><![CDATA[V.2. Proses Rekrutmen]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29d796f898d78042ad25c66a760cc94c" target="_self">https://www.notion.so/29d796f898d78042ad25c66a760cc94c</a>
+Department: HR
+Status: Draft
+Last Updated: 2025-07-25
+Calon karyawan melamar.
+Cek CV dari calon karyawan,.
+HR mengarahkan ke psikotes dan test IQ.
+Setelah pelamar menyelesaikan psikotes, jadwalkan interview dengan HR.
+Pada interview, HR memastikan kualitas pelamar, dari prioritas tertinggi: Semangat kerja, kemauan kerja, mau ikuti filosofi work the system.
+Kemampuan bahasa, verbal, baca, dan tulis.
+Kemampuan belajar, kuliah belum tentu jago belajar.
+Kemampuan interpersonal, team worker.
+Apakah duduk tegak.
+Apakah peserta dapat fokus terhadap pertanyaan.
+Gesture
+Sopan santun.
+Percaya diri.
+Skill dan pengalaman. Schedule interview dengan manajer.
+Apabila lolos. Minta tes kesehatan dan SKCK. Cek riwayat kesehatan terutama narkoba, dan riwayat kriminal.
+]]></description><link>2.-areas/business/standard-operating-document/sops/v.2.-proses-rekrutmen.html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/V.2. Proses Rekrutmen.md</guid><pubDate>Fri, 17 Jul 2026 05:24:16 GMT</pubDate></item><item><title><![CDATA[V.1. Pembelian Barang Kantor]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29d796f898d780ca96b0d6527ba377eb" target="_self">https://www.notion.so/29d796f898d780ca96b0d6527ba377eb</a>
+Department: HR
+Status: Draft
+Pengguna barang meminta untuk membeli barang.
+Untuk barang dibeli ke vendor: Aqua galon (+62 822-2360-1310), bisa diantar ke kantor
+(Belum diisi) ]]></description><link>2.-areas/business/standard-operating-document/sops/v.1.-pembelian-barang-kantor.html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/V.1. Pembelian Barang Kantor.md</guid><pubDate>Fri, 17 Jul 2026 05:24:11 GMT</pubDate></item><item><title><![CDATA[IV.3. Menanyakan-mencari harga ke supplier baru.]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29d796f898d780db87fae0a5ce2d08dd" target="_self">https://www.notion.so/29d796f898d780db87fae0a5ce2d08dd</a>
+Department: Operations
+Status: Active
+Bawa kartu nama CV Prima Putra Perkasa, dengan tujuan tukar kartu nama.
+Pergi ke toko supplier sesuai instruksi dari purchasing.
+Berikan kartu nama kepada toko/supplier, dan tanyakan harga barang.
+Minta kartu nama toko/supplier/sales, dan minta tuliskan harga barang pada bagian belakang kartu nama.
+Apabila tidak ada kartu nama, bisa tulis di belakang kartu nama CV Prima Putra Perkasa, atau kertas kosong dilengkapi dengan nomor telepon dan alamat toko.
+Bawa kembali dan serahkan kartu nama/kertas kepada purchasing untuk dicatat.
+]]></description><link>2.-areas/business/standard-operating-document/sops/iv.3.-menanyakan-mencari-harga-ke-supplier-baru..html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/IV.3. Menanyakan-mencari harga ke supplier baru..md</guid><pubDate>Fri, 17 Jul 2026 05:23:58 GMT</pubDate></item><item><title><![CDATA[IV.2. Pengambilan dan Penerimaan Barang supplier.]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29d796f898d780408e80cab13743e59b" target="_self">https://www.notion.so/29d796f898d780408e80cab13743e59b</a>
+Department: Operations
+Status: Active
+Last Updated: 2025-11-24
+Untuk pengambilan barang ke supplier, DO akan diberikan dari purchasing dan uang belanja. Pergi ke toko supplier dan beli barang.
+Untuk penerimaan barang dari supplier, kurir akan datang ke toko.
+Saat barang sudah sampai toko untuk pengambilan dan penerimaan, berikan nota belanja dan kembalian kalau ada ke purchasing.
+Kembali cek barang bersama purchasing apabila sudah sesuai dengan DO/nota yang diberikan.
+Apabila sudah sesuai, diatas DO tertulis barang untuk customer siapa dan nomor PO.
+Rapikan dan kelompokkan barang berdasarkan nomor PO, untuk kerapian masing-masing plastik ditandakan untuk customer siapa dan nomor PO berapa.
+]]></description><link>2.-areas/business/standard-operating-document/sops/iv.2.-pengambilan-dan-penerimaan-barang-supplier..html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/IV.2. Pengambilan dan Penerimaan Barang supplier..md</guid><pubDate>Fri, 17 Jul 2026 05:23:53 GMT</pubDate></item><item><title><![CDATA[IV.1. Pengantaran Barang ke pelanggan.]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29d796f898d7802e87ccd0e91da5f9d1" target="_self">https://www.notion.so/29d796f898d7802e87ccd0e91da5f9d1</a>
+Department: Operations
+Status: DraftCatatan: page ini kosong (blank) di Notion saat export.]]></description><link>2.-areas/business/standard-operating-document/sops/iv.1.-pengantaran-barang-ke-pelanggan..html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/IV.1. Pengantaran Barang ke pelanggan..md</guid><pubDate>Fri, 17 Jul 2026 05:23:47 GMT</pubDate></item><item><title><![CDATA[III.9 Membuat Sales Order ERPNEXT]]></title><description><![CDATA[
+Sales Order (SO) dibuat secepat mungkin supaya semua pembelian punya nomor tracking.
+PO customer disimpan admin di folder customer OneDrive sebelum dicetak.
+PO customer fisik diberikan ke purchasing sebagai pegangan pembelian.
+Nomor SO ditulis di PO customer fisik untuk pencatatan DO/nota/bukti pembelian. Buka erp.primaputraperkasa.com.
+Login.
+Buka Purchase Order customer pada tab windows berbeda, safe juga pdf purchase order pada folder onedrive\purchase order.
+Tekan ctrl+g dan cari Sales Order List.
+Tekan tambah Sales Order.
+Isi customer.
+Isi customer purchase order: Jika PO customer sudah ada, isi nomor PO customer.
+Jika PO customer belum ada, isi "PO menyusul". Isi tanggal PO customer: Jika PO customer sudah ada, isi tanggal sesuai dokumen PO.
+Jika PO customer belum ada, isi tanggal request customer. Isi bagian barang sesuai PO customer atau request customer: Item code: isi Trading Barang Mekanikal jika belum ada item code khusus.
+Item name: isi nama barang.
+Description: isi detail barang jika perlu.
+Quantity: isi jumlah barang.
+UOM: isi satuan barang, misalnya pcs, pak, klg, dll. Isi sales and tax category. Gunakan Indonesian tax untuk PPN Indonesia.
+Pastikan address contact, billing address, dan contact person terisi sesuai.
+Isi payment terms sesuai customer, misalnya Net 30 atau Net 60.
+Save sebagai Draft.
+Nomor Sales Order berupa SAL-ORD-YYYY-XXXXX muncul, rename file pdf tambahkan nomor sales order di depan nama file (nama file - nomor sales order.pdf).
+Admin Print SO Draft, berikan ke manager.
+Manager/owner cek SO Draft.
+Kalau SO belum OK, admin revisi. Admin save bukti request customer ke folder customer OneDrive.
+Isi customer purchase order dengan "PO menyusul".
+Manager/owner wajib approve sebelum barang dibeli atau dikirim.
+Saat PO customer resmi datang, admin update nomor PO customer di ERPNext dan arsip.
+]]></description><link>2.-areas/business/standard-operating-document/sops/iii.9-membuat-sales-order-erpnext.html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/III.9 Membuat Sales Order ERPNEXT.md</guid><pubDate>Fri, 17 Jul 2026 05:23:25 GMT</pubDate></item><item><title><![CDATA[III.8. Pencatatan Penjualan.]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29d796f898d780ec9ca9fb61d5c91e74" target="_self">https://www.notion.so/29d796f898d780ec9ca9fb61d5c91e74</a>
+Department: Admin
+Status: DraftCatatan: page ini kosong (blank) di Notion saat export.]]></description><link>2.-areas/business/standard-operating-document/sops/iii.8.-pencatatan-penjualan..html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/III.8. Pencatatan Penjualan..md</guid><pubDate>Fri, 17 Jul 2026 05:23:17 GMT</pubDate></item><item><title><![CDATA[III.7. Pencatatan Tagihan.]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29d796f898d7800992bac6b583027e3e" target="_self">https://www.notion.so/29d796f898d7800992bac6b583027e3e</a>
+Department: Admin
+Status: DraftCatatan: page ini kosong (blank) di Notion saat export.]]></description><link>2.-areas/business/standard-operating-document/sops/iii.7.-pencatatan-tagihan..html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/III.7. Pencatatan Tagihan..md</guid><pubDate>Fri, 17 Jul 2026 05:23:13 GMT</pubDate></item><item><title><![CDATA[III.6. Pencatatan Penjualan.]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29d796f898d780b4a77ed655fa52701f" target="_self">https://www.notion.so/29d796f898d780b4a77ed655fa52701f</a>
+Department: Admin
+Status: DraftCatatan: page ini kosong (blank) di Notion saat export.]]></description><link>2.-areas/business/standard-operating-document/sops/iii.6.-pencatatan-penjualan..html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/III.6. Pencatatan Penjualan..md</guid><pubDate>Fri, 17 Jul 2026 05:23:10 GMT</pubDate></item><item><title><![CDATA[III.5. Membuat Tanda Terima]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29d796f898d78006a587f201d4e40c97" target="_self">https://www.notion.so/29d796f898d78006a587f201d4e40c97</a>
+Department: Admin
+Status: DraftCatatan: page ini kosong (blank) di Notion saat export.]]></description><link>2.-areas/business/standard-operating-document/sops/iii.5.-membuat-tanda-terima.html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/III.5. Membuat Tanda Terima.md</guid><pubDate>Fri, 17 Jul 2026 05:23:05 GMT</pubDate></item><item><title><![CDATA[III.4. Membuat Invoice.]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29d796f898d78001888bf72dda2a0a2a" target="_self">https://www.notion.so/29d796f898d78001888bf72dda2a0a2a</a>
+Department: Admin
+Status: Draft
+Last Updated: 2025-11-21
+Apabila surat jalan sudah kembali dengan tandatangan penerima, maka buat invoice (khusus Meiloon, invoice dibuat per 5 pengiriman).
+<br>Buka file excel INVOICE DAN SURAT JALAN 2024.xlsx: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://panlandwoo-my.sharepoint.com/:x:/p/server/EWXAa_-dfNFPgzfRPjWfJH0Bd4N_3f8xV8Tktwt3_SVXaQ" target="_self">https://panlandwoo-my.sharepoint.com/:x:/p/server/EWXAa_-dfNFPgzfRPjWfJH0Bd4N_3f8xV8Tktwt3_SVXaQ</a>
+Ubah tanggal invoice menjadi tanggal surat jalan.
+Buat nomor invoice baru.
+Ubah nomor PO dan nomor surat jalan.
+Buka file excel surat jalan, kemudian copy paste nama barang dan jumlah. Atau ketik berdasarkan surat jalan.
+Ketik harga sesuai dengan PO.
+Cek kembali kata-kata dan jumlah harus sesuai dengan PO.
+Save surat jalan pada file baru: Tekan alt+ e + m.
+Pada bagian bawah centang "Create a copy".
+Pada bagian to book, tekan drop down.dan tekan "(new book)".
+Save workbook surat jalan baru dengan nama [nomor_surat_jalan] - [nomor_PO]. Contoh: PP_0725_2004 - 25004421 Apabila sudah sesuai cetak invoice pada printer dot matrix.
+Lampirkan bersama surat jalan dan PO.
+Stempel invoice asli pada bagian tanda tangan, apabila jumlah invoice melibihi Rp. 5.000.000 tempel materai dan stempel pada bagian tanda tangan.
+Minta bagian purchasing dan manager untuk tanda tangan.
+Apabila sudah ditandatangan, robek bagian samping invoice.
+Simpan invoice dan lampirannya dalam satu map, serahkan ke bagian operasional pengirim.
+Persiapkan juga faktur pajak.
+Catat nomor invoice dan nomor PO pada buku.
+]]></description><link>2.-areas/business/standard-operating-document/sops/iii.4.-membuat-invoice..html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/III.4. Membuat Invoice..md</guid><pubDate>Fri, 17 Jul 2026 05:23:01 GMT</pubDate></item><item><title><![CDATA[III.2. Prosedur Arsip Nota dan DO Pembelian.]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29d796f898d780aeb8e3cbd06008ed88" target="_self">https://www.notion.so/29d796f898d780aeb8e3cbd06008ed88</a>
+Department: Admin
+Status: Draft
+Last Updated: 2026-05-08SOP ini mengatur pencatatan pembelian dari purchasing ke ERPNext, mulai dari bukti pembelian masuk sampai Purchase Invoice difinalisasi dan arsip fisik disimpan manager/owner.
+Nomor Purchase Order Customer (SO) adalah reference utama untuk pembelian.
+Pembelian dicatat per nomor Purchase Order Customer.
+Purchase Invoice dibuat Draft saat barang datang, walaupun nota asli supplier belum lengkap.
+Purchase Invoice Draft tidak perlu dicetak.
+Nomor Purchase Invoice Draft ditulis di bukti pembelian fisik.
+Nota pembelian diarsip berdasarkan nomor Purchase Order Customer dan di klip bersama dengan Purchase Order Customer Fisik. Purchasing memberikan bukti pembelian ke admin setelah barang datang.
+Bukti pembelian bisa berupa: PO/DO tulis tangan.
+Nota supplier.
+Struk.
+Screenshot WA.
+Catatan pembelian purchasing.
+Foto barang disertai info supplier dan harga. Admin cek informasi minimal: Nomor SO.
+Nama supplier.
+Nama customer.
+Nama barang.
+Jumlah barang.
+Nominal pembelian sementara jika ada. Admin buka ERPNext dan buat Purchase Invoice.
+Purchase Invoice disimpan sebagai Draft.
+Isi reference SO di Purchase Invoice supaya pembelian bisa ditelusuri ke customer/SO.
+Jika ada foto PO/DO/nota/struk/screenshot, admin attach ke Purchase Invoice.
+Admin tulis nomor Purchase Invoice Draft di bukti pembelian fisik.
+Kalau nota asli belum ada, beri catatan "Pending Nota". Admin cocokkan nota pembelian supplier dengan Purchase Invoice Draft berdasarkan nomor Purchase Invoice yang tertulis di bukti fisik.
+Admin cek: Nama supplier.
+Nama barang.
+Jumlah barang.
+Harga beli.
+PPN/non-PPN.
+Total pembelian.
+Nomor SO/customer terkait. Kalau ada selisih, admin revisi Purchase Invoice Draft atau koordinasi ke purchasing/manager.
+Kalau sudah cocok, Purchase Invoice Draft dan nota pembelian dipakai untuk laporan uang kas. Finance/admin hitung total pembelian yang memakai uang kas.
+Cocokkan uang kas keluar dengan nota pembelian.
+Cocokkan pembelian dengan nomor SO/customer.
+Ajukan refill uang kas jika perlu.
+Manager/owner approve refill uang kas. Admin cari Purchase Invoice Draft di ERPNext berdasarkan nomor Purchase Invoice yang tertulis di bukti fisik.
+Admin edit Purchase Invoice sesuai nota pembelian final.
+Admin foto/scan nota pembelian dan attach ke Purchase Invoice.
+Admin finalisasi Purchase Invoice setelah data sesuai.
+Admin susun nota pembelian berdasarkan nomor SO.
+Arsip fisik diberikan ke manager/owner untuk disimpan. Purchase Invoice ERPNext final dan punya attachment nota pembelian.
+Pembelian bisa dilihat per SO/customer.
+Nota fisik tersusun per SO.
+Manager/owner menyimpan arsip fisik.
+Finance bisa cek pembelian, kas, dan margin dari ERPNext serta arsip fisik saat diperlukan.
+]]></description><link>2.-areas/business/standard-operating-document/sops/iii.2.-prosedur-arsip-nota-dan-do-pembelian..html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/III.2. Prosedur Arsip Nota dan DO Pembelian..md</guid><pubDate>Fri, 17 Jul 2026 05:22:51 GMT</pubDate></item><item><title><![CDATA[III.1. Membuat Penawaran Harga (PH).]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29d796f898d7805fb86ae9085fcbe931" target="_self">https://www.notion.so/29d796f898d7805fb86ae9085fcbe931</a>
+Department: Admin
+Status: Active
+Last Updated: 2025-07-22
+Manajer memberikan data penawaran harga customer ke admin, data berbentuk tabel nama barang, jumlah barang, harga jual, harga beli, dan apakah harga beli termasuk ppn (ditulis ppn).
+<br>Buka aplikasi PPP v0.2.xlsm: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://panlandwoo-my.sharepoint.com/:x:/p/server/Eex3hvR82sFIiO0MOwZPwzQBJPJ_9gaoCiABEo98C8C7HA" target="_self">https://panlandwoo-my.sharepoint.com/:x:/p/server/Eex3hvR82sFIiO0MOwZPwzQBJPJ_9gaoCiABEo98C8C7HA</a> (lokasi folder di Notion: D:\\OneDrive - PT Panlandwoo Aksesoris Indonesia\\PPP\\Sales\\Quotation)
+<br>Buka xlsx: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://panlandwoo-my.sharepoint.com/:x:/p/server/EU5IfKOuiJRMjhObNqHHRu8BrE7azrQNqnk8XA6N44votA" target="_self">https://panlandwoo-my.sharepoint.com/:x:/p/server/EU5IfKOuiJRMjhObNqHHRu8BrE7azrQNqnk8XA6N44votA</a> (lokasi folder di Notion: D:\\OneDrive - PT Panlandwoo Aksesoris Indonesia\\PPP\\Sales\\Quotation)
+Ganti nomor PH untuk membuat PH baru.
+Ganti customer sesuai dengan instruksi manajer.
+Ketik semua nama barang, jumlah, unit, harga satuan, harga beli, dan ppn.
+Apabila semua barang sudah dimasukkan dan sudah dicek kembali, tekan "save to database" untuk menyimpan data ke database.xlsx.
+Tekan tombol "save to excel and pdf" untuk menyimpan file berformat .xlsx dan .pdf. File akan disimpan pada folder customer sesuai dengan PH yang dibuat.
+Kirim PDF ke Manajer.
+Note:
+Apabila PH ingin dijadikan satu halaman, bisa gunakan step berikut: Pada aplikasi PPP v0.2.xlsm, sheet Quotation2, tekan ctrl + P.
+Pada setting ganti No Scalling menjadi Fit Sheet on One Page.
+Tekan esc.
+Tekan tombol "save to excel and pdf". ]]></description><link>2.-areas/business/standard-operating-document/sops/iii.1.-membuat-penawaran-harga-(ph)..html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/III.1. Membuat Penawaran Harga (PH)..md</guid><pubDate>Fri, 17 Jul 2026 05:22:47 GMT</pubDate></item><item><title><![CDATA[II.5. Penjualan pada toko]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29c796f898d78079be0bfae547a4020f" target="_self">https://www.notion.so/29c796f898d78079be0bfae547a4020f</a>
+Department: Sales
+Status: Active
+Last Updated: 2025-10-30
+Foot traffic, pejalan kaki pada mall dekat toko. Beberapa waktu akan menanyakan apakah ada jual barang x.
+Tanyakan kembali dulu kalau yakin pernah jual,
+iya ada, bapaknya beli untuk kebutuhan pribadi atau kebutuhan perusahaan?"
+Kalau kebutuhan pribadi bisa langsung arahkan ke toko retail.
+Kalau perusahaan bisa tanyakan kembali, "Baik bapak cari toko retail yang langsung jual barang atau yang supplier yang pesanan per PO?"
+Apabila toko retail bisa langsung arahkan ke toko retail.
+Kalau pesanan per PO bisa tanyakan kebutuhan nama perusahaan
+]]></description><link>2.-areas/business/standard-operating-document/sops/ii.5.-penjualan-pada-toko.html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/II.5. Penjualan pada toko.md</guid><pubDate>Fri, 17 Jul 2026 05:22:42 GMT</pubDate></item><item><title><![CDATA[II.4. Customer Relation Manager (CRM)]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29c796f898d7808a8bcef9546b81f78f" target="_self">https://www.notion.so/29c796f898d7808a8bcef9546b81f78f</a>
+Department: Sales
+Status: DraftCatatan: page ini kosong (blank) di Notion saat export.]]></description><link>2.-areas/business/standard-operating-document/sops/ii.4.-customer-relation-manager-(crm).html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/II.4. Customer Relation Manager (CRM).md</guid><pubDate>Fri, 17 Jul 2026 05:22:39 GMT</pubDate></item><item><title><![CDATA[II.3. Cold Call-outreach, Telepon calon pelanggan baru.]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29c796f898d780da8c67fda7beb1e598" target="_self">https://www.notion.so/29c796f898d780da8c67fda7beb1e598</a>
+Department: Sales
+Status: Draft
+Last Updated: 2026-03-30SOP ini mengatur tata cara pelaksanaan aktivitas cold calling oleh tim sales CV Prima Putra Perkasa dalam rangka memperoleh prospek baru dari sektor manufaktur.
+Kegiatan cold calling bertujuan untuk:
+Mengidentifikasi pihak yang berwenang (PIC) dalam pengadaan barang
+Menggali kebutuhan terkait produk electrical, mechanical, industrial supplies, dan safety
+Membuka peluang kerja sama melalui penjadwalan meeting
+Mengonversi prospek menjadi opportunity di sistem ERPNext
+SOP ini berlaku untuk seluruh tim sales yang menggunakan ERPNext sebagai sistem utama pengelolaan prospek dan pipeline.
+SOP ini mencakup seluruh proses aktivitas sales awal, meliputi:
+Persiapan dan segmentasi data prospek (lead)
+Pelaksanaan cold calling
+Pencatatan aktivitas di CRM
+Proses follow-up
+Konversi lead menjadi opportunity atau closed Lead: Data perusahaan yang belum pernah melakukan transaksi
+PIC (Person In Charge): Individu yang bertanggung jawab terhadap pengadaan atau penggunaan barang
+Opportunity: Lead yang telah memiliki kebutuhan atau potensi transaksi
+Outcome: Hasil dari aktivitas call
+Next Action: Tindak lanjut yang harus dilakukan setelah call Data lead disiapkan maksimal H-1
+Jumlah minimal 3“50 perusahaan per hari
+Data minimal meliputi: Nama perusahaan
+Nomor telepon
+Industri (manufaktur)
+Lokasi A Tier: Perusahaan dengan potensi tinggi
+B Tier: Perusahaan dengan potensi menengah 08.30 “ 11.30: Cold calling utama
+13.30 “ 15.30: Follow-up dan call lanjutan
+15.30 “ 17.30: Input CRM dan persiapan data Masuk ke modul CRM di ERPNext
+Filter lead berdasarkan industri manufaktur dan status aktif
+Pilih lead untuk dihubungi Menghubungi perusahaan dan mendapatkan PIC
+Melakukan validasi awal kebutuhan
+Mengarahkan percakapan ke penjadwalan meeting
+a. Operator / Gatekeeper
+Meminta sambungan ke purchasing, procurement, engineering, atau maintenance
+b. PIC
+Perkenalan singkat dan relevan
+Menyampaikan posisi sebagai supplier kebutuhan industrial
+Menyampaikan relevansi (problem proposition)
+c. Kualifikasi
+Mengidentifikasi kebutuhan utama secara singkat
+Menentukan relevansi produk
+d. Penutupan
+Mengarahkan ke meeting atau diskusi lanjutan
+Menentukan waktu follow-up
+Setiap aktivitas wajib dicatat di ERPNext:
+Call Status
+Connected / No Answer / Gatekeeper / PIC Connected / Invalid
+Outcome
+Not Relevant
+Call Back
+Meeting Scheduled
+Meeting Pending
+Opportunity
+Catatan (Notes)
+Nama dan jabatan PIC
+Kebutuhan / insight
+Informasi penting
+Next action dan tanggal follow-up
+Setiap lead wajib memiliki tindak lanjut yang jelas, antara lain:
+Penjadwalan meeting
+Follow-up pada tanggal tertentu
+Persiapan penawaran
+Pengumpulan kebutuhan teknis
+Lead dikonversi menjadi opportunity apabila:
+Terdapat kebutuhan aktif
+Prospek meminta penawaran
+Prospek membuka peluang kerja sama
+Terdapat diskusi lanjutan yang spesifik
+Lead dinyatakan selesai dan dikonversi menjadi Closed apabila tidak memerlukan tindak lanjut aktif dalam jangka pendek.
+Closed “ Won
+Terjadi transaksi atau pembelian
+Prospek menjadi customer aktif
+Closed “ Lost
+Tidak ada kebutuhan atau tidak relevan
+Tidak terdapat respon setelah siklus follow-up selesai
+Prospek tidak membuka peluang kerja sama
+Kontak tidak valid
+Lead dengan status Closed “ Lost tetap disimpan dan dijadwalkan untuk re-engagement dalam periode 6“12 bulan. Follow-up dilakukan secara bertahap dan konsisten
+Waktu panggilan divariasikan
+Seluruh aktivitas dicatat di ERPNext dan disertai next action
+Follow-up dihentikan apabila:
+Siklus follow-up telah selesai
+Prospek tidak relevan atau menolak
+Lead dialihkan ke status Nurture atau Closed “ Lost
+Komunikasi follow-up bersifat singkat dan berorientasi pada meeting, meliputi:
+Pengingat perkenalan sebelumnya
+Validasi kebutuhan
+Penekanan relevansi solusi
+Arahkan ke penjadwalan diskusi
+Tidak diperkenankan melakukan penjelasan produk secara panjang pada tahap ini. Komunikasi singkat, jelas, dan relevan
+Seluruh aktivitas dicatat di CRM
+Setiap lead memiliki next action Melakukan call tanpa membuka data CRM
+Tidak mencatat hasil aktivitas
+Tidak menentukan tindak lanjut
+Memberikan informasi yang tidak akurat
+Target minimum harian:
+3“50 call
+5“10 PIC teridentifikasi
+1“3 opportunity Aktivitas yang konsisten lebih penting daripada kesempurnaan
+Volume call berbanding lurus dengan peluang
+Fokus utama adalah memperoleh meeting, bukan sekadar perkenalan
+Setiap aktivitas harus menghasilkan langkah lanjutan yang jelas
+Penolakan merupakan bagian dari proses penjualan Minta permisi
+Selamat pagi/siang/malam Pak, saya Billy dari Prima Putra Perkasa. Kami biasanya bantu pabrik untuk supply kebutuhan listrik dan mekanik untuk pabrik. Saya tahu ini cold call, tapi boleh saya ambil 30 detik untuk jelaskan kenapa saya hubungi bapak, nanti bapak bebas lanjut atau tidak?
+"Selamat pagi pak, Billy dari Prima Putra Perkasa.Kami biasanya bantu pabrik untuk kebutuhan maintenance seperti bearing, seal, atau barang yang agak susah dicari.Saya tahu ini cold call "boleh ambil 30 detik, nanti bapak bebas lanjut atau tidak?"
+Pernah dengar namanya?
+Pagi/siang/malam saya Billy dari Prima Putra Perkasa, perusahaan general supplier. Kami sering bantu industri pabrik seperti PT. Maxxis Indonesia, PT. Kenda Rubber Indonesia dan banyak lainnya untuk pembelian barang listrik dan mekanik dan berbagai macam barang lainnya. Apakah pernah dengar Prima Putra Perkasa?
+Alasan saya telepon, Pak, karena dari pengalaman saya bantu beberapa pabrik, biasanya tim purchasing itu suka ketemu situasi seperti Vendor Pain Angle Reliability Pain "Kadang supplier janji lead time sekian, tapi realisasinya molor dan ganggu schedule produksi" Quality vs Price Pain "Atau dapat harga murah tapi ujungnya barang cepat rusak dan yang ujung-ujungnya dimarahin pasti purchasingnya" Responsiveness Pain "Atau butuh urgent tapi vendor existing agak lambat responnya jadi harus cari-cari vendor lainnya lagi" Downtime Pain Angle "Biasanya kalau vendor kurang reliable, efeknya ke maintenance juga”mesin bisa nunggu part dan akhirnya downtime" One-line solution "Nah biasanya kami jadi partnernya tim purchasing, kami punya banyak koneksi distributor dan barang yang belum kami pernah beli pun akan tetap kami bantu cari dari network kami.
+Jadi biasanya tim purchasing tinggal kasih spek atau kebutuhan saja, nanti kami yang bantu carikan.&lt;br&gt;Jadi lebih hemat waktu dan nggak perlu handle banyak vendor untuk hal-hal kecil atau urgent. ]]></description><link>2.-areas/business/standard-operating-document/sops/ii.3.-cold-call-outreach,-telepon-calon-pelanggan-baru..html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/II.3. Cold Call-outreach, Telepon calon pelanggan baru..md</guid><pubDate>Fri, 17 Jul 2026 05:22:36 GMT</pubDate></item><item><title><![CDATA[II.2. Mencari Harga Repeat (Harga yang sudah pernah dibeli).]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29c796f898d780df8142fc3cdb4b2e01" target="_self">https://www.notion.so/29c796f898d780df8142fc3cdb4b2e01</a>
+Department: Sales
+Status: Active
+Last Updated: 2025-07-21
+<br>Buka <a rel="noopener nofollow" class="external-link is-unresolved" href="http://192.168.1.100:5173/" target="_self">http://192.168.1.100:5173/</a>
+Tekan nama customer di bagian kiri dashboard untuk mencari barang yang pernah dibeli customer tersebut.
+Gunakan search bar untuk mencari* *barang yang ingin dicari Harga Repeat.
+Dari nomor 1 hingga akhir PH, cari barang satu per satu.
+Gunakan screenshot (win + shift + s) untuk memotong gambar.
+Di WA, paste gambar screenshot, dikirim ke manajer.
+Apabila sudah tidak ada lagi harga repeat (barang sudah dicari semua). Kirim ke manajer pesan "Sudah repeat."
+]]></description><link>2.-areas/business/standard-operating-document/sops/ii.2.-mencari-harga-repeat-(harga-yang-sudah-pernah-dibeli)..html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/II.2. Mencari Harga Repeat (Harga yang sudah pernah dibeli)..md</guid><pubDate>Fri, 17 Jul 2026 05:22:30 GMT</pubDate></item><item><title><![CDATA[II.1. Meminta Penawaran Harga (PH)]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29c796f898d780d69a31d9be60256e43" target="_self">https://www.notion.so/29c796f898d780d69a31d9be60256e43</a>
+Department: Sales
+Status: Active
+Last Updated: 2025-07-21
+Klien meminta Permintaan Harga (Quotation) untuk barang. Balas segera," Baik kami cek sebentar."
+Forward permintaan harga ke purchasing. Tunggu purchasing mencari harga beli.
+<br>Purchasing memberikan harga ke manajer. Khusus Daijo dan Meiloon, cari <a class="internal-link" data-href="/29c796f898d780df8142fc3cdb4b2e01?pvs=25" href=".html" target="_self" rel="noopener nofollow">harga repeat</a> terlebih dahulu.
+Manajer memberikan harga jual ke Admin, tunggu buat dokumen penawaran harga.
+Admin kirim PH ke Manajer tanda tangan PH.
+Manajer kirim PH ke sales. Sales mengirim PH ke customer.
+]]></description><link>2.-areas/business/standard-operating-document/sops/ii.1.-meminta-penawaran-harga-(ph).html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/II.1. Meminta Penawaran Harga (PH).md</guid><pubDate>Fri, 17 Jul 2026 05:22:27 GMT</pubDate></item><item><title><![CDATA[I.6. Log in ke akun gmail purchasing]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29c796f898d7803fab60c9b9571ed419" target="_self">https://www.notion.so/29c796f898d7803fab60c9b9571ed419</a>
+Department: Purchasing
+Status: Draft
+Last Updated: 2025-07-23Catatan keamanan: password di SOP asli aku redact. Simpan kredensial di password manager (Bitwarden/1Password/dll) lalu refer dari sini.
+Pada HP Android buka setting
+Buka Accounts and backup
+Buka Manage accounts
+Tekan Add Account
+Tekan Google
+<br>Masukkan Email, <a data-tooltip-position="top" aria-label="mailto:purchasingppp1@gmail.com" rel="noopener nofollow" class="external-link is-unresolved" href="mailto:purchasingppp1@gmail.com" target="_self">purchasingppp1@gmail.com</a>
+Masukkan Password, [REDACTED]
+Lanjutkan proses login. (Apabila menggunakan QR kirim QR ke manajer)
+Buka contact dan sync contact.
+]]></description><link>2.-areas/business/standard-operating-document/sops/i.6.-log-in-ke-akun-gmail-purchasing.html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/I.6. Log in ke akun gmail purchasing.md</guid><pubDate>Fri, 17 Jul 2026 05:22:19 GMT</pubDate></item><item><title><![CDATA[I.5. Menanyakan Harga ke Supplier baru-lama]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29b796f898d7807394f2c455bf02bce4" target="_self">https://www.notion.so/29b796f898d7807394f2c455bf02bce4</a>
+Department: Purchasing
+Status: Draft
+Last Updated: 2025-07-23
+<br>Save nomor WA, atau nomor telepon kantor pada aplikasi google kontak ke email <a data-tooltip-position="top" aria-label="mailto:purchasingppp1@gmail.com" rel="noopener nofollow" class="external-link is-unresolved" href="mailto:purchasingppp1@gmail.com" target="_self">purchasingppp1@gmail.com</a>.
+Perkenalkan diri, "Permisi saya dari Prima Putra Perkasa, ingin tanya harga/ingin tanya ada jual barang ini?"
+<br>Apabila di WA, berikan foto kartu nama CV Prima Putra Perkasa: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://panlandwoo-my.sharepoint.com/:i:/p/server/EZNctWz7S6RBgBy8IPCLlNEB2VtiHoqi0iyyJZkmCxAAvw" target="_self">https://panlandwoo-my.sharepoint.com/:i:/p/server/EZNctWz7S6RBgBy8IPCLlNEB2VtiHoqi0iyyJZkmCxAAvw</a>
+Tanya barang yang ingin dicari harganya, "ingin tanya harga: barang_x."
+Apabila sudah dibalas dan belum diinfokan mengenai ppn. Tanya apabila harganya sudah include ppn (barang include ppn sudah ditambah 11% dari harga netto).
+Tanya apabila barangnya ready (barangnya ada stoknya).
+Tuliskan pada kertas permintaan harga.
+Apabila sudah diberikan, balas "Baik, terima kasih. Saya tawarkan dulu."
+]]></description><link>2.-areas/business/standard-operating-document/sops/i.5.-menanyakan-harga-ke-supplier-baru-lama.html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/I.5. Menanyakan Harga ke Supplier baru-lama.md</guid><pubDate>Fri, 17 Jul 2026 05:22:16 GMT</pubDate></item><item><title><![CDATA[I.4. Laporan Uang Kas]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29b796f898d780779dc9ea9e9b14a65b" target="_self">https://www.notion.so/29b796f898d780779dc9ea9e9b14a65b</a>
+Department: Purchasing
+Status: DraftCatatan: page ini kosong (blank) di Notion saat export.]]></description><link>2.-areas/business/standard-operating-document/sops/i.4.-laporan-uang-kas.html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/I.4. Laporan Uang Kas.md</guid><pubDate>Fri, 17 Jul 2026 05:22:13 GMT</pubDate></item><item><title><![CDATA[I.3. Menerima nota, tagihan, dan Surat Jalan.]]></title><description><![CDATA[Department: Purchasing
+Status: Draft
+Last Updated: 2025-11-28Untuk nota pembelian ada 3 macam arsip yang digunakan admin, masing-masing berfungsi beda:Terima dokumen dari kurir/penagih.
+Cek kuantitas barang.
+Cek nama barang.
+Cek jumlah dan total harga sesuai. Nota PPN asli dimasukkan ke map PPN.
+Berikan copy ke arsip beserta PO atau letakkan di kotak tagihan.
+Jika tidak ada copy, minta admin untuk scan &amp; print copy. Bayar ke kurir/penagih.
+Tulis nama customer, nomor PO, dan nomor barang pada nota.
+Simpan nota di laci untuk laporan uang kas. Foto nota, kirim ke Manajer via WA.
+Manajer meneruskan ke Akunting.
+Akunting melakukan transfer pembayaran.
+Manajer mengirimkan bukti transfer ke penerima.
+Tulis "KAS N.H." dan foto kembali, kirim ke manajer + supplier.
+Berikan nota pembelian ke admin untuk arsip.
+Toko yang memberikan tanda terima (langsung ditandatangani):
+Kurnia Duta
+Sinar Gemilang
+Gunung Semesta
+Logam Mas
+Bintang Jaya Hydra (Maestro Seal)
+Fortindo
+Elmecon
+Sarana Utama (Amplas 3M)
+Shihlindo
+Yan Electric
+Industrial Multifan
+Buat tanda terima sendiri untuk toko berikut:
+Cahaya Packing (CL Packing)
+Karya Raya Mandiri
+Mandiri Tape
+Proteam Jaya Sempurna
+Nippon Star (Amplas Fujisun)
+Optimal
+Gemilang Electric
+Sukses Makmur Sukhitatta (SMS Kabel)
+Cara membuat tanda terima:
+Tuliskan nama toko.
+Isi tabel berisi tanggal, nomor faktur, dan jumlah (satu baris per nota).
+Tulis total keseluruhan pada bagian bawah. Minta admin scan invoice dan cetak copy invoice.
+Serahkan invoice asli ke admin.
+Ambil copy tanda terima + copy invoice, lalu staples menjadi satu.
+Masukkan ke kotak biru.
+]]></description><link>2.-areas/business/standard-operating-document/sops/i.3.-menerima-nota,-tagihan,-dan-surat-jalan..html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/I.3. Menerima nota, tagihan, dan Surat Jalan..md</guid><pubDate>Fri, 17 Jul 2026 05:22:10 GMT</pubDate></item><item><title><![CDATA[I.2. Delivery Order (DO) - Pesan Barang]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/29b796f898d780a19e82f6a50ca992af" target="_self">https://www.notion.so/29b796f898d780a19e82f6a50ca992af</a>
+Department: Purchasing
+Status: Draft
+Last Updated: 2026-05-08
+PO customer fisik adalah pegangan utama purchasing untuk pembelian dan cari harga.
+Nomor Sales Order (SO) ERPNext adalah pegangan utama untuk pencatatan DO/nota/bukti pembelian.
+Semua pembelian wajib bisa ditelusuri ke nomor SO/customer.
+Purchasing boleh belanja dengan PO/DO tulis tangan, WA, telepon, atau langsung ke toko.
+Barang tidak perlu masuk stok dulu dan tidak perlu dibuat Purchase Receipt dulu.
+Purchase Invoice Draft dibuat saat barang datang, bukan saat PO/DO baru ditulis.
+Purchase Invoice tidak perlu dicetak; cukup tulis nomor Purchase Invoice di bukti pembelian fisik. Purchasing menerima PO customer fisik yang sudah ditulis nomor SO.
+Purchasing menggunakan PO customer sebagai dasar pembelian dan cari harga.
+Untuk masing-masing barang, purchasing boleh: Membuat PO/DO tulis tangan.
+Pesan via WA/telepon.
+Beli langsung ke toko.
+Langsung menyerahkan nota apabila barang sudah dibeli. Di setiap PO/DO/nota/bukti pembelian, purchasing wajib tulis: Nomor SO ERPNext.
+Nama customer.
+Nama barang.
+Jumlah barang.
+Harga beli jika sudah diketahui.
+Keterangan PPN jika harga termasuk PPN. <br>Apabila barang sudah datang, purchasing cek barang terhadap PO customer dan cek bukti pembelian <a data-href="I.3. Menerima nota, tagihan, dan Surat Jalan." href="2.-areas/business/standard-operating-document/sops/i.3.-menerima-nota,-tagihan,-dan-surat-jalan..html" class="internal-link" target="_self" rel="noopener nofollow">I.3. Menerima nota, tagihan, dan Surat Jalan.</a>
+Purchasing kasih bukti pembelian ke admin untuk dibuat Purchase Invoice Draft.
+Admin tulis nomor Purchase Invoice Draft di bukti pembelian fisik.
+Kalau barang untuk satu PO customer sudah lengkap, purchasing kasih PO customer ke admin/manager.
+Owner menentukan jadwal pengiriman.
+Setelah jadwal pengiriman ditentukan, admin buat surat jalan dan invoice. Tulis tanggal.
+Tulis nama supplier/perusahaan.
+Tulis contact person jika ada.
+Centang Delivery Order.
+Tulis nomor SO ERPNext di bagian atas dokumen.
+Tulis nama customer.
+Tulis nama barang.
+Tulis jumlah barang.
+Tulis harga beli; kalau harga termasuk PPN, tulis "inc PPN".
+Total jumlah pembelian di bagian bawah.
+Cap dan tanda tangan jika diperlukan.
+Note:
+Jangan tulis di satu kertas DO barang untuk dua SO berbeda.
+DO harus diberikan ke admin, apabila kertas DO ingin diambil supplier maka foto DO dan berikan ke admin.
+Apabila PO customer belum ada, minta admin buat SO Draft dengan status "PO menyusul" sebelum belanja.
+DO pemesanan barang diusahakan lajurnya searah supaya staf operasional tidak bolak-balik
+]]></description><link>2.-areas/business/standard-operating-document/sops/i.2.-delivery-order-(do)-pesan-barang.html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/I.2. Delivery Order (DO) - Pesan Barang.md</guid><pubDate>Fri, 17 Jul 2026 05:22:06 GMT</pubDate></item><item><title><![CDATA[I.1. Menerima Purchase Order (PO) dan Organisasi PO]]></title><description><![CDATA[
+PO customer dikirim oleh sales/customer melalui email atau WA.
+Admin save file PO customer ke folder customer di OneDrive.
+Admin print PO customer.
+Admin buat Sales Order (SO) Draft di ERPNext.
+Admin tulis nomor SO di PO customer fisik.
+Admin input item, quantity, harga, tax, dan payment terms di SO Draft.
+Manager/owner cek SO Draft.
+Kalau SO belum OK, admin revisi SO Draft.
+Kalau SO sudah OK: Admin print SO.
+Manager/owner simpan SO fisik sebagai arsip.
+PO customer fisik diberikan ke purchasing sebagai pegangan pembelian dan cari harga. Purchasing menggunakan PO customer fisik untuk pembelian, dan menggunakan nomor SO untuk pencatatan DO/nota/bukti pembelian.
+Untuk masing-masing barang pada PO customer, purchasing mengikuti <a data-href="I.2. Delivery Order (DO) - Pesan Barang" href="2.-areas/business/standard-operating-document/sops/i.2.-delivery-order-(do)-pesan-barang.html" class="internal-link" target="_self" rel="noopener nofollow">I.2. Delivery Order (DO) - Pesan Barang</a>.
+Kalau barang untuk satu PO customer sudah lengkap, purchasing kasih PO customer ke admin/manager.
+Owner menentukan jadwal pengiriman.
+Setelah jadwal pengiriman ditentukan, admin membuat surat jalan dan invoice. Admin buat SO Draft di ERPNext.
+Di nomor PO customer, isi sementara "PO menyusul".
+SO Draft dicetak dan diberikan ke Manager/owner.
+Manager/owner wajib approve sebelum barang dibeli atau dikirim.
+Setelah approved, purchasing menerima SO print untuk pembelian.
+Saat PO customer resmi datang, admin update nomor PO customer di ERPNext dan arsip.
+Note:
+Jangan kirim barang tanpa PO customer kecuali sudah approved oleh manager/owner.
+]]></description><link>2.-areas/business/standard-operating-document/sops/i.1.-menerima-purchase-order-(po)-dan-organisasi-po.html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/I.1. Menerima Purchase Order (PO) dan Organisasi PO.md</guid><pubDate>Fri, 17 Jul 2026 05:22:02 GMT</pubDate></item><item><title><![CDATA[base]]></title><description><![CDATA[Table30 resultsSort3Filter1PropertiesSearchNewShowing 30-VI.1. Coretax Pajak Keluaran (Impor XML), , _Index-VI. Reminder pembayaran rutin ke Sales, -V.3. Sistem masukan-opini (feedback), , _Index-V.2. Proses Rekrutmen, , _Index-V.1. Pembelian Barang Kantor, , _Index-IV.3. Menanyakan-mencari harga ke supplier baru., , _Index-IV.2. Pengambilan dan Penerimaan Barang supplier., , _Index-IV.1. Pengantaran Barang ke pelanggan., , _Index-III.9 Membuat Sales Order ERPNEXT, , _Index-III.8. Pencatatan Penjualan., , _Index-III.7. Pencatatan Tagihan., , _Index-III.6. Pencatatan Penjualan., , _Index-III.5. Membuat Tanda Terima, , _Index-III.4. Membuat Invoice., , _Index-III.3. Membuat Surat Jalan., , _Index-III.2. Prosedur Arsip Nota dan DO Pembelian., , _Index-III.1. Membuat Penawaran Harga (PH)., , _Index-II.5. Penjualan pada toko, , _Index-II.4. Customer Relation Manager (CRM), , _Index-II.3. Cold Call-outreach, Telepon calon pelanggan baru., , _Index-II.2. Mencari Harga Repeat (Harga yang sudah pernah dibeli)., , _Index-II.1. Meminta Penawaran Harga (PH), , _Index-I.7. Laporan Harian status PO Customer, -I.6. Log in ke akun gmail purchasing, , _Index-I.5. Menanyakan Harga ke Supplier baru-lama, , _Index-I.4. Laporan Uang Kas, , _Index-I.3. Menerima nota, tagihan, dan Surat Jalan., , I.2. Delivery Order (DO) - Pesan Barang
+_Index-I.2. Delivery Order (DO) - Pesan Barang, , I.1. Menerima Purchase Order (PO) dan Organisasi PO
+_Index-I.1. Menerima Purchase Order (PO) dan Organisasi PO, , _Index-_Index, , Standard Operating Document]]></description><link>base.html</link><guid isPermaLink="false">base.base</guid><pubDate>Fri, 17 Jul 2026 04:42:07 GMT</pubDate></item><item><title><![CDATA[ How to Sync Obsidian Notes for FREE on iPhone, iPad, and Android ]]></title><description><![CDATA[<a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.youtube.com/watch?v=JcaEeE51F-0" target="_self">https://www.youtube.com/watch?v=JcaEeE51F-0</a>
+Install ISH di Ipad
+<br><img alt="Pasted image 20260602132048.png" src="5.-attachments/pasted-image-20260602132048.png" target="_self">
+pake yang gua udah kasih di whatsapp diri sendiri
+ya sama aja nanti dari obsidiannya open vaultnya aja di folder itu
+]]></description><link>3.-resources/obsidian/-how-to-sync-obsidian-notes-for-free-on-iphone,-ipad,-and-android-.html</link><guid isPermaLink="false">3. Resources/Obsidian/ How to Sync Obsidian Notes for FREE on iPhone, iPad, and Android .md</guid><pubDate>Thu, 16 Jul 2026 08:32:18 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Standard Operating Document]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/296796f898d7805e9be1d43dd3ef26e6" target="_self">https://www.notion.so/296796f898d7805e9be1d43dd3ef26e6</a>
+Created: 2023-10-25Dokumen penting berisikan tujuan strategis perusahaan, prinsip kerja yang perlu dimiliki seluruh karyawan, dan SOP.
+<br><a data-href="Tujuan Strategis - Strategic Objective" href="2.-areas/business/standard-operating-document/tujuan-strategis-strategic-objective.html" class="internal-link" target="_self" rel="noopener nofollow">Tujuan Strategis - Strategic Objective</a>
+<br><a data-href="Prinsip Kerja - General Operating Principles" href="2.-areas/business/standard-operating-document/prinsip-kerja-general-operating-principles.html" class="internal-link" target="_self" rel="noopener nofollow">Prinsip Kerja - General Operating Principles</a> <br>Data Perusahaan (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/2a1796f898d780ce8c50e08d98f09c2b" target="_self">https://www.notion.so/2a1796f898d780ce8c50e08d98f09c2b</a>
+<br>Database (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/296796f898d7805ab080c3b3ab2ef090" target="_self">https://www.notion.so/296796f898d7805ab080c3b3ab2ef090</a>
+<br>Export Obsidian: <a data-href="SOPs/_Index" href="2.-areas/business/standard-operating-document/sops/_index.html" class="internal-link" target="_self" rel="noopener nofollow">SOPs/_Index</a>
+Catatan: database SOP belum bisa aku export otomatis dari Notion tool di sesi ini. Kalau kamu mau aku export juga, bilang mau export semua SOP atau yang statusnya Active saja, nanti aku tarik page-nya satu per satu.
+<br><a data-href="Draft SOP - cek kondisi mobil" href="0.-fleeting/draft-sop-cek-kondisi-mobil.html" class="internal-link" target="_self" rel="noopener nofollow">Draft SOP - cek kondisi mobil</a>
+]]></description><link>2.-areas/business/standard-operating-document/standard-operating-document.html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/Standard Operating Document.md</guid><pubDate>Thu, 18 Jun 2026 04:46:03 GMT</pubDate></item><item><title><![CDATA[Prinsip Kerja - General Operating Principles]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/296796f898d7819098b7fcec34b117ff" target="_self">https://www.notion.so/296796f898d7819098b7fcec34b117ff</a>
+Keputusan perusahaan harus sesuai dengan Tujuan Strategis, Prinsip Operasional, dan dokumen SOP.
+Kita adalah General Supplier yang selalu mengutamakan kebutuhan dan kepuasan pelanggan. Kita melakukan apa pun untuk memastikan kualitas layanan kepada klien, karyawan, dan vendor kita sempurna. Milikilah mentalitas bekerja seperti kita adalah perusahaan besar.
+Kasih saya hasil, kasih saya bukti, jangan cari alasan. Kemampuan untuk "menyelesaikan pekerjaan dengan cepat dan akurat tanpa alasan atau komplikasi" adalah sifat paling berharga yang dapat dimiliki staf.“ Shinta Liu
+Saat di kantor, kami bekerja keras pada bisnis Prima Putra Perkasa. Kami menundukkan kepala dan kami fokus, sebaliknya perusahaan membayar dengan sangat baik. Itulah kesepakatan kita. Jam kerja jarang melebihi empat puluh jam.
+Uang yang kita hemat atau buang-buang bukanlah uang mainan! Kita tetap menjaga nilai uang sebagai usaha, kerja keras, air mata dan darah kita.
+Kita selalu mengejar kesempurnaan. Kesempurnaan dalam organisasi kita adalah tingkat keberhasilan 98% melaksanakan prosedur, berarti dalam 100 kali mengerjakan hal, 98 kali dilakukan dengan benar.
+Kita mengikuti prinsip hukum Ockham, Solusi paling sederhana selalu merupakan solusi yang benar.
+Kita bersyukur saat menghadapi kendala, manusia dan SEMUA bisnis tidak ada yang sempurna. Kita bukan ahli pemecah masalah, tetapi ahli mencegah masalah.
+Kita menyelesaikan masalah berulang dengan sistem. Kita membuat prosedur tertulis untuk mencegah masalah yang sering terjadi. Tapi kita tidak membebani tim dengan prosedur untuk hal-hal yang jarang terjadi.
+"Just don't do it." Hilangkan yang tidak perlu. Sering kali, penghapusan sistem, protokol, atau proyek potensial adalah hal yang sangat baik. Pikirkan kesederhanaan. Mengotomatisasi. Perbaiki hingga jumlah langkah terkecil atau buang sama sekali. Apakah "tidak" sederhana akan menghemat waktu, energi, dan/atau uang?
+Prosedur dibuat sesimpel dan sesederhana mungkin. Karena prosedur berfungsi untuk siapa pun dengan kecerdasan normal dapat melakukan prosedur tanpa bantuan.
+"DO IT NOW." Untuk segala komunikasi dan aksi, kita akan terapkan "point-of-sale". Kita tidak menunda tindakan jika dapat segera dilakukan. Pesan dalam grup, email, atau pribadi dibalas sebelum lewat 5 menit (balasan dapat berupa konfirmasi atau infokan kalau tidak bisa dikerjakan saat itu juga, JANGAN TUNDA KOMUNIKASI).
+Saya mengumpulkan prinsip hidup dan prinsip kerja dari buku-buku Stephen Covey, termasuk The 7 Habits of Highly Effective People, First Things First. Selain itu juga ada The Magic of Thinking Big, Good to Great, dan banyak biografi founders perusahaan.
+Seperti pemain andal dalam tim olahraga, karyawan kompeten hanya ingin bekerja dengan karyawan lain yang kompeten. Dan karyawan kompeten ingin keputusan yang cepat. Pelajari buku Good to Great.
+Urutan dan prioritas sangat penting. Kita menghabiskan waktu maksimal untuk tugas-tugas "tidak mendesak/penting" melalui filosofi matriks waktu Stephen Covey. Pelajari buku First Things First.
+Sharpen Your Saw, pertajam lagi gergajimu. Kita belajar untuk mengembangkan skill. Membaca buku rutin dan refleksi diri sangat penting untuk perkembangan pribadi. Ini masalah disiplin diri, patuhi prinsip organisasi dan kembangkan prinsip diri sendiri, manusia tanpa prinsip hidup tanpa arah dan identitas.
+Budayakan double check, cek pekerjaan sendiri dan pekerjaan orang lain sebelum diberikan ke orang berikut.
+Perlengkapan yang terbaik, ruangan kantor yang terbaik, dan suasana kerja yang terbaik menghasilkan lingkungan kerja terbaik.
+Selesai berarti "Selesai". Hampir atau besok berarti "TIDAK SELESAI". Secara khusus, ini berkaitan dengan penggunaan fungsi tugas oleh staf administrasi.
+]]></description><link>2.-areas/business/standard-operating-document/prinsip-kerja-general-operating-principles.html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/Prinsip Kerja - General Operating Principles.md</guid><pubDate>Thu, 18 Jun 2026 04:44:34 GMT</pubDate></item><item><title><![CDATA[WhatsApp Image 2026-06-10 at 2.24.29 PM 2]]></title><description><![CDATA[<img src="5.-attachments/whatsapp-image-2026-06-10-at-2.24.29-pm-2.jpeg" target="_self">]]></description><link>5.-attachments/whatsapp-image-2026-06-10-at-2.24.29-pm-2.html</link><guid isPermaLink="false">5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 2.jpeg</guid><pubDate>Wed, 10 Jun 2026 07:49:37 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[WhatsApp Image 2026-06-10 at 2.24.29 PM 1]]></title><description><![CDATA[<img src="5.-attachments/whatsapp-image-2026-06-10-at-2.24.29-pm-1.jpeg" target="_self">]]></description><link>5.-attachments/whatsapp-image-2026-06-10-at-2.24.29-pm-1.html</link><guid isPermaLink="false">5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 1.jpeg</guid><pubDate>Wed, 10 Jun 2026 07:49:34 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[WhatsApp Image 2026-06-10 at 2.24.29 PM]]></title><description><![CDATA[<img src="5.-attachments/whatsapp-image-2026-06-10-at-2.24.29-pm.jpeg" target="_self">]]></description><link>5.-attachments/whatsapp-image-2026-06-10-at-2.24.29-pm.html</link><guid isPermaLink="false">5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM.jpeg</guid><pubDate>Wed, 10 Jun 2026 07:49:31 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Pasted image 20260610092315]]></title><description><![CDATA[<img src="5.-attachments/pasted-image-20260610092315.png" target="_self">]]></description><link>5.-attachments/pasted-image-20260610092315.html</link><guid isPermaLink="false">5. Attachments/Pasted image 20260610092315.png</guid><pubDate>Wed, 10 Jun 2026 02:23:15 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Pasted image 20260609104222]]></title><description><![CDATA[<img src="5.-attachments/pasted-image-20260609104222.png" target="_self">]]></description><link>5.-attachments/pasted-image-20260609104222.html</link><guid isPermaLink="false">5. Attachments/Pasted image 20260609104222.png</guid><pubDate>Tue, 09 Jun 2026 03:42:22 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[WhatsApp Image 2026-06-04 at 11.14.39 AM]]></title><description><![CDATA[<img src="5.-attachments/whatsapp-image-2026-06-04-at-11.14.39-am.jpeg" target="_self">]]></description><link>5.-attachments/whatsapp-image-2026-06-04-at-11.14.39-am.html</link><guid isPermaLink="false">5. Attachments/WhatsApp Image 2026-06-04 at 11.14.39 AM.jpeg</guid><pubDate>Thu, 04 Jun 2026 04:15:23 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Pasted image 20260603101804]]></title><description><![CDATA[<img src="5.-attachments/pasted-image-20260603101804.png" target="_self">]]></description><link>5.-attachments/pasted-image-20260603101804.html</link><guid isPermaLink="false">5. Attachments/Pasted image 20260603101804.png</guid><pubDate>Wed, 03 Jun 2026 03:18:04 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[_Index]]></title><description><![CDATA[
+<a data-href="Standard Operating Document" href="2.-areas/business/standard-operating-document/standard-operating-document.html" class="internal-link" target="_self" rel="noopener nofollow">Standard Operating Document</a>
+<br><a data-href="Tujuan Strategis - Strategic Objective" href="2.-areas/business/standard-operating-document/tujuan-strategis-strategic-objective.html" class="internal-link" target="_self" rel="noopener nofollow">Tujuan Strategis - Strategic Objective</a>
+<br><a data-href="Prinsip Kerja - General Operating Principles" href="2.-areas/business/standard-operating-document/prinsip-kerja-general-operating-principles.html" class="internal-link" target="_self" rel="noopener nofollow">Prinsip Kerja - General Operating Principles</a>
+<br><a data-href="_ERPNext SOP Review" href=".html" class="internal-link" target="_self" rel="noopener nofollow">_ERPNext SOP Review</a>
+Catatan:
+Beberapa SOP di Notion berisi gambar dengan link sementara (expiring). Di export ini, link gambar dibiarkan apa adanya.
+Beberapa SOP masih kosong (blank) di Notion; file-nya tetap dibuat supaya kelihatan ada slot SOP tersebut.
+Password/kredensial yang ketemu di SOP aku redact dan aku kasih catatan untuk simpan di password manager. <br><a data-href="I.1. Menerima Purchase Order (PO) dan Organisasi PO" href="2.-areas/business/standard-operating-document/sops/i.1.-menerima-purchase-order-(po)-dan-organisasi-po.html" class="internal-link" target="_self" rel="noopener nofollow">I.1. Menerima Purchase Order (PO) dan Organisasi PO</a>
+<br><a data-href="I.2. Delivery Order (DO) - Pesan Barang" href="2.-areas/business/standard-operating-document/sops/i.2.-delivery-order-(do)-pesan-barang.html" class="internal-link" target="_self" rel="noopener nofollow">I.2. Delivery Order (DO) - Pesan Barang</a>
+<br><a data-href="I.3. Menerima nota, tagihan, dan Surat Jalan." href="2.-areas/business/standard-operating-document/sops/i.3.-menerima-nota,-tagihan,-dan-surat-jalan..html" class="internal-link" target="_self" rel="noopener nofollow">I.3. Menerima nota, tagihan, dan Surat Jalan.</a>
+<br><a data-href="I.4. Laporan Uang Kas" href="2.-areas/business/standard-operating-document/sops/i.4.-laporan-uang-kas.html" class="internal-link" target="_self" rel="noopener nofollow">I.4. Laporan Uang Kas</a>
+<br><a data-href="I.5. Menanyakan Harga ke Supplier baru-lama" href="2.-areas/business/standard-operating-document/sops/i.5.-menanyakan-harga-ke-supplier-baru-lama.html" class="internal-link" target="_self" rel="noopener nofollow">I.5. Menanyakan Harga ke Supplier baru-lama</a>
+<br><a data-href="I.6. Log in ke akun gmail purchasing" href="2.-areas/business/standard-operating-document/sops/i.6.-log-in-ke-akun-gmail-purchasing.html" class="internal-link" target="_self" rel="noopener nofollow">I.6. Log in ke akun gmail purchasing</a> <br><a data-href="II.1. Meminta Penawaran Harga (PH)" href="2.-areas/business/standard-operating-document/sops/ii.1.-meminta-penawaran-harga-(ph).html" class="internal-link" target="_self" rel="noopener nofollow">II.1. Meminta Penawaran Harga (PH)</a>
+<br><a data-href="II.2. Mencari Harga Repeat (Harga yang sudah pernah dibeli)." href="2.-areas/business/standard-operating-document/sops/ii.2.-mencari-harga-repeat-(harga-yang-sudah-pernah-dibeli)..html" class="internal-link" target="_self" rel="noopener nofollow">II.2. Mencari Harga Repeat (Harga yang sudah pernah dibeli).</a>
+<br><a data-href="II.3. Cold Call-outreach, Telepon calon pelanggan baru." href="2.-areas/business/standard-operating-document/sops/ii.3.-cold-call-outreach,-telepon-calon-pelanggan-baru..html" class="internal-link" target="_self" rel="noopener nofollow">II.3. Cold Call-outreach, Telepon calon pelanggan baru.</a>
+<br><a data-href="II.4. Customer Relation Manager (CRM)" href="2.-areas/business/standard-operating-document/sops/ii.4.-customer-relation-manager-(crm).html" class="internal-link" target="_self" rel="noopener nofollow">II.4. Customer Relation Manager (CRM)</a>
+<br><a data-href="II.5. Penjualan pada toko" href="2.-areas/business/standard-operating-document/sops/ii.5.-penjualan-pada-toko.html" class="internal-link" target="_self" rel="noopener nofollow">II.5. Penjualan pada toko</a> <br><a data-href="III.1. Membuat Penawaran Harga (PH)." href="2.-areas/business/standard-operating-document/sops/iii.1.-membuat-penawaran-harga-(ph)..html" class="internal-link" target="_self" rel="noopener nofollow">III.1. Membuat Penawaran Harga (PH).</a>
+<br><a data-href="III.2. Prosedur Arsip Nota dan DO Pembelian." href="2.-areas/business/standard-operating-document/sops/iii.2.-prosedur-arsip-nota-dan-do-pembelian..html" class="internal-link" target="_self" rel="noopener nofollow">III.2. Prosedur Arsip Nota dan DO Pembelian.</a>
+<br><a data-href="III.3. Membuat Surat Jalan." href="2.-areas/business/standard-operating-document/sops/iii.3.-membuat-surat-jalan..html" class="internal-link" target="_self" rel="noopener nofollow">III.3. Membuat Surat Jalan.</a>
+<br><a data-href="III.4. Membuat Invoice." href="2.-areas/business/standard-operating-document/sops/iii.4.-membuat-invoice..html" class="internal-link" target="_self" rel="noopener nofollow">III.4. Membuat Invoice.</a>
+<br><a data-href="III.5. Membuat Tanda Terima" href="2.-areas/business/standard-operating-document/sops/iii.5.-membuat-tanda-terima.html" class="internal-link" target="_self" rel="noopener nofollow">III.5. Membuat Tanda Terima</a>
+<br><a data-href="III.6. Pencatatan Penjualan." href="2.-areas/business/standard-operating-document/sops/iii.6.-pencatatan-penjualan..html" class="internal-link" target="_self" rel="noopener nofollow">III.6. Pencatatan Penjualan.</a>
+<br><a data-href="III.7. Pencatatan Tagihan." href="2.-areas/business/standard-operating-document/sops/iii.7.-pencatatan-tagihan..html" class="internal-link" target="_self" rel="noopener nofollow">III.7. Pencatatan Tagihan.</a>
+<br><a data-href="III.8. Pencatatan Penjualan." href="2.-areas/business/standard-operating-document/sops/iii.8.-pencatatan-penjualan..html" class="internal-link" target="_self" rel="noopener nofollow">III.8. Pencatatan Penjualan.</a>
+<br><a data-href="III.9 Membuat Sales Order ERPNEXT" href="2.-areas/business/standard-operating-document/sops/iii.9-membuat-sales-order-erpnext.html" class="internal-link" target="_self" rel="noopener nofollow">III.9 Membuat Sales Order ERPNEXT</a> <br><a data-href="IV.1. Pengantaran Barang ke pelanggan." href="2.-areas/business/standard-operating-document/sops/iv.1.-pengantaran-barang-ke-pelanggan..html" class="internal-link" target="_self" rel="noopener nofollow">IV.1. Pengantaran Barang ke pelanggan.</a>
+<br><a data-href="IV.2. Pengambilan dan Penerimaan Barang supplier." href="2.-areas/business/standard-operating-document/sops/iv.2.-pengambilan-dan-penerimaan-barang-supplier..html" class="internal-link" target="_self" rel="noopener nofollow">IV.2. Pengambilan dan Penerimaan Barang supplier.</a>
+<br><a data-href="IV.3. Menanyakan-mencari harga ke supplier baru." href="2.-areas/business/standard-operating-document/sops/iv.3.-menanyakan-mencari-harga-ke-supplier-baru..html" class="internal-link" target="_self" rel="noopener nofollow">IV.3. Menanyakan-mencari harga ke supplier baru.</a> <br><a data-href="V.1. Pembelian Barang Kantor" href="2.-areas/business/standard-operating-document/sops/v.1.-pembelian-barang-kantor.html" class="internal-link" target="_self" rel="noopener nofollow">V.1. Pembelian Barang Kantor</a>
+<br><a data-href="V.2. Proses Rekrutmen" href="2.-areas/business/standard-operating-document/sops/v.2.-proses-rekrutmen.html" class="internal-link" target="_self" rel="noopener nofollow">V.2. Proses Rekrutmen</a>
+<br><a data-href="V.3. Sistem masukan-opini (feedback)" href="2.-areas/business/standard-operating-document/sops/v.3.-sistem-masukan-opini-(feedback).html" class="internal-link" target="_self" rel="noopener nofollow">V.3. Sistem masukan-opini (feedback)</a>
+<br>-<a data-href="VI.1. Coretax Pajak Keluaran (Impor XML)" href="2.-areas/business/standard-operating-document/sops/vi.1.-coretax-pajak-keluaran-(impor-xml).html" class="internal-link" target="_self" rel="noopener nofollow">VI.1. Coretax Pajak Keluaran (Impor XML)</a>]]]></description><link>2.-areas/business/standard-operating-document/sops/_index.html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/SOPs/_Index.md</guid><pubDate>Wed, 03 Jun 2026 01:36:59 GMT</pubDate></item><item><title><![CDATA[Standard Operating Document Base]]></title><description><![CDATA[Table30 resultsSort1Filter1PropertiesSearchNewShowing 30file namefile tags<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Business</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">SOP</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Purchasing</a>I.7. Laporan Harian status PO Customerfile tags<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Business</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">StandardOperatingDocument</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">MOC</a>_Indexfile tags<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Business</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">StandardOperatingDocument</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">SOP</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Admin</a>III.1. Membuat Penawaran Harga (PH).III.3. Membuat Surat Jalan.III.4. Membuat Invoice.III.5. Membuat Tanda TerimaIII.6. Pencatatan Penjualan.III.7. Pencatatan Tagihan.III.8. Pencatatan Penjualan.III.9 Membuat Sales Order ERPNEXTfile tags<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Business</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">StandardOperatingDocument</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">SOP</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">DraftSOP</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Admin</a>III.2. Prosedur Arsip Nota dan DO Pembelian.file tags<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Business</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">StandardOperatingDocument</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">SOP</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Finance</a>VI. Reminder pembayaran rutin ke Salesfile tags<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Business</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">StandardOperatingDocument</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">SOP</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">HR</a>V.1. Pembelian Barang KantorV.2. Proses RekrutmenV.3. Sistem masukan-opini (feedback)file tags<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Business</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">StandardOperatingDocument</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">SOP</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Operations</a>file tags<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Business</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">StandardOperatingDocument</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">SOP</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Purchasing</a>file tags<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Business</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">StandardOperatingDocument</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">SOP</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Sales</a>file tags<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">SOP</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Tax</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Coretax</a>
+<a class="tag is-unresolved" data-href="" href=".?query=tag:" target="_self">Finance</a>]]></description><link>2.-areas/business/standard-operating-document/standard-operating-document-base.html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/Standard Operating Document Base.base</guid><pubDate>Wed, 03 Jun 2026 01:36:58 GMT</pubDate></item><item><title><![CDATA[Tujuan Strategis - Strategic Objective]]></title><description><![CDATA[Source (Notion): <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.notion.so/296796f898d781d9ae89f6ffd6d8e8e1" target="_self">https://www.notion.so/296796f898d781d9ae89f6ffd6d8e8e1</a>Tujuan Strategis Prima Putra Perkasa adalah dasar semua keputusan di perusahaan, baik secara tim maupun individu.Kita tidak memakai misi hiperbola seperti "ingin jadi yang terbaik" karena tidak memberi arah jelas. Rencana besar bertahun-tahun juga tidak cukup untuk menghadapi perubahan cepat di dunia supplier.Karena itu, Tujuan Strategis dibuat untuk memberi panduan arah dan cara kerja kita. Dengan mengikuti ini, pertumbuhan dan keberhasilan akan tercapai. Dokumen ini dijaga tetap sederhana, hanya satu halaman, dan meski selalu diperbarui, intinya tidak berubah.Kita adalah perusahaan General Supplier terdepan di Indonesia yang selalu mengutamakan kebutuhan dan kepuasan pelanggan.Strategi utama kita adalah menjalankan sistem kerja sebaik mungkin. Artinya, patuh pada prosedur dan terus memperbaikinya bila perlu.Panduan kerja kita adalah Tujuan Strategis, Prinsip Operasional, dan SOP.Fokus utama kita adalah penjualan barang mekanikal, elektrikal, dan barang umum untuk bisnis manufaktur dan kontraktor (B2B).Saya berkomitmen untuk kesejahteraan staf. Staf berkomitmen membantu pelanggan sukses. Hasil akhirnya adalah pelayanan terbaik untuk pelanggan.Bisnis ini kompleks, melibatkan banyak orang, sistem, dan proses. Sukses hanya bisa dicapai dengan kepedulian pada pelanggan, disiplin prosedur, perhatian pada detail, inovasi, pemasaran dan penjualan yang aktif, serta kontrol kualitas yang ketat.Keunggulan kita adalah komunikasi yang baik, harga bersaing, pengiriman cepat, dan layanan after sales yang memuaskan. Kita menganggap urusan pelanggan sebagai urusan sendiri.Meskipun prosedur dipantau dengan ketat, kita terbuka terhadap kritik dan saran. Bila perlu, prosedur bisa segera diubah untuk perbaikan, kritik yang diberikan siapa pun dan kapan pun apabila valid.Secara organisasi dari paling atas adalah direktur, dan selanjutnya manajer, supervisor, dan staf. Direktur menentukan arah/direksi. Manajer membuat, memantau, dan mendokumentasikan sistem, supervisor mengawasi, dan staf melaksanakan.]]></description><link>2.-areas/business/standard-operating-document/tujuan-strategis-strategic-objective.html</link><guid isPermaLink="false">2. Areas/Business/Standard Operating Document/Tujuan Strategis - Strategic Objective.md</guid><pubDate>Wed, 03 Jun 2026 01:36:56 GMT</pubDate></item><item><title><![CDATA[Pasted image 20260602132048]]></title><description><![CDATA[<img src="5.-attachments/pasted-image-20260602132048.png" target="_self">]]></description><link>5.-attachments/pasted-image-20260602132048.html</link><guid isPermaLink="false">5. Attachments/Pasted image 20260602132048.png</guid><pubDate>Tue, 02 Jun 2026 15:15:09 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Pasted image 20260416134844]]></title><description><![CDATA[<img src="5.-attachments/pasted-image-20260416134844.png" target="_self">]]></description><link>5.-attachments/pasted-image-20260416134844.html</link><guid isPermaLink="false">5. Attachments/Pasted image 20260416134844.png</guid><pubDate>Tue, 02 Jun 2026 15:15:09 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Pasted image 20260416094430]]></title><description><![CDATA[<img src="5.-attachments/pasted-image-20260416094430.png" target="_self">]]></description><link>5.-attachments/pasted-image-20260416094430.html</link><guid isPermaLink="false">5. Attachments/Pasted image 20260416094430.png</guid><pubDate>Tue, 02 Jun 2026 15:15:09 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Pasted image 20260415145703]]></title><description><![CDATA[<img src="5.-attachments/pasted-image-20260415145703.png" target="_self">]]></description><link>5.-attachments/pasted-image-20260415145703.html</link><guid isPermaLink="false">5. Attachments/Pasted image 20260415145703.png</guid><pubDate>Tue, 02 Jun 2026 15:15:09 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>

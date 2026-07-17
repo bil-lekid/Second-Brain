@@ -3,7 +3,7 @@ tags:
   - Business
   - SOP
   - Purchasing
-status:
+status: completed
 created: 2026-06-09
 Divisi: I. Purchasing
 ---

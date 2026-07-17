@@ -1,7 +1,7 @@
 ---
 tags:
-  - Fleeting
-status: inbox
+  - Business
+status: completed
 created: 2026-06-11
 ---
 
@@ -20,4 +20,3 @@ created: 2026-06-11
 ## Next
 - masukin folder tepat
 - kasih tag tepat
-- 

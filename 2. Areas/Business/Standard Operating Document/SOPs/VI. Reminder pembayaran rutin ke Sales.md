@@ -1,8 +1,12 @@
 ---
 tags:
-  - Fleeting
-status: inbox
+  - Business
+  - StandardOperatingDocument
+  - SOP
+  - Finance
+status:
 created: 2026-07-16
+Divisi: VI. Finance
 ---
 
 ## Capture
@@ -13,6 +17,8 @@ created: 2026-07-16
 	- cash on delivery
 	- DP %, net brp %
 - buat view tagihan yang belum dibayar yang bisa group by customer, group by bulan bayarnya, bisa kasih filter filter juga berdasarkan itu
+- kasih filter contoh sudah lewat lebih dari 3 hari, atau lebih dari seminggu, itu jadi warning levelnya.
 
 ## Next
 - [ ] Buat sistem term of payment dan auto reminder high ⏫ 
+- [ ] tulis SOP finance reminder penagihan ke Sales
