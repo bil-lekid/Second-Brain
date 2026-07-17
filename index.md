@@ -1,4 +1,5 @@
 ```dataview
-TABLE IN FOLDER "SOPS"
+TABLE
+WHERE 
 ```
 
