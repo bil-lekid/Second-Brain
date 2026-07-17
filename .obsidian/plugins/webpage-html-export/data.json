@@ -10,12 +10,12 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "D:\\Work\\Second-Brain\\Git Page",
+    "exportPath": "D:\\Work\\Second-Brain\\docs",
     "filesToExport": [
-      "0. Fleeting/ How to Sync Obsidian Notes for FREE on iPhone, iPad, and Android .md",
       "2. Areas/Business/Standard Operating Document",
+      "3. Resources/Obsidian/ How to Sync Obsidian Notes for FREE on iPhone, iPad, and Android .md",
       "5. Attachments",
-      "index.md"
+      "Index.base"
     ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
