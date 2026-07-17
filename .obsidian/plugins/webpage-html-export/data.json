@@ -9,13 +9,13 @@
     "makeHeadersTrees": true,
     "postProcess": true,
     "displayProgress": true,
-    "inlineHTML": true,
+    "inlineHTML": false,
     "exportPath": "D:\\Work\\Second-Brain\\docs",
     "filesToExport": [
       "2. Areas/Business/Standard Operating Document",
       "3. Resources/Obsidian/ How to Sync Obsidian Notes for FREE on iPhone, iPad, and Android .md",
       "5. Attachments",
-      "Index.base"
+      "base.base"
     ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
@@ -73,8 +73,8 @@
     },
     "fileNavigationOptions": {
       "featureId": "file-navigation",
-      "enabled": false,
-      "unavailable": true,
+      "enabled": true,
+      "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
       "featurePlacement": {
@@ -92,8 +92,8 @@
     },
     "searchOptions": {
       "featureId": "search",
-      "enabled": false,
-      "unavailable": true,
+      "enabled": true,
+      "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
       "featurePlacement": {
@@ -130,8 +130,8 @@
     },
     "graphViewOptions": {
       "featureId": "graph-view",
-      "enabled": false,
-      "unavailable": true,
+      "enabled": true,
+      "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
       "featurePlacement": {
@@ -187,8 +187,8 @@
     },
     "rssOptions": {
       "featureId": "rss",
-      "enabled": false,
-      "unavailable": true,
+      "enabled": true,
+      "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
       "siteUrl": "",
@@ -204,15 +204,15 @@
     "relativeHeaderLinks": false,
     "includeJS": true,
     "includeCSS": true,
-    "inlineMedia": true,
-    "inlineCSS": true,
-    "inlineJS": true,
-    "inlineFonts": true,
-    "inlineOther": true,
+    "inlineMedia": false,
+    "inlineCSS": false,
+    "inlineJS": false,
+    "inlineFonts": false,
+    "inlineOther": false,
     "combineAsSingleFile": false,
     "offlineResources": false,
     "themeName": "",
-    "slugifyPaths": false,
+    "slugifyPaths": true,
     "flattenExportPaths": false,
     "fixLinks": true,
     "faviconPath": "",
@@ -228,7 +228,7 @@
   "rssDateProperty": "date",
   "onlyExportModified": true,
   "deleteOldFiles": true,
-  "exportPreset": "raw-documents",
+  "exportPreset": "online",
   "openAfterExport": true,
   "filePickerBlacklist": [
     "(^|\\/)node_modules\\/",
