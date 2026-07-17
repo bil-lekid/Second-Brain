@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,19 +237,10 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "d6a7638ae943c980",
+  "active": "dee74bbd9fd9adf5",
   "lastOpenFiles": [
-    "docs/site-lib/search-index.json",
-    "docs/site-lib/metadata.json",
-    "docs/site-lib/styles/snippets.css",
-    "docs/5.-attachments/whatsapp-image-2026-06-10-at-2.24.29-pm-2.jpeg",
-    "docs/5.-attachments/whatsapp-image-2026-06-10-at-2.24.29-pm-1.jpeg",
-    "docs/5.-attachments/whatsapp-image-2026-06-10-at-2.24.29-pm.jpeg",
-    "docs/5.-attachments/whatsapp-image-2026-06-04-at-11.14.39-am.jpeg",
-    "docs/5.-attachments/pasted-image-20260610092315.png",
-    "docs/5.-attachments/pasted-image-20260609104222.png",
-    "docs/5.-attachments/pasted-image-20260603101804.png",
     "2. Areas/Business/Standard Operating Document/Tujuan Strategis - Strategic Objective.md",
+    "docs/Second-Brain.html",
     "2. Areas/Business/Standard Operating Document/Standard Operating Document Base.base",
     "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
     "2. Areas/Business/Standard Operating Document/SOPs/VI.1. Coretax Pajak Keluaran (Impor XML).md",
@@ -271,17 +262,26 @@
     "2. Areas/Business/Standard Operating Document/SOPs/I.1. Menerima Purchase Order (PO) dan Organisasi PO.md",
     "2. Areas/Business/Standard Operating Document/SOPs/I.2. Delivery Order (DO) - Pesan Barang.md",
     "2. Areas/Business/Standard Operating Document/Draft SOP - cek kondisi mobil.md",
-    "docs/5.-attachments/pasted-image-20260603101804.html",
-    "docs/5.-attachments/whatsapp-image-2026-06-04-at-11.14.39-am.html",
     "Index.base",
-    "docs/5.-attachments/pasted-image-20260609104222.html",
-    "docs/5.-attachments/pasted-image-20260610092315.html",
     "2. Areas/Business/Standard Operating Document/SOPs/I.3. Menerima nota, tagihan, dan Surat Jalan..md",
-    "docs/5.-attachments/whatsapp-image-2026-06-10-at-2.24.29-pm.html",
-    "docs/5.-attachments/whatsapp-image-2026-06-10-at-2.24.29-pm-1.html",
     "2. Areas/Business/Standard Operating Document/SOPs/I.5. Menanyakan Harga ke Supplier baru-lama.md",
     "2. Areas/Business/Standard Operating Document/SOPs/II.2. Mencari Harga Repeat (Harga yang sudah pernah dibeli)..md",
     "2. Areas/Business/Standard Operating Document/SOPs/II.1. Meminta Penawaran Harga (PH).md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.3. Membuat Surat Jalan..md",
+    "docs/site-lib/search-index.json",
+    "docs/site-lib/metadata.json",
+    "docs/site-lib/styles/snippets.css",
+    "docs/5.-attachments/whatsapp-image-2026-06-10-at-2.24.29-pm-2.jpeg",
+    "docs/5.-attachments/whatsapp-image-2026-06-10-at-2.24.29-pm-1.jpeg",
+    "docs/5.-attachments/whatsapp-image-2026-06-10-at-2.24.29-pm.jpeg",
+    "docs/5.-attachments/whatsapp-image-2026-06-04-at-11.14.39-am.jpeg",
+    "docs/5.-attachments/pasted-image-20260610092315.png",
+    "docs/5.-attachments/pasted-image-20260609104222.png",
+    "docs/5.-attachments/pasted-image-20260603101804.png",
+    "docs/5.-attachments/pasted-image-20260603101804.html",
+    "docs/5.-attachments/whatsapp-image-2026-06-04-at-11.14.39-am.html",
+    "docs/5.-attachments/pasted-image-20260609104222.html",
+    "docs/5.-attachments/pasted-image-20260610092315.html",
     "5. Attachments/Pasted image 20260610092313.png",
     "Untitled.canvas",
     "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 2.jpeg",
