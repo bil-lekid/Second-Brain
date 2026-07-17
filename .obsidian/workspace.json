@@ -47,19 +47,9 @@
               "icon": "lucide-file",
               "title": "Common Deal breaker marriage"
             }
-          },
-          {
-            "id": "dee74bbd9fd9adf5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,14 +227,33 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "dee74bbd9fd9adf5",
+  "active": "d6a7638ae943c980",
   "lastOpenFiles": [
+    "docs/5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 2.jpeg",
+    "docs/5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 1.jpeg",
+    "docs/5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM.jpeg",
+    "docs/5. Attachments/WhatsApp Image 2026-06-04 at 11.14.39 AM.jpeg",
+    "docs/5. Attachments/Pasted image 20260610092315.png",
+    "docs/5. Attachments/Pasted image 20260609104222.png",
+    "docs/5. Attachments/Pasted image 20260603101804.png",
+    "docs/5. Attachments/Pasted image 20260602132048.png",
+    "docs/5. Attachments/Pasted image 20260416134844.png",
+    "docs/5. Attachments/Pasted image 20260416094430.png",
+    "docs/5. Attachments/Pasted image 20260415145703.png",
+    "docs/5. Attachments/Pasted image 20260415145703.html",
+    "docs/5. Attachments/Pasted image 20260416094430.html",
+    "docs/5. Attachments/Pasted image 20260416134844.html",
+    "docs/5. Attachments/Pasted image 20260602132048.html",
     "2. Areas/Business/Standard Operating Document/Tujuan Strategis - Strategic Objective.md",
-    "docs/Second-Brain.html",
+    "docs/2. Areas/Business/Standard Operating Document/Tujuan Strategis - Strategic Objective.html",
     "2. Areas/Business/Standard Operating Document/Standard Operating Document Base.base",
+    "docs/2. Areas/Business/Standard Operating Document/Standard Operating Document Base.html",
     "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
+    "docs/2. Areas/Business/Standard Operating Document/SOPs/_Index.html",
     "2. Areas/Business/Standard Operating Document/SOPs/VI.1. Coretax Pajak Keluaran (Impor XML).md",
+    "docs/2. Areas/Business/Standard Operating Document/SOPs/VI.1. Coretax Pajak Keluaran (Impor XML).html",
     "2. Areas/Business/Standard Operating Document/SOPs/V.2. Proses Rekrutmen.md",
+    "docs/2. Areas/Business/Standard Operating Document/SOPs/V.2. Proses Rekrutmen.html",
     "2. Areas/Business/Standard Operating Document/SOPs/V.3. Sistem masukan-opini (feedback).md",
     "2. Areas/Business/Standard Operating Document/SOPs/V.1. Pembelian Barang Kantor.md",
     "2. Areas/Business/Standard Operating Document/SOPs/IV.2. Pengambilan dan Penerimaan Barang supplier..md",
@@ -262,29 +271,10 @@
     "2. Areas/Business/Standard Operating Document/SOPs/I.1. Menerima Purchase Order (PO) dan Organisasi PO.md",
     "2. Areas/Business/Standard Operating Document/SOPs/I.2. Delivery Order (DO) - Pesan Barang.md",
     "2. Areas/Business/Standard Operating Document/Draft SOP - cek kondisi mobil.md",
-    "Index.base",
     "2. Areas/Business/Standard Operating Document/SOPs/I.3. Menerima nota, tagihan, dan Surat Jalan..md",
     "2. Areas/Business/Standard Operating Document/SOPs/I.5. Menanyakan Harga ke Supplier baru-lama.md",
     "2. Areas/Business/Standard Operating Document/SOPs/II.2. Mencari Harga Repeat (Harga yang sudah pernah dibeli)..md",
     "2. Areas/Business/Standard Operating Document/SOPs/II.1. Meminta Penawaran Harga (PH).md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.3. Membuat Surat Jalan..md",
-    "docs/site-lib/search-index.json",
-    "docs/site-lib/metadata.json",
-    "docs/site-lib/styles/snippets.css",
-    "docs/5.-attachments/whatsapp-image-2026-06-10-at-2.24.29-pm-2.jpeg",
-    "docs/5.-attachments/whatsapp-image-2026-06-10-at-2.24.29-pm-1.jpeg",
-    "docs/5.-attachments/whatsapp-image-2026-06-10-at-2.24.29-pm.jpeg",
-    "docs/5.-attachments/whatsapp-image-2026-06-04-at-11.14.39-am.jpeg",
-    "docs/5.-attachments/pasted-image-20260610092315.png",
-    "docs/5.-attachments/pasted-image-20260609104222.png",
-    "docs/5.-attachments/pasted-image-20260603101804.png",
-    "docs/5.-attachments/pasted-image-20260603101804.html",
-    "docs/5.-attachments/whatsapp-image-2026-06-04-at-11.14.39-am.html",
-    "docs/5.-attachments/pasted-image-20260609104222.html",
-    "docs/5.-attachments/pasted-image-20260610092315.html",
-    "5. Attachments/Pasted image 20260610092313.png",
-    "Untitled.canvas",
-    "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 2.jpeg",
-    "5. Attachments/WhatsApp Image 2026-06-10 at 2.24.29 PM 1.jpeg"
+    "Untitled.canvas"
   ]
 }
