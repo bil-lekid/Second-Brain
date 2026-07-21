@@ -4,24 +4,21 @@ tags:
   - DailyEntry
 created: "{{DATE:}}"
 ---
-## 🌅 Morning
+# {{date}}
 
----
-Mood (1-10): 
-Energy (1-10): 
+## Morning
 
----
+**Mood / Energy:**  8 well rested
+**Main Focus:**  Finish everything fast then get to business development
+**Possible Obstacle:**  
+**If–Then Plan:**  
 
-## 🌙 Evening
+## Evening
 
----
-
-### 🏆 Highlights & Wins
-
-> Apa yang berjalan baik hari ini? Sekecil apa pun.
-
----
-
-### 📖 Lessons Learned
-
-> Apa yang kamu pelajari hari ini — tentang diri sendiri, orang lain, atau dunia?
+**What Happened:**  
+**Win:**  
+**Friction:**  
+**What I Felt:**  
+**Lesson:**  
+**Next Action:**  
+**Grateful For:**  
