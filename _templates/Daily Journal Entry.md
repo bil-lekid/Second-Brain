@@ -7,34 +7,8 @@ created: "{{DATE:}}"
 ## 🌅 Morning
 
 ---
+Mood (1-10): 
 
-### ✍️ Daily Affirmation
-
-> Tulis affirmation kamu hari ini
-
-**Affirmation:**
-
----
-
-### 💭 Morning Reflection
-
-> Jawab prompt hari ini
-
-**Prompt:**
-
-**Jawaban:**
-
----
-
-### 🎯 Goals & Intentions Hari Ini
-
-> Apa yang HARUS selesai hari ini? Max 3.
-
-- [ ] 
-- [ ] 
-- [ ] 
-
-**Satu hal terpenting hari ini:**
 
 ---
 
