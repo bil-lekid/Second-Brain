@@ -11,7 +11,6 @@ tags:
 - [[Standard Operating Document]]
 - [[Tujuan Strategis - Strategic Objective]]
 - [[Prinsip Kerja - General Operating Principles]]
-- [[_ERPNext SOP Review]]
 
 ## Dataview
 ```dataview
@@ -23,10 +22,6 @@ WHERE file.name != "_Index"
 SORT file.name ASC
 ```
 
-Catatan:
-- Beberapa SOP di Notion berisi gambar dengan link sementara (expiring). Di export ini, link gambar dibiarkan apa adanya.
-- Beberapa SOP masih kosong (blank) di Notion; file-nya tetap dibuat supaya kelihatan ada slot SOP tersebut.
-- Password/kredensial yang ketemu di SOP aku **redact** dan aku kasih catatan untuk simpan di password manager.
 
 ## Purchasing
 - [[I.1. Menerima Purchase Order (PO) dan Organisasi PO]]
