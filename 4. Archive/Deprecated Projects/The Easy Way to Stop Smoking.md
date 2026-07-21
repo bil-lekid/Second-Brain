@@ -3,9 +3,9 @@ tags:
   - Archive
   - Books
   - SelfImprovement
-status: completed
+status: archived
 archived: 2026-05-22
-reason: "Sudah tidak butuh lagi"
+reason: Sudah tidak butuh lagi
 ---
 
 ## Context

@@ -7,8 +7,6 @@ tags:
 
 # Prinsip Kerja / General Operating Principles
 
-Source (Notion): https://www.notion.so/296796f898d7819098b7fcec34b117ff
-
 1. Keputusan perusahaan harus sesuai dengan Tujuan Strategis, Prinsip Operasional, dan dokumen SOP.
 2. Kita adalah General Supplier yang selalu mengutamakan kebutuhan dan kepuasan pelanggan. Kita melakukan apa pun untuk memastikan kualitas layanan kepada klien, karyawan, dan vendor kita sempurna. Milikilah mentalitas bekerja seperti kita adalah perusahaan besar.
 3. Kasih saya hasil, kasih saya bukti, jangan cari alasan. Kemampuan untuk "menyelesaikan pekerjaan dengan cepat dan akurat tanpa alasan atau komplikasi" adalah sifat paling berharga yang dapat dimiliki staf.“ Shinta Liu
