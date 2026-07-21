@@ -8,7 +8,7 @@ created: "{{DATE:}}"
 
 ---
 Mood (1-10): 
-
+Energy (1-10): 
 
 ---
 
