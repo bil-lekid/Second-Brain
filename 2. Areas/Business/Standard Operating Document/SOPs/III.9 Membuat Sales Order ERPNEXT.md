@@ -5,6 +5,7 @@ tags:
   - SOP
   - Admin
 Divisi: III. Admin
+status: inbox
 ---
 
 # III. 9 Membuat Sales Order ERPNEXT
@@ -53,3 +54,4 @@ Divisi: III. Admin
 4. Saat PO customer resmi datang, admin update nomor PO customer di ERPNext dan arsip.
 
 
+- [ ] Revisi lagi ini soalnya ga jadi pake erpnext🔼 
