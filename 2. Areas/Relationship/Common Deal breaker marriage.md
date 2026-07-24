@@ -309,4 +309,4 @@ After answering, discuss:
 
 ## Next
 - [x] Pindahin ke relationship folder and tambah tags ✅ 2026-07-16
-- [ ] coba bahas sama Shekina lagi, gua udah tandain yang udah 🔼
+- [x] coba bahas sama Shekina lagi, gua udah tandain yang udah 🔼 ✅ 2026-07-24
