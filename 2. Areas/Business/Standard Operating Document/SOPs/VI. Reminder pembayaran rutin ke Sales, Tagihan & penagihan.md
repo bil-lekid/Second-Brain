@@ -19,7 +19,15 @@ Divisi: VI. Finance
 - per customer ada term of payment defaultnya
 - buat view tagihan yang belum dibayar yang bisa group by customer, group by bulan bayarnya, bisa kasih filter filter juga berdasarkan itu
 - kasih filter contoh sudah lewat lebih dari 3 hari, atau lebih dari seminggu, itu jadi warning levelnya.
-
+# Customer dan TOP:
+- Meiloon = 1 bulan
+- Daijo Nur = 2 bulan
+- Daijo Dian = 3 bulan
+- Silo & SFP = 1 Bulan?
+- Maxxis = 1 Bulan?
+- Karya = 1 Bulan?
+- PGS
+- Sino = 1 Bulan?
 ## Next
 - [ ] Buat sistem term of payment dan auto reminder high ⏫ 
 - [ ] tulis SOP finance reminder penagihan ke Sales
