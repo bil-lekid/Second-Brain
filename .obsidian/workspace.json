@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bd051774e12f830",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Areas/Business/Standard Operating Document/SOPs/VI. Reminder pembayaran rutin ke Sales, Tagihan & penagihan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VI. Reminder pembayaran rutin ke Sales, Tagihan & penagihan"
-            }
-          },
-          {
             "id": "421778e5514febbb",
             "type": "leaf",
             "state": {
@@ -29,9 +15,9 @@
               "state": {
                 "file": "Proses Bisnis PPP.canvas",
                 "viewState": {
-                  "x": -98.48000450841917,
-                  "y": 1222.9181495283615,
-                  "zoom": -0.9124981897817716
+                  "x": -45.5,
+                  "y": 540,
+                  "zoom": -1.019417453827241
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -50,26 +36,6 @@
               },
               "icon": "lucide-file",
               "title": "Tasks dashboard"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f0878bd9826268aa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dfa919fff7b02c0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily_notes/2026/07/2026-07-24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-24"
             }
           }
         ]
@@ -252,12 +218,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "dfa919fff7b02c0c",
+  "active": "421778e5514febbb",
   "lastOpenFiles": [
-    "_daily_notes/2026/07/2026-07-24.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/VI. Reminder pembayaran rutin ke Sales, Tagihan & penagihan.md",
-    "Proses Bisnis PPP.canvas",
     "Tasks dashboard.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/III.1. Membuat Penawaran Harga (PH)..md",
+    "Proses Bisnis PPP.canvas",
+    "2. Areas/Business/Standard Operating Document/SOPs/VI. Reminder pembayaran rutin ke Sales, Tagihan & penagihan.md",
+    "_daily_notes/2026/07/2026-07-24.md",
     "_daily_journal/2026/07/2026-07-20.md",
     "Tasks.md",
     "2. Areas/Business/Standard Operating Document/SOPs/III.9 Membuat Sales Order ERPNEXT.md",
@@ -280,7 +247,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/II.4. Customer Relation Manager (CRM).md",
     "_daily_notes/2026/07/2026-07-09.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "2. Areas/Business/Standard Operating Document/Standard Operating Document Base.base",
