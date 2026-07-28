@@ -40,7 +40,11 @@
 			"id":"ee18b1707b2b639e",
 			"type":"text",
 			"text":"Apakah customer mengirimkan PO?",
-			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"styleAttributes":{
+				"shape":"diamond",
+				"textAlign":"center",
+				"border":null
+			},
 			"x":-120,
 			"y":1320,
 			"width":150,
@@ -102,10 +106,10 @@
 			"type":"text",
 			"text":"Sales Order / PO Customer",
 			"styleAttributes":{"shape":"document"},
-			"x":-420,
+			"x":-133,
 			"y":2080,
-			"width":260,
-			"height":60
+			"width":174,
+			"height":120
 		}
 	],
 	"edges":[
