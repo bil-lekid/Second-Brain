@@ -1,16 +1,187 @@
 {
 	"nodes":[
 		{"id":"d7dfb9b18d2ecca7","type":"file","file":"2. Areas/Business/Standard Operating Document/SOPs/II.1. Meminta Penawaran Harga (PH).md","x":-245,"y":-140,"width":400,"height":400},
-		{"id":"4105823aa6bb6051","type":"text","text":"Purchasing memberikan harga?","x":-171,"y":350,"width":250,"height":60},
-		{"id":"ca1bf5a0a7ec5718","type":"text","text":"Sales Kirim penawaran ke Customer","x":-170,"y":1160,"width":250,"height":60},
-		{"id":"9443bac0f7514846","type":"text","text":"Sales hitung harga jual, syarat pembayaran, data diserahkan ke admin","x":-171,"y":500,"width":250,"height":80},
-		{"id":"4ae8ee512c9cd2d3","type":"file","file":"2. Areas/Business/Standard Operating Document/SOPs/III.1. Membuat Penawaran Harga (PH)..md","x":-246,"y":670,"width":400,"height":400}
+		{
+			"id":"ca1bf5a0a7ec5718",
+			"type":"text",
+			"text":"Sales Kirim penawaran ke Customer",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-170,
+			"y":1160,
+			"width":250,
+			"height":60
+		},
+		{"id":"4ae8ee512c9cd2d3","type":"file","file":"2. Areas/Business/Standard Operating Document/SOPs/III.1. Membuat Penawaran Harga (PH)..md","x":-246,"y":699,"width":400,"height":400},
+		{
+			"id":"4105823aa6bb6051",
+			"type":"text",
+			"text":"Purchasing memberikan harga?",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":-130,
+			"y":323,
+			"width":171,
+			"height":130
+		},
+		{
+			"id":"9443bac0f7514846",
+			"type":"text",
+			"text":"Sales hitung harga jual, syarat pembayaran, data diserahkan ke admin",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"document",
+				"border":null
+			},
+			"x":-170,
+			"y":516,
+			"width":250,
+			"height":120
+		},
+		{
+			"id":"ee18b1707b2b639e",
+			"type":"text",
+			"text":"Apakah customer mengirimkan PO?",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":-120,
+			"y":1320,
+			"width":150,
+			"height":160
+		},
+		{
+			"id":"d421d9b524379081",
+			"type":"text",
+			"text":"Follow up ke customer",
+			"styleAttributes":{},
+			"x":-400,
+			"y":1370,
+			"width":154,
+			"height":60
+		},
+		{"id":"e0121a784232474e","type":"file","file":"2. Areas/Business/Standard Operating Document/SOPs/III.9 Membuat Sales Order ERPNEXT.md","x":-240,"y":1620,"width":400,"height":400},
+		{
+			"id":"c20e79a349baf9b3",
+			"type":"text",
+			"text":"Customer jadi order?",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":-620,
+			"y":1340,
+			"width":120,
+			"height":120
+		},
+		{
+			"id":"690f48735001851a",
+			"type":"text",
+			"text":"Close Quotation",
+			"styleAttributes":{},
+			"x":-980,
+			"y":1370,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"2eb34667b2fd7173",
+			"type":"text",
+			"text":"Sales check harga apabila sesuai dengan quotation",
+			"styleAttributes":{},
+			"x":-680,
+			"y":1800,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8b09e2307668add4",
+			"type":"text",
+			"text":"Purchasing terima PO Customer ",
+			"styleAttributes":{},
+			"x":-420,
+			"y":2280,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"200d37ba3932b46f",
+			"type":"text",
+			"text":"Sales Order / PO Customer",
+			"styleAttributes":{"shape":"document"},
+			"x":-420,
+			"y":2080,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[
 		{"id":"166384bf9a12d0bf","fromNode":"d7dfb9b18d2ecca7","fromSide":"bottom","toNode":"4105823aa6bb6051","toSide":"top"},
-		{"id":"4e282a957e958c3b","fromNode":"4105823aa6bb6051","fromSide":"left","toNode":"d7dfb9b18d2ecca7","toSide":"left","label":"Belum\n= \nFollow up"},
 		{"id":"021b343939091f14","fromNode":"4ae8ee512c9cd2d3","fromSide":"bottom","toNode":"ca1bf5a0a7ec5718","toSide":"top"},
 		{"id":"4764f43c76101268","fromNode":"4105823aa6bb6051","fromSide":"bottom","toNode":"9443bac0f7514846","toSide":"top","label":"Sudah"},
-		{"id":"5be5de7e4ffb9a7f","fromNode":"9443bac0f7514846","fromSide":"bottom","toNode":"4ae8ee512c9cd2d3","toSide":"top"}
-	]
+		{"id":"5be5de7e4ffb9a7f","fromNode":"9443bac0f7514846","fromSide":"bottom","toNode":"4ae8ee512c9cd2d3","toSide":"top"},
+		{
+			"id":"bcfc8b400923bf79",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"4105823aa6bb6051",
+			"fromSide":"left",
+			"toNode":"d7dfb9b18d2ecca7",
+			"toSide":"left",
+			"label":"Belum\n=\nFollow Up"
+		},
+		{
+			"id":"cbe8dd3f5923e245",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ca1bf5a0a7ec5718",
+			"fromSide":"bottom",
+			"toNode":"ee18b1707b2b639e",
+			"toSide":"top"
+		},
+		{
+			"id":"38248d6b704e2a4a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ee18b1707b2b639e",
+			"fromSide":"left",
+			"toNode":"d421d9b524379081",
+			"toSide":"right"
+		},
+		{
+			"id":"29107d392565cde8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ee18b1707b2b639e",
+			"fromSide":"bottom",
+			"toNode":"e0121a784232474e",
+			"toSide":"top"
+		},
+		{
+			"id":"f10b56c7a7edc00b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d421d9b524379081",
+			"fromSide":"left",
+			"toNode":"c20e79a349baf9b3",
+			"toSide":"right"
+		},
+		{
+			"id":"a3ac11e13aaee9c5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c20e79a349baf9b3",
+			"fromSide":"bottom",
+			"toNode":"e0121a784232474e",
+			"toSide":"left"
+		},
+		{
+			"id":"c38c184f42c9bb4e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c20e79a349baf9b3",
+			"fromSide":"left",
+			"toNode":"690f48735001851a",
+			"toSide":"right"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"c6daba2e72ac5503"
+	}
 }

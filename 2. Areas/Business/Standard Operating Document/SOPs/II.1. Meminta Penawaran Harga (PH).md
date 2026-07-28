@@ -13,4 +13,5 @@ Divisi: II. Sales
 5. Admin kirim PH ke  *Manajer* tanda tangan PH.
 6. *Manajer* kirim PH ke *sales*.* Sales* mengirim PH ke *customer*.
 
-
+Capture:
+- [ ] 🔼 Harusnya Sales yang hitung dengan target margin, manager terima data manager approve
