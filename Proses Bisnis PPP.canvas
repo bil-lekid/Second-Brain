@@ -82,16 +82,6 @@
 			"height":60
 		},
 		{
-			"id":"2eb34667b2fd7173",
-			"type":"text",
-			"text":"Sales check harga apabila sesuai dengan quotation",
-			"styleAttributes":{},
-			"x":-680,
-			"y":1800,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"8b09e2307668add4",
 			"type":"text",
 			"text":"Purchasing terima PO Customer ",
@@ -110,6 +100,16 @@
 			"y":2080,
 			"width":174,
 			"height":120
+		},
+		{
+			"id":"2eb34667b2fd7173",
+			"type":"text",
+			"text":"Sales check harga apabila sesuai dengan quotation",
+			"styleAttributes":{},
+			"x":-880,
+			"y":2050,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -119,7 +119,7 @@
 		{"id":"5be5de7e4ffb9a7f","fromNode":"9443bac0f7514846","fromSide":"bottom","toNode":"4ae8ee512c9cd2d3","toSide":"top"},
 		{
 			"id":"bcfc8b400923bf79",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"4105823aa6bb6051",
@@ -166,8 +166,9 @@
 		},
 		{
 			"id":"a3ac11e13aaee9c5",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"c20e79a349baf9b3",
 			"fromSide":"bottom",
 			"toNode":"e0121a784232474e",
