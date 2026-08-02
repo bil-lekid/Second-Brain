@@ -25,18 +25,6 @@
             }
           },
           {
-            "id": "b06abbfea6e460f8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
-            }
-          },
-          {
             "id": "8368b5f16e6f8955",
             "type": "leaf",
             "state": {
@@ -231,7 +219,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b06abbfea6e460f8",
+  "active": "8368b5f16e6f8955",
   "lastOpenFiles": [
     "Tasks dashboard.md",
     "2. Areas/Business/Standard Operating Document/SOPs/III.1. Membuat Penawaran Harga (PH)..md",
