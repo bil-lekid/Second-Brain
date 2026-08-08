@@ -111,3 +111,17 @@ Wǒ yě biàn de gèng yǒu xìnxīn le.
     B：她说得太快，我**简直听不懂。**  
     _Tā shuō de tài kuài, wǒ jiǎnzhí tīng bù dǒng._  
     Dia bicara terlalu cepat, saya benar-benar tidak mengerti.
+### （1）
+
+顺序：**B → A → C → D**
+
+在中国呆了一年多了，语言慢慢不再成为生活中的问题。**同时我还交了很多好朋友，他们对我非常关心，让我时时感到像在家一样的温暖。**
+
+**Pinyin：**  
+Zài Zhōngguó dāi le yì nián duō le, yǔyán mànmàn bú zài chéngwéi shēnghuó zhōng de wèntí. Tóngshí wǒ hái jiāo le hěn duō hǎo péngyou, tāmen duì wǒ fēicháng guānxīn, ràng wǒ shíshí gǎndào xiàng zài jiā yíyàng de wēnnuǎn.
+
+### （2）
+
+顺序：**C → B → A → E → D**
+
+结婚是人类养育后代的一种合法的形式。**男女双方只有结了婚，才可以合理地去养育他们的后代。一个人生活也太孤单，没有依靠，如果出了问题，也没有人来帮助和安慰你。不结婚只同居方便是方便，但总让人感觉到双方都不愿意负责任。因此，我认为自己应该结婚。**
