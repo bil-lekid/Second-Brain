@@ -14,21 +14,15 @@
               "type": "pdf",
               "state": {
                 "file": "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
-                "page": 55,
-                "left": -6,
-                "top": 415,
-                "zoom": 1.1
+                "page": 63,
+                "left": -31,
+                "top": 553,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li"
             }
-          }
-        ]
-      },
-      {
-        "id": "e3847e554031a12b",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "421778e5514febbb",
             "type": "leaf",
@@ -45,9 +39,15 @@
               "icon": "lucide-layout-dashboard",
               "title": "Proses Bisnis PPP"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "883bb24158e1c443",
+        "type": "tabs",
+        "children": [
           {
-            "id": "ab36ec7601d2d308",
+            "id": "1402116465ff3bd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,8 +60,7 @@
               "title": "Untitled 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,16 +240,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ab36ec7601d2d308",
+  "active": "8368b5f16e6f8955",
   "lastOpenFiles": [
-    "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
     "Untitled 1.md",
+    "Proses Bisnis PPP.canvas",
     "Untitled.md",
+    "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
     "Tasks dashboard.md",
     "3. Resources/Books",
     "3. Resources/New folder",
     "2. Areas/Business/Standard Operating Document/SOPs/III.1. Membuat Penawaran Harga (PH)..md",
-    "Proses Bisnis PPP.canvas",
     "2. Areas/Business/Standard Operating Document/SOPs/VI. Reminder pembayaran rutin ke Sales, Tagihan & penagihan.md",
     "_daily_notes/2026/07/2026-07-24.md",
     "_daily_journal/2026/07/2026-07-20.md",
