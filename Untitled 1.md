@@ -61,3 +61,28 @@ Wǒ yě biàn de gèng yǒu xìnxīn le.
 12. **经历** — jīnglì
 13. **信心** — xìnxīn
 14. **付出** — fùchū
+
+- 说实话，能不能实现自己的理想，我**一点儿信心也没有**。  
+    _Shuō shíhuà, néng bu néng shíxiàn zìjǐ de lǐxiǎng, wǒ yìdiǎnr xìnxīn yě méiyǒu._  
+    Sejujurnya, apakah saya bisa mewujudkan cita-cita saya, saya sama sekali tidak yakin.
+- 来中国以前，我**一点儿汉语也不会说**。  
+    _Lái Zhōngguó yǐqián, wǒ yìdiǎnr Hànyǔ yě bú huì shuō._  
+    Sebelum datang ke Tiongkok, saya sama sekali tidak bisa berbicara bahasa Mandarin.
+- 这件衣服贵是贵了点儿，**不过质量很好**。  
+    _Zhè jiàn yīfu guì shì guì le diǎnr, búguò zhìliàng hěn hǎo._  
+    Baju ini memang agak mahal, tetapi kualitasnya bagus.
+- 这一课的课文虽然有点儿长，**不过很有意思**。  
+    _Zhè yí kè de kèwén suīrán yǒudiǎnr cháng, búguò hěn yǒu yìsi._  
+    Teks pelajaran ini memang agak panjang, tetapi sangat menarik.
+- 这幅画画得太好了，画上的鱼**简直像真的一样**。  
+    _Zhè fú huà huà de tài hǎo le, huà shàng de yú jiǎnzhí xiàng zhēn de yíyàng._  
+    Lukisan ini sangat bagus, ikan di dalamnya benar-benar terlihat seperti asli.
+- 你呀，**简直太粗心了**。  
+    _Nǐ ya, jiǎnzhí tài cūxīn le._  
+    Kamu ini benar-benar terlalu ceroboh.
+- 我又累又困，**看书看着看着就睡着了**。  
+    _Wǒ yòu lèi yòu kùn, kàn shū kànzhe kànzhe jiù shuìzháo le._  
+    Saya lelah dan mengantuk, lalu tertidur ketika sedang membaca buku.
+- 你能帮助我**当然很好**，不过我还是想自己把它干成。  
+    _Nǐ néng bāngzhù wǒ dāngrán hěn hǎo, búguò wǒ háishi xiǎng zìjǐ bǎ tā gànchéng._ 
+    Tentu bagus kalau kamu bisa membantu saya, tetapi saya tetap ingin menyelesaikannya sendiri.
