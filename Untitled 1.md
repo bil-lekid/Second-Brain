@@ -86,3 +86,28 @@ Wǒ yě biàn de gèng yǒu xìnxīn le.
 - 你能帮助我**当然很好**，不过我还是想自己把它干成。  
     _Nǐ néng bāngzhù wǒ dāngrán hěn hǎo, búguò wǒ háishi xiǎng zìjǐ bǎ tā gànchéng._ 
     Tentu bagus kalau kamu bisa membantu saya, tetapi saya tetap ingin menyelesaikannya sendiri.
+
+- A：汉语最难学的不是语法，是词语的用法。  
+    B：当然，**不过只要多练习，就会越来越好。**  
+    _Dāngrán, búguò zhǐyào duō liànxí, jiù huì yuèláiyuè hǎo._  
+    Tentu, tapi kalau sering latihan, akan semakin baik.
+- A：要是大家都去，你去不去？  
+    B：**当然去。**  
+    _Dāngrán qù._  
+    Tentu pergi.
+- A：这种颜色的你喜欢吗？  
+    B：**一点儿也不喜欢。**  
+    _Yìdiǎnr yě bù xǐhuan._  
+    Saya sama sekali tidak suka.
+- A：昨天晚上我做了一个梦。  
+    B：**你梦见什么了？**  
+    _Nǐ mèngjiàn shénme le?_  
+    Kamu bermimpi tentang apa?
+- A：喝杯酒吧。  
+    B：谢谢！不过，我**从不喝酒。**  
+    _Xièxie! Búguò, wǒ cóng bù hējiǔ._  
+    Terima kasih! Tapi saya tidak pernah minum alkohol.
+- A：刚才广播里说什么？  
+    B：她说得太快，我**简直听不懂。**  
+    _Tā shuō de tài kuài, wǒ jiǎnzhí tīng bù dǒng._  
+    Dia bicara terlalu cepat, saya benar-benar tidak mengerti.
