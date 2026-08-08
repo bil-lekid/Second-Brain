@@ -47,17 +47,17 @@ Zhèxiē jīnglì ràng wǒ míngbai, zhǐyào nǔlì, jiù huì yǒu jìnbù.
 我也变得更有信心了。  
 Wǒ yě biàn de gèng yǒu xìnxīn le.
 
-- **理想** — lǐxiǎng
-- **赞成** — zànchéng
-- **著名** — zhùmíng
-- **心事** — xīnshì
-- **当然** — dāngrán
-- **不过** — búguò
-- **简直** — jiǎnzhí
-- **分别** — fēnbié
-- **意义** — yìyì
-- **酸甜苦辣** — suān tián kǔ là
-- **失败** — shībài
-- **经历** — jīnglì
-- **信心** — xìnxīn
-- **付出** — fùchū
+1. **理想** — lǐxiǎng
+2. **赞成** — zànchéng
+3. **著名** — zhùmíng
+4. **心事** — xīnshì
+5. **当然** — dāngrán 
+6. **不过** — búguò
+7. **简直** — jiǎnzhí
+8. **分别** — fēnbié
+9. **意义** — yìyì
+10. **酸甜苦辣** — suān tián kǔ là
+11. **失败** — shībài
+12. **经历** — jīnglì
+13. **信心** — xìnxīn
+14. **付出** — fùchū
