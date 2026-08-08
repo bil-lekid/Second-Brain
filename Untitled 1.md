@@ -125,3 +125,29 @@ Zài Zhōngguó dāi le yì nián duō le, yǔyán mànmàn bú zài chéngwéi 
 顺序：**C → B → A → E → D**
 
 结婚是人类养育后代的一种合法的形式。**男女双方只有结了婚，才可以合理地去养育他们的后代。一个人生活也太孤单，没有依靠，如果出了问题，也没有人来帮助和安慰你。不结婚只同居方便是方便，但总让人感觉到双方都不愿意负责任。因此，我认为自己应该结婚。**
+
+- ❌ 听了她的话，我心里很热乎乎。  
+    ✅ **听了她的话，我心里热乎乎的。**  
+    _Tīng le tā de huà, wǒ xīnli rèhūhū de._  
+    Setelah mendengar perkataannya, hati saya terasa hangat.
+- ❌ 这是很当然的事，各国人都会这样。  
+    ✅ **这是当然的事，各国人都会这样。**  
+    _Zhè shì dāngrán de shì, gè guó rén dōu huì zhèyàng._  
+    Ini adalah hal yang wajar/tentu saja, orang dari berbagai negara juga seperti ini.  
+    → **当然** tidak perlu memakai **很**.
+- ❌ 我昨天晚上做了一个梦，梦了我的朋友。  
+    ✅ **我昨天晚上做了一个梦，梦见了我的朋友。**  
+    _Wǒ zuótiān wǎnshang zuò le yí ge mèng, mèngjiàn le wǒ de péngyou._  
+    Tadi malam saya bermimpi dan melihat teman saya dalam mimpi.
+- ❌ 我分别朋友的时候，心里很难过。  
+    ✅ **我和朋友分别的时候，心里很难过。**  
+    _Wǒ hé péngyou fēnbié de shíhou, xīnli hěn nánguò._  
+    Saat berpisah dengan teman, saya merasa sangat sedih.
+- ❌ 我不愿意太给你麻烦。  
+    ✅ **我不愿意给你添太多麻烦。**  
+    _Wǒ bú yuànyì gěi nǐ tiān tài duō máfan._  
+    Saya tidak ingin terlalu merepotkanmu.
+- ❌ 他用照相机把我吃饭的样子拍照了下来。  
+    ✅ **他用照相机把我吃饭的样子拍了下来。**  
+    _Tā yòng zhàoxiàngjī bǎ wǒ chīfàn de yàngzi pāi le xiàlái._  
+    Dia menggunakan kamera untuk memotret saya saat sedang makan.
