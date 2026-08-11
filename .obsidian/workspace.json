@@ -13,7 +13,9 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf"
+                "file": "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li"
@@ -55,8 +57,21 @@
               "icon": "lucide-file",
               "title": "Untitled 1"
             }
+          },
+          {
+            "id": "e500c4d7476740ef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,7 +251,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1402116465ff3bd7",
+  "active": "e500c4d7476740ef",
   "lastOpenFiles": [
     "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
     "Untitled 1.md",
