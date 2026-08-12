@@ -11,17 +11,14 @@
             "id": "421778e5514febbb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Proses Bisnis PPP.canvas",
-                "viewState": {
-                  "x": -328.0723224948581,
-                  "y": 1712.630657279883,
-                  "zoom": -1.2793958726344388
-                }
+                "file": "_daily_notes/2026/08/2026-08-12.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Proses Bisnis PPP"
+              "icon": "lucide-file",
+              "title": "2026-08-12"
             }
           }
         ]
@@ -44,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -81,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3b274ef5931c18c1",
@@ -206,9 +204,12 @@
   },
   "active": "421778e5514febbb",
   "lastOpenFiles": [
+    "Proses Bisnis PPP.canvas",
+    "_daily_notes/2026/08/2026-08-12.md",
+    "_daily_notes/2026/08",
+    "_templates/Daily Templates.md",
     "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
     "Untitled 1.md",
-    "Proses Bisnis PPP.canvas",
     "Untitled.md",
     "Tasks dashboard.md",
     "3. Resources/Books",
@@ -233,15 +234,12 @@
     "4. Archive/Deprecated Projects/The Easy Way to Stop Smoking.md",
     "_daily_notes/2026/06/2026-06-10.md",
     "readme.md",
-    "_daily_notes/2026/04/2026-04-14.md",
-    "4. Archive/PARA Starter Kit/Personal Knowledge Management/PARA Notes.md",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "2. Areas/Business/Standard Operating Document/Standard Operating Document Base.base",
     "docs/index.html",
     "docs/site-lib/styles/theme.css",
     "docs/site-lib/styles/snippets.css",
-    "docs/site-lib/styles/obsidian.css",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
     "docs/site-lib/media/6155340132a851f6089e.svg",
