@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8368b5f16e6f8955",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
-                "page": 65,
-                "left": -32,
-                "top": 370,
-                "zoom": 0.47511034820990683
-              },
-              "icon": "lucide-file-text",
-              "title": "杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li"
-            }
-          },
-          {
             "id": "421778e5514febbb",
             "type": "leaf",
             "state": {
@@ -31,8 +15,8 @@
               "state": {
                 "file": "Proses Bisnis PPP.canvas",
                 "viewState": {
-                  "x": -179.0801618963962,
-                  "y": 2033.1895482644538,
+                  "x": -328.0723224948581,
+                  "y": 1712.630657279883,
                   "zoom": -1.2793958726344388
                 }
               },
@@ -41,39 +25,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "883bb24158e1c443",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1402116465ff3bd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "e500c4d7476740ef",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.6"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,7 +204,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e500c4d7476740ef",
+  "active": "421778e5514febbb",
   "lastOpenFiles": [
     "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
     "Untitled 1.md",
