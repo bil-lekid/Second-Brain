@@ -9,7 +9,7 @@
 		{"id":"title-to-discuss","type":"text","text":"## To Discuss","x":1290,"y":0,"width":390,"height":50},
 		{"id":"query-to-discuss","type":"text","text":"```tasks\nnot done\ntag include #discuss\nhide tags\nshort mode\n```","x":1290,"y":60,"width":390,"height":500,"color":"2"},
 		{"id":"title-clarify","type":"text","text":"## Clarify","x":1720,"y":0,"width":390,"height":50},
-		{"id":"query-clarify","type":"text","text":"```tasks\nnot done\ntag include #clarify\nhide tags\nshort mode\n```","x":1720,"y":80,"width":390,"height":500,"color":"1"},
+		{"id":"query-clarify","type":"text","text":"```tasks\nnot done\ntag include #clarify\nhide tags\nshort mode\n```","x":1720,"y":60,"width":390,"height":500,"color":"1"},
 		{"id":"title-this-month","type":"text","text":"## This Month","x":0,"y":610,"width":390,"height":50},
 		{"id":"query-this-month","type":"text","text":"```tasks\nnot done\n(has due date) OR (has scheduled date)\n((due after this week) AND (due in or before next 4 weeks)) OR ((scheduled after this week) AND (scheduled in or before next 4 weeks))\nsort by due\nshort mode\n```","x":0,"y":670,"width":390,"height":500,"color":"#4C6FFF"},
 		{"id":"title-scheduled","type":"text","text":"## Scheduled","x":430,"y":610,"width":390,"height":50},
