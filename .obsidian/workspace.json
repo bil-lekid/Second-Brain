@@ -35,7 +35,8 @@
               "title": "Tasks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,10 +218,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "120a4de0131be3f8",
+  "active": "78fd68e93d31e710",
   "lastOpenFiles": [
-    "Tasks.md",
     "_daily_notes/2026/08/2026-08-13.md",
+    "Tasks.md",
     "_daily_notes/2026/08/2026-08-12.md",
     "_daily_notes/2026/07/2026-07-24.md",
     "_templates/Daily Templates.md",
