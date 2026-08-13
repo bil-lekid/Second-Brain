@@ -54,4 +54,4 @@ status: inbox
 4. Saat PO customer resmi datang, admin update nomor PO customer di ERPNext dan arsip.
 
 
-- [ ] Revisi lagi ini soalnya ga jadi pake erpnext🔼 
+- [ ] Revisi lagi ini soalnya ga jadi pake erpnext #backburner 🔼

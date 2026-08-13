@@ -14,4 +14,4 @@ Divisi: II. Sales
 6. *Manajer* kirim PH ke *sales*.* Sales* mengirim PH ke *customer*.
 
 Capture:
-- [ ] 🔼 Harusnya Sales yang hitung dengan target margin, manager terima data manager approve
+- [ ] 🔼 Harusnya Sales yang hitung dengan target margin, manager terima data manager approve #Clarify

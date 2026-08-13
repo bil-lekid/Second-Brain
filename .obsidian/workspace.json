@@ -22,21 +22,23 @@
             }
           },
           {
-            "id": "78fd68e93d31e710",
+            "id": "87f3aafb33d62836",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Tasks.md",
-                "mode": "source",
-                "source": false
+                "file": "Task Dashboard.canvas",
+                "viewState": {
+                  "x": 1055,
+                  "y": 585,
+                  "zoom": -0.8451404526505574
+                }
               },
-              "icon": "lucide-file",
-              "title": "Tasks"
+              "icon": "lucide-layout-dashboard",
+              "title": "Task Dashboard"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,23 +220,24 @@
       "random-note:Open random note": false
     }
   },
-  "active": "78fd68e93d31e710",
+  "active": "120a4de0131be3f8",
   "lastOpenFiles": [
-    "_daily_notes/2026/08/2026-08-13.md",
+    "Task Dashboard.canvas",
     "Tasks.md",
-    "_daily_notes/2026/08/2026-08-12.md",
+    "Tasks dashboard.md",
+    "_daily_notes/2026/08/2026-08-13.md",
     "_daily_notes/2026/07/2026-07-24.md",
+    "2. Areas/Business/Standard Operating Document/SOPs/VI. Reminder pembayaran rutin ke Sales, Tagihan & penagihan.md",
+    "_daily_notes/2026/08/2026-08-12.md",
     "_templates/Daily Templates.md",
     "Proses Bisnis PPP.canvas",
     "_daily_notes/2026/08",
     "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
     "Untitled 1.md",
     "Untitled.md",
-    "Tasks dashboard.md",
     "3. Resources/Books",
     "3. Resources/New folder",
     "2. Areas/Business/Standard Operating Document/SOPs/III.1. Membuat Penawaran Harga (PH)..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/VI. Reminder pembayaran rutin ke Sales, Tagihan & penagihan.md",
     "_daily_journal/2026/07/2026-07-20.md",
     "2. Areas/Business/Standard Operating Document/SOPs/III.9 Membuat Sales Order ERPNEXT.md",
     "0. Fleeting/0. Fleeting.md",
@@ -250,7 +253,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
     "4. Archive/Deprecated Projects/The Easy Way to Stop Smoking.md",
     "_daily_notes/2026/06/2026-06-10.md",
-    "readme.md",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "2. Areas/Business/Standard Operating Document/Standard Operating Document Base.base",

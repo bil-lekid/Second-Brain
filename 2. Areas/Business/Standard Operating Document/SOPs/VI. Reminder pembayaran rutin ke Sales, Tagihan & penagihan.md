@@ -29,5 +29,5 @@ Divisi: VI. Finance
 - PGS
 - Sino = 1 Bulan?
 ## Next
-- [ ] Buat sistem term of payment dan auto reminder high ⏫ 
-- [ ] tulis SOP finance reminder penagihan ke Sales
+- [ ] Buat sistem term of payment dan auto reminder high #Clarify ⏫
+- [ ] tulis SOP finance reminder penagihan ke Sales #Clarify
