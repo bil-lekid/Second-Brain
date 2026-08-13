@@ -30,7 +30,7 @@
                 "file": "Task Dashboard.canvas",
                 "viewState": {
                   "x": 1055,
-                  "y": 585,
+                  "y": 610.0603328173376,
                   "zoom": -0.8451404526505574
                 }
               },
@@ -38,7 +38,8 @@
               "title": "Task Dashboard"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,12 +221,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "120a4de0131be3f8",
+  "active": "87f3aafb33d62836",
   "lastOpenFiles": [
+    "2. Areas/Business/Passwords for Company.md",
     "Task Dashboard.canvas",
+    "_daily_notes/2026/08/2026-08-13.md",
     "Tasks.md",
     "Tasks dashboard.md",
-    "_daily_notes/2026/08/2026-08-13.md",
     "_daily_notes/2026/07/2026-07-24.md",
     "2. Areas/Business/Standard Operating Document/SOPs/VI. Reminder pembayaran rutin ke Sales, Tagihan & penagihan.md",
     "_daily_notes/2026/08/2026-08-12.md",
