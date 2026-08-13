@@ -25,21 +25,30 @@
             "id": "87f3aafb33d62836",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Task Dashboard.canvas",
-                "viewState": {
-                  "x": 1055,
-                  "y": 610.0603328173376,
-                  "zoom": -0.8451404526505574
-                }
+                "file": "_daily_notes/2026/08/2026-08-13.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Task Dashboard"
+              "icon": "lucide-file",
+              "title": "2026-08-13"
+            }
+          },
+          {
+            "id": "6eb1660de86f6e5c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,12 +230,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "87f3aafb33d62836",
+  "active": "6eb1660de86f6e5c",
   "lastOpenFiles": [
+    "_daily_notes/2026/08/2026-08-13.md",
     "_daily_notes/2026/08/2026-08-12.md",
     "Task Dashboard.canvas",
     "2. Areas/Business/Passwords for Company.md",
-    "_daily_notes/2026/08/2026-08-13.md",
     "Tasks.md",
     "Tasks dashboard.md",
     "_daily_notes/2026/07/2026-07-24.md",
