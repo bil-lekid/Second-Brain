@@ -38,8 +38,7 @@
               "title": "Task Dashboard"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,11 +220,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "74a9573bda46d5c8",
+  "active": "87f3aafb33d62836",
   "lastOpenFiles": [
+    "Task Dashboard.canvas",
     "START HERE.md",
     "_daily_journal/SOP - Daily Journal Practice.md",
-    "Task Dashboard.canvas",
     "_daily_notes/2026/08/2026-08-14.md",
     "Tasks.md",
     "_daily_notes/2026/08/2026-08-13.md",
@@ -254,7 +253,6 @@
     "2. Areas/Business/Data Perusahaan.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/II.2. Mencari Harga Repeat (Harga yang sudah pernah dibeli)..md",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "2. Areas/Business/Standard Operating Document/Standard Operating Document Base.base",
