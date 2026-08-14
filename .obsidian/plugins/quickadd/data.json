@@ -42,8 +42,8 @@
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
         "enabled": true,
-        "createWithTemplate": false,
-        "template": ""
+        "createWithTemplate": true,
+        "template": "_templates/Daily Templates.md"
       },
       "format": {
         "enabled": true,
