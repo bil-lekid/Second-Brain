@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_notes/2026/08/2026-08-12.md",
+                "file": "_daily_notes/2026/08/2026-08-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-12"
+              "title": "2026-08-14"
             }
           },
           {
@@ -38,8 +38,7 @@
               "title": "Task Dashboard"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,12 +220,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "74a9573bda46d5c8",
+  "active": "87f3aafb33d62836",
   "lastOpenFiles": [
+    "Task Dashboard.canvas",
+    "_daily_notes/2026/08/2026-08-14.md",
     "_daily_notes/2026/08/2026-08-12.md",
     "_daily_notes/2026/08/2026-08-13.md",
-    "_daily_notes/2026/08/2026-08-14.md",
-    "Task Dashboard.canvas",
     "START HERE.md",
     "_daily_journal/SOP - Daily Journal Practice.md",
     "Tasks.md",
