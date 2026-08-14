@@ -25,14 +25,17 @@
             "id": "74a9573bda46d5c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "START HERE.md",
-                "mode": "source",
-                "source": false
+                "file": "Task Dashboard.canvas",
+                "viewState": {
+                  "x": 1055,
+                  "y": 585,
+                  "zoom": -0.8451404526505574
+                }
               },
-              "icon": "lucide-file",
-              "title": "START HERE"
+              "icon": "lucide-layout-dashboard",
+              "title": "Task Dashboard"
             }
           }
         ],
@@ -220,6 +223,7 @@
   },
   "active": "74a9573bda46d5c8",
   "lastOpenFiles": [
+    "START HERE.md",
     "_daily_journal/SOP - Daily Journal Practice.md",
     "Task Dashboard.canvas",
     "_daily_notes/2026/08/2026-08-14.md",
@@ -251,7 +255,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
     "2. Areas/Business/Standard Operating Document/SOPs/II.2. Mencari Harga Repeat (Harga yang sudah pernah dibeli)..md",
-    "2. Areas/Business/Standard Operating Document/SOPs/_Index.md",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "2. Areas/Business/Standard Operating Document/Standard Operating Document Base.base",
