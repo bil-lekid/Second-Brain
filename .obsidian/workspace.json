@@ -29,9 +29,9 @@
               "state": {
                 "file": "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
                 "page": 69,
-                "left": 9,
-                "top": 75,
-                "zoom": 1.1
+                "left": -32,
+                "top": 158,
+                "zoom": 0.47511034820990683
               },
               "icon": "lucide-file-text",
               "title": "杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li"
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 5 Halaman 68.md",
+                "file": "_daily_notes/2026/08/2026-08-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 5 Halaman 68"
+              "title": "2026-08-16"
             }
           }
         ]
@@ -243,8 +243,9 @@
   },
   "active": "bab80052d5371066",
   "lastOpenFiles": [
-    "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
     "Chapter 5 Halaman 68.md",
+    "_daily_notes/2026/08/2026-08-16.md",
+    "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
     "_daily_notes/2026/08/2026-08-15.md",
     "Task Dashboard.canvas",
     "_daily_notes/2026/08/2026-08-14.md",
