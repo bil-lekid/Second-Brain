@@ -4,43 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ee9cf0d9d75b3448",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "74a9573bda46d5c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily_notes/2026/08/2026-08-15.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-15"
-            }
-          },
-          {
-            "id": "c01257b2898e84ab",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
-                "page": 69,
-                "left": -32,
-                "top": 158,
-                "zoom": 0.47511034820990683
-              },
-              "icon": "lucide-file-text",
-              "title": "杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "f0a6939d7015e253",
         "type": "tabs",
         "children": [
@@ -92,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tabe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3b274ef5931c18c1",
@@ -243,8 +205,8 @@
   },
   "active": "bab80052d5371066",
   "lastOpenFiles": [
-    "_daily_notes/2026/08/2026-08-17.md",
     "_daily_notes/2026/08/2026-08-18.md",
+    "_daily_notes/2026/08/2026-08-17.md",
     "_daily_notes/2026/08/2026-08-16.md",
     "Chapter 5 Halaman 68.md",
     "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
