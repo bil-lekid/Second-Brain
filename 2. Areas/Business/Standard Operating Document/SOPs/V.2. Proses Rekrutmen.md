@@ -29,15 +29,9 @@ Divisi: V. Human Resource
 
 
 # Contoh Pertanyaan Interview
-- **Ceritakan pengalaman ketika Anda harus mengerjakan tugas yang sulit, rutin, atau tidak terlalu Anda sukai. Bagaimana Anda menyelesaikannya?**  
-    _Menilai semangat kerja, kemauan kerja, disiplin, dan attitude._
-- **Kalau Anda diberikan SOP atau sistem kerja yang berbeda dengan cara yang biasa Anda lakukan, bagaimana Anda menyikapinya?**  
-    _Menilai kemampuan mengikuti sistem dan menerima arahan._
-- **Ceritakan sesuatu yang pernah Anda pelajari dari nol. Bagaimana cara Anda mempelajarinya sampai bisa?**  
-    _Menilai kemampuan belajar, komunikasi, dan cara berpikir._
-- **Ceritakan pengalaman ketika Anda harus bekerja dengan rekan yang berbeda pendapat atau berbeda cara kerja dengan Anda. Apa yang Anda lakukan?**  
-    _Menilai interpersonal skill, teamwork, dan sopan santun._
-- **Kalau Anda mendapat instruksi yang kurang jelas atau Anda belum mengerti, apa yang akan Anda lakukan?**  
-    _Menilai fokus, kemampuan komunikasi, inisiatif, dan kemauan belajar._
-- **Ceritakan pengalaman atau skill yang menurut Anda paling relevan dengan posisi ini, dan kenapa kami sebaiknya memilih Anda?**  
-    _Menilai pengalaman, skill, kemampuan verbal, dan percaya diri._
+- **“Coba ceritain pengalaman kerja atau kegiatan terakhir kamu. Biasanya kamu pegang apa dan bagian mana yang paling kamu suka atau paling menantang?”**
+    → Kelihatan cara komunikasi, pengalaman, semangat kerja, dan percaya dirinya.
+- **“Kalau kamu dikasih tugas atau sistem kerja yang belum pernah kamu kerjain sebelumnya, biasanya kamu ngapain sampai bisa?”**  
+    → Kelihatan kemauan belajar, kemampuan mengikuti sistem, fokus, dan inisiatif.
+- **“Pernah nggak kerja bareng orang yang cara kerjanya beda sama kamu, atau ada masalah di tim? Waktu itu kamu handle gimana?”**  
+    → Kelihatan interpersonal skill, teamwork, attitude, dan cara menyelesaikan masalah.
