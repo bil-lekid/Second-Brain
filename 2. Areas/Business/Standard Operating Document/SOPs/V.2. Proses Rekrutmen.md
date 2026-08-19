@@ -9,11 +9,6 @@ Divisi: V. Human Resource
 
 # V.2. Proses Rekrutmen
 
-Source (Notion): https://www.notion.so/29d796f898d78042ad25c66a760cc94c
-Department: HR  
-Status: Draft  
-Last Updated: 2025-07-25
-
 1. Calon karyawan melamar.
 2. Cek CV dari calon karyawan,.
 3. HR mengarahkan ke psikotes dan test IQ.
@@ -33,3 +28,16 @@ Last Updated: 2025-07-25
 7. Apabila lolos. Minta tes kesehatan dan SKCK. Cek riwayat kesehatan terutama narkoba, dan riwayat kriminal.
 
 
+# Contoh Pertanyaan Interview
+- **Ceritakan pengalaman ketika Anda harus mengerjakan tugas yang sulit, rutin, atau tidak terlalu Anda sukai. Bagaimana Anda menyelesaikannya?**  
+    _Menilai semangat kerja, kemauan kerja, disiplin, dan attitude._
+- **Kalau Anda diberikan SOP atau sistem kerja yang berbeda dengan cara yang biasa Anda lakukan, bagaimana Anda menyikapinya?**  
+    _Menilai kemampuan mengikuti sistem dan menerima arahan._
+- **Ceritakan sesuatu yang pernah Anda pelajari dari nol. Bagaimana cara Anda mempelajarinya sampai bisa?**  
+    _Menilai kemampuan belajar, komunikasi, dan cara berpikir._
+- **Ceritakan pengalaman ketika Anda harus bekerja dengan rekan yang berbeda pendapat atau berbeda cara kerja dengan Anda. Apa yang Anda lakukan?**  
+    _Menilai interpersonal skill, teamwork, dan sopan santun._
+- **Kalau Anda mendapat instruksi yang kurang jelas atau Anda belum mengerti, apa yang akan Anda lakukan?**  
+    _Menilai fokus, kemampuan komunikasi, inisiatif, dan kemauan belajar._
+- **Ceritakan pengalaman atau skill yang menurut Anda paling relevan dengan posisi ini, dan kenapa kami sebaiknya memilih Anda?**  
+    _Menilai pengalaman, skill, kemampuan verbal, dan percaya diri._
