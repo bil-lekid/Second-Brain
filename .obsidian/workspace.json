@@ -34,9 +34,26 @@
               "icon": "lucide-file",
               "title": "2026-08-21"
             }
+          },
+          {
+            "id": "442a9ed8342d8e98",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Task Dashboard.canvas",
+                "viewState": {
+                  "x": 1055,
+                  "y": 619.0584146341464,
+                  "zoom": -0.8023193321603057
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Task Dashboard"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,8 +236,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c74cc75326ae093d",
+  "active": "442a9ed8342d8e98",
   "lastOpenFiles": [
+    "_daily_notes/2026/08/2026-08-12.md",
+    "Task Dashboard.canvas",
     "_daily_notes/2026/08/2026-08-21.md",
     "_daily_notes/2026/08/2026-08-20.md",
     "_daily_notes/2026/08/2026-08-19.md",
@@ -232,9 +251,7 @@
     "Chapter 5 Halaman 68.md",
     "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
     "_daily_notes/2026/08/2026-08-15.md",
-    "Task Dashboard.canvas",
     "_daily_notes/2026/08/2026-08-14.md",
-    "_daily_notes/2026/08/2026-08-12.md",
     "_daily_notes/2026/08/2026-08-13.md",
     "START HERE.md",
     "_daily_journal/SOP - Daily Journal Practice.md",
@@ -252,7 +269,6 @@
     "2. Areas/Business/Standard Operating Document/SOPs/III.1. Membuat Penawaran Harga (PH)..md",
     "_daily_journal/2026/07/2026-07-20.md",
     "2. Areas/Business/Standard Operating Document/SOPs/III.9 Membuat Sales Order ERPNEXT.md",
-    "0. Fleeting/0. Fleeting.md",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "2. Areas/Business/Standard Operating Document/Standard Operating Document Base.base",
