@@ -25,17 +25,14 @@
             "id": "c74cc75326ae093d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Task Dashboard.canvas",
-                "viewState": {
-                  "x": 1055,
-                  "y": 585,
-                  "zoom": -0.8023193321603057
-                }
+                "file": "_daily_notes/2026/08/2026-08-21.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Task Dashboard"
+              "icon": "lucide-file",
+              "title": "2026-08-21"
             }
           }
         ],
