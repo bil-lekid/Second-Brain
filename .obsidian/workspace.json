@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d696f272513d6175",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily_notes/2026/08/2026-08-21.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-21"
-            }
-          },
-          {
-            "id": "c74cc75326ae093d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily_notes/2026/08/2026-08-21.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-21"
-            }
-          },
-          {
             "id": "442a9ed8342d8e98",
             "type": "leaf",
             "state": {
@@ -48,9 +20,45 @@
               "icon": "lucide-file",
               "title": "2026-08-22"
             }
+          },
+          {
+            "id": "03a7be324e760edd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_daily_notes/2026/08/2026-08-23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-23"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "24e168c899c87e14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a4f3d25bb3d15d8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
+                "page": 79,
+                "left": -17,
+                "top": 11,
+                "zoom": 0.9103727317312408
+              },
+              "icon": "lucide-file-text",
+              "title": "杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,13 +113,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3b274ef5931c18c1",
@@ -233,10 +239,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "442a9ed8342d8e98",
+  "active": "03a7be324e760edd",
   "lastOpenFiles": [
-    "_daily_notes/2026/08/2026-08-21.md",
+    "0. Fleeting/Chapter 5 Halaman 68.md",
+    "_daily_notes/2026/08/2026-08-23.md",
+    "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
+    "0. Fleeting/Chapter 4.md",
     "_daily_notes/2026/08/2026-08-22.md",
+    "_daily_notes/2026/08/2026-08-21.md",
     "_daily_notes/2026/08/2026-08-12.md",
     "Task Dashboard.canvas",
     "_daily_notes/2026/08/2026-08-20.md",
@@ -246,8 +256,6 @@
     "_daily_notes/2026/08/2026-08-18.md",
     "_daily_notes/2026/08/2026-08-17.md",
     "_daily_notes/2026/08/2026-08-16.md",
-    "Chapter 5 Halaman 68.md",
-    "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
     "_daily_notes/2026/08/2026-08-15.md",
     "_daily_notes/2026/08/2026-08-14.md",
     "_daily_notes/2026/08/2026-08-13.md",
@@ -261,12 +269,10 @@
     "_templates/Daily Templates.md",
     "Proses Bisnis PPP.canvas",
     "_daily_notes/2026/08",
-    "Untitled 1.md",
     "3. Resources/Books",
     "3. Resources/New folder",
     "2. Areas/Business/Standard Operating Document/SOPs/III.1. Membuat Penawaran Harga (PH)..md",
     "_daily_journal/2026/07/2026-07-20.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/III.9 Membuat Sales Order ERPNEXT.md",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "2. Areas/Business/Standard Operating Document/Standard Operating Document Base.base",
