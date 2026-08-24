@@ -50,9 +50,9 @@
               "state": {
                 "file": "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
                 "page": 79,
-                "left": -17,
-                "top": 11,
-                "zoom": 0.9103727317312408
+                "left": -14,
+                "top": 12,
+                "zoom": 1.0636341343795979
               },
               "icon": "lucide-file-text",
               "title": "杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li"
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b274ef5931c18c1",
