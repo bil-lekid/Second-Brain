@@ -34,9 +34,26 @@
               "icon": "lucide-file",
               "title": "2026-08-26"
             }
+          },
+          {
+            "id": "4617673d8c5b1cdc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Task Dashboard.canvas",
+                "viewState": {
+                  "x": 1055,
+                  "y": 610.9492682926829,
+                  "zoom": -0.8023193321603057
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Task Dashboard"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,19 +235,19 @@
       "random-note:Open random note": false
     }
   },
-  "active": "03a7be324e760edd",
+  "active": "4617673d8c5b1cdc",
   "lastOpenFiles": [
-    "_daily_notes/2026/08/2026-08-25.md",
+    "_daily_notes/2026/08/2026-08-21.md",
     "_daily_notes/2026/08/2026-08-26.md",
+    "Task Dashboard.canvas",
+    "_daily_notes/2026/08/2026-08-25.md",
     "_daily_notes/2026/08/2026-08-24.md",
     "_daily_notes/2026/08/2026-08-23.md",
     "0. Fleeting/Chapter 5 Halaman 68.md",
     "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
     "0. Fleeting/Chapter 4.md",
     "_daily_notes/2026/08/2026-08-22.md",
-    "_daily_notes/2026/08/2026-08-21.md",
     "_daily_notes/2026/08/2026-08-12.md",
-    "Task Dashboard.canvas",
     "_daily_notes/2026/08/2026-08-20.md",
     "_daily_notes/2026/08/2026-08-19.md",
     "2. Areas/Business/Standard Operating Document/SOPs/V.2. Proses Rekrutmen.md",
@@ -247,7 +264,6 @@
     "2. Areas/Business/Passwords for Company.md",
     "Tasks dashboard.md",
     "_daily_notes/2026/07/2026-07-24.md",
-    "2. Areas/Business/Standard Operating Document/SOPs/VI. Reminder pembayaran rutin ke Sales, Tagihan & penagihan.md",
     "Proses Bisnis PPP.canvas",
     "_daily_notes/2026/08",
     "3. Resources/Books",
