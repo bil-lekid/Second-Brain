@@ -25,17 +25,14 @@
             "id": "6d3474adda500d74",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Task Dashboard.canvas",
-                "viewState": {
-                  "x": 1055,
-                  "y": 585,
-                  "zoom": -0.8023193321603057
-                }
+                "file": "_daily_notes/2026/08/2026-08-27.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Task Dashboard"
+              "icon": "lucide-file",
+              "title": "2026-08-27"
             }
           }
         ],
@@ -223,9 +220,10 @@
   },
   "active": "6d3474adda500d74",
   "lastOpenFiles": [
+    "Task Dashboard.canvas",
+    "_daily_notes/2026/08/2026-08-27.md",
     "_daily_notes/2026/08/2026-08-26.md",
     "_daily_notes/2026/08/2026-08-21.md",
-    "Task Dashboard.canvas",
     "_daily_notes/2026/08/2026-08-25.md",
     "_daily_notes/2026/08/2026-08-24.md",
     "_daily_notes/2026/08/2026-08-23.md",
@@ -249,7 +247,6 @@
     "Tasks.md",
     "2. Areas/Business/Passwords for Company.md",
     "Tasks dashboard.md",
-    "_daily_notes/2026/07/2026-07-24.md",
     "Proses Bisnis PPP.canvas",
     "_daily_notes/2026/08",
     "3. Resources/Books",
