@@ -25,17 +25,14 @@
             "id": "62dd931a7c7b07ab",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Task Dashboard.canvas",
-                "viewState": {
-                  "x": 642.0199226657081,
-                  "y": 669.4537666004913,
-                  "zoom": -0.8770747908853124
-                }
+                "file": "_daily_notes/2026/08/2026-08-27.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Task Dashboard"
+              "icon": "lucide-file",
+              "title": "2026-08-27"
             }
           }
         ],
@@ -224,8 +221,8 @@
   },
   "active": "62dd931a7c7b07ab",
   "lastOpenFiles": [
-    "_daily_notes/2026/08/2026-08-28.md",
     "Task Dashboard.canvas",
+    "_daily_notes/2026/08/2026-08-28.md",
     "_daily_notes/2026/08/2026-08-27.md",
     "5. Attachments/WhatsApp Image 2026-08-27 at 11.44.59 AM (1) 1.jpeg",
     "5. Attachments/WhatsApp Image 2026-08-27 at 11.44.59 AM (1).jpeg",
