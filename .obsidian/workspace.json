@@ -11,16 +11,14 @@
             "id": "4cb7c84f7354935c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
-                "page": 84,
-                "left": -15,
-                "top": 97,
-                "zoom": 1.002329573320255
+                "file": "_daily_notes/2026/08/2026-08-30.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li"
+              "icon": "lucide-file",
+              "title": "2026-08-30"
             }
           },
           {
@@ -222,8 +220,9 @@
   },
   "active": "4cb7c84f7354935c",
   "lastOpenFiles": [
-    "第六课.md",
     "3. Resources/Books/杨寄洲 (Jizhou Yang) - (Hanyu Jiaocheng) 汉语教程：第三册-上 3 (2007, 北京语言大学出版社 (Beijing Language and Culture University Press)) - libgen.li.pdf",
+    "_daily_notes/2026/08/2026-08-30.md",
+    "第六课.md",
     "_daily_notes/2026/08/2026-08-27.md",
     "_daily_notes/2026/08/2026-08-29.md",
     "Task Dashboard.canvas",
@@ -253,7 +252,6 @@
     "_daily_notes/2026/08/2026-08-14.md",
     "_daily_notes/2026/08/2026-08-13.md",
     "START HERE.md",
-    "_daily_journal/SOP - Daily Journal Practice.md",
     "Proses Bisnis PPP.canvas",
     "_daily_notes/2026/08",
     "3. Resources/Books",
