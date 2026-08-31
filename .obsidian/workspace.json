@@ -29,9 +29,9 @@
               "state": {
                 "file": "Task Dashboard.canvas",
                 "viewState": {
-                  "x": 1055,
-                  "y": 585,
-                  "zoom": -1.717006434073302
+                  "x": 614.0935954685135,
+                  "y": 645.2586995735971,
+                  "zoom": -0.8835454537039035
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -39,7 +39,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -223,8 +222,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d8ddeee95a20b749",
+  "active": "4cb7c84f7354935c",
   "lastOpenFiles": [
+    "Task Dashboard.canvas",
     "_daily_notes/2026/08/2026-08-31.md",
     "2. Areas/Business/Standard Operating Document/SOPs/VI. Reminder pembayaran rutin ke Sales, Tagihan & penagihan.md",
     "_daily_notes/2026/08/2026-08-30.md",
@@ -232,7 +232,6 @@
     "第六课.md",
     "_daily_notes/2026/08/2026-08-27.md",
     "_daily_notes/2026/08/2026-08-29.md",
-    "Task Dashboard.canvas",
     "_daily_notes/2026/08/2026-08-28.md",
     "5. Attachments/WhatsApp Image 2026-08-28 at 11.24.10 AM.jpeg",
     "5. Attachments/WhatsApp Image 2026-08-27 at 11.44.59 AM (1) 1.jpeg",
@@ -257,7 +256,6 @@
     "_daily_notes/2026/08/2026-08-16.md",
     "_daily_notes/2026/08/2026-08-15.md",
     "_daily_notes/2026/08/2026-08-14.md",
-    "_daily_notes/2026/08/2026-08-13.md",
     "Proses Bisnis PPP.canvas",
     "_daily_notes/2026/08",
     "3. Resources/Books",
