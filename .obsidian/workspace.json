@@ -21,7 +21,7 @@
                     "file": "Task Dashboard.canvas",
                     "viewState": {
                       "x": 1055,
-                      "y": 339.2466159695822,
+                      "y": 585,
                       "zoom": -1.2908773489283993
                     }
                   },
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "grease nlgi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3b274ef5931c18c1",
@@ -240,6 +239,7 @@
   "active": "4cb7c84f7354935c",
   "lastOpenFiles": [
     "Task Dashboard.canvas",
+    "_daily_notes/2026/08/2026-08-26.md",
     "_daily_notes/2026/09/2026-09-01.md",
     "_daily_notes/2026/08/2026-08-31.md",
     "_daily_notes/2026/09",
@@ -256,7 +256,6 @@
     "5. Attachments/WhatsApp Image 2026-08-27 at 11.44.59 AM 1.jpeg",
     "5. Attachments/WhatsApp Image 2026-08-27 at 11.44.59 AM.jpeg",
     "0. Fleeting/Chapter 4.md",
-    "_daily_notes/2026/08/2026-08-26.md",
     "_daily_notes/2026/08/2026-08-21.md",
     "_daily_notes/2026/08/2026-08-25.md",
     "_daily_notes/2026/08/2026-08-24.md",
