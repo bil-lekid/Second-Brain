@@ -16,17 +16,14 @@
                 "id": "d8ddeee95a20b749",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "Task Dashboard.canvas",
-                    "viewState": {
-                      "x": 775.1271820268457,
-                      "y": 285.31373693502843,
-                      "zoom": -0.4084058406772096
-                    }
+                    "file": "_daily_notes/2026/09/2026-09-01.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Task Dashboard"
+                  "icon": "lucide-file",
+                  "title": "2026-09-01"
                 }
               }
             ]
@@ -236,10 +233,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4cb7c84f7354935c",
+  "active": "d8ddeee95a20b749",
   "lastOpenFiles": [
-    "Task Dashboard.canvas",
     "_daily_notes/2026/09/2026-09-01.md",
+    "Task Dashboard.canvas",
     "_daily_notes/2026/08/2026-08-26.md",
     "_daily_notes/2026/08/2026-08-31.md",
     "_daily_notes/2026/09",
