@@ -143,15 +143,16 @@ Kas Rp7 juta sebaiknya diperlakukan sebagai **Kas Kecil/Petty Cash**:
 
 Contoh:
 
-| Keterangan         | Nilai       |
-| ------------------ | ----------- |
-| Kas diberikan      | Rp7.000.000 |
-| Total nota         | Rp4.350.000 |
-| Seharusnya tersisa | Rp2.650.000 |
-| Uang fisik         | Rp2.650.000 |
-| Selisih            | Rp0         |
+| Keterangan         | Nilai       |     |
+| ------------------ | ----------- | --- |
+| Kas diberikan      | Rp7.000.000 |     |
+| Total nota         | Rp4.350.000 |     |
+| Seharusnya tersisa | Rp2.650.000 |     |
+| Uang fisik         | Rp2.650.000 |     |
+| Selisih            | Rp0         |     |
+|                    |             |     |
 
-Nota tidak perlu direkap ulang manual. Tinggal upload foto, masukkan nominal, dan pilih kategorinya. 
+Nota tidak perlu direkap ulang manual. Tinggal upload foto, masukkan nominal, dan pilih kategorinya.  *kayaknya proses kalau foto notanya ribet dan lama gak sih jatohnya? gua mikirnya ya notanya ditulis angka kode gitu keyID trus kalau mau cari ya cari fisiknya tapi ribet juga kayanya. enaknya gimana ya?*
 
 ### Pembelian transfer
 
