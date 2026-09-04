@@ -55,7 +55,7 @@ Lebih aman:
 
 Tambahkan label sederhana seperti **“Ada revisi belum diselesaikan”** pada dashboard. Ini sudah cukup tanpa workflow approval yang kompleks. *Ini sudah oke, nanti coba bikin workflow dan UXnya yang bagus ya*
 
-## 2. Supplier dan dokumen supplier
+## 2. Supplier dan dokumen supplier *ini boleh dibuat modulnya dulu dan formulirnya generate, kalau mereka belum isi berarti diremind lagi otomatis atau dikasih filter status*
 
 Modul supplier sekarang terlalu sederhana. Supplier sebaiknya mempunyai profil:
 
@@ -99,7 +99,7 @@ Price list dari supplier sebaiknya disimpan dengan:
 
 Untuk tahap awal, cukup simpan katalog dan price list sebagai file. Belum perlu langsung membuat sistem perbandingan harga supplier yang rumit.
 
-## 3. Cash flow yang simpel
+## 3. Cash flow yang simpel *kayanya ini hold dulu deh jangan ada perubahan*
 
 Menurut saya jangan langsung membuat sistem akuntansi lengkap. Buat satu modul bernama **Kas & Bank** yang mencatat uang masuk dan keluar secara nyata.
 
@@ -240,7 +240,7 @@ Saya menyarankan dua jenis margin:
 - **Estimasi margin:** dari harga/modal saat SO dibuat.
 - **Margin aktual:** dari nota supplier yang benar-benar masuk.
 
-*ok lah gw tetep tau ini normal dan *
+
 ## 5. Otomatisasi laporan
 
 Dengan struktur di atas, laporan berikut bisa otomatis:
