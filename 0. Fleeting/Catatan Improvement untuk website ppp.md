@@ -330,8 +330,5 @@ Untuk jumlah penggunamu, saya juga tidak akan membuat permission kompleks. Cukup
 UI untuk finance sebaiknya sangat sederhana: halaman awal berisi tombol besar **Uang Masuk**, **Uang Keluar**, **Bayar Tagihan**, **Kas Kecil**, dan **Laporan**.
 
 Asumsi desain saya: mayoritas pembelian dilakukan untuk memenuhi SO tertentu, bukan untuk menyimpan stok besar. Kalau asumsi ini benar, kita belum perlu modul inventory/gudang—cukup kaitkan nota dan biaya langsung ke SO.
-## Capture
-1. Cek sama admin ada masalah apa gak ya di programnya 
-   
-2. 
+
 ## Next
