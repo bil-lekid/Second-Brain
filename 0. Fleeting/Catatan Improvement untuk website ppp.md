@@ -331,5 +331,7 @@ UI untuk finance sebaiknya sangat sederhana: halaman awal berisi tombol besar **
 
 Asumsi desain saya: mayoritas pembelian dilakukan untuk memenuhi SO tertentu, bukan untuk menyimpan stok besar. Kalau asumsi ini benar, kita belum perlu modul inventory/gudang—cukup kaitkan nota dan biaya langsung ke SO.
 ## Capture
-
+1. Cek sama admin ada masalah apa gak ya di programnya 
+   
+2. 
 ## Next
