@@ -240,6 +240,7 @@ Saya menyarankan dua jenis margin:
 - **Estimasi margin:** dari harga/modal saat SO dibuat.
 - **Margin aktual:** dari nota supplier yang benar-benar masuk.
 
+*ok lah gw tetep tau ini normal dan *
 ## 5. Otomatisasi laporan
 
 Dengan struktur di atas, laporan berikut bisa otomatis:
